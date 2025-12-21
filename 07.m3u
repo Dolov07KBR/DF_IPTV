@@ -1002,9 +1002,33 @@ http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBm5Ty31DWag905g8GDpN1y8/m3u8
 
 
 
-#EXTINF:-1 group-title="Разное 24/7" tvg-logo="https://static.goodgame.ru/files/avatars/av_1676704_9wc1.jpg" ,Moviee Toper
+#EXTINF:-1 group-title="Разное 24/7" tvg-logo="https://static.goodgame.ru/files/avatars/av_1676704_9wc1.jpg" ,LV
 #EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/214749.m3u8
+https://v2.catcast.tv/content/46233/index.m3u8
+#EXTINF:-1 group-title="Разное 24/7" tvg-logo="https://static.goodgame.ru/files/avatars/av_1676704_9wc1.jpg" ,IPTVPLAY
+#EXTVLCOPT:http-user-agent=SmartTV
+https://s.catcast.tv/content/38801/index.m3u8?token=1e8def00a02c51545f302b6503fadf4a
+#EXTINF:-1 group-title="Разное 24/7" tvg-logo="https://static.goodgame.ru/files/avatars/av_1676704_9wc1.jpg" ,18+
+#EXTVLCOPT:http-user-agent=SmartTV
+https://v2.catcast.tv/content/37358/index.m3u8
+
+#EXTINF:-1 group-title="Разное 24/7" tvg-logo="https://static.goodgame.ru/files/avatars/av_1676704_9wc1.jpg" ,Фантастика hd
+#EXTVLCOPT:http-user-agent=SmartTV
+https://s.catcast.tv/content/39533/index.m3u8?token=6232d238d2fdc5907a4648b0d3658c75
+
+#EXTINF:-1 group-title="Разное 24/7" tvg-logo="https://static.goodgame.ru/files/avatars/av_1676704_9wc1.jpg" ,Кино hd
+#EXTVLCOPT:http-user-agent=SmartTV
+https://v2.catcast.tv/content/40304/index.m3u8
+#EXTINF:-1 group-title="Разное 24/7" tvg-logo="https://static.goodgame.ru/files/avatars/av_1676704_9wc1.jpg" ,F1
+#EXTVLCOPT:http-user-agent=SmartTV
+https://v2.catcast.tv/content/37485/index.m3u8
+#EXTINF:-1 group-title="Разное 24/7" tvg-logo="https://static.goodgame.ru/files/avatars/av_1676704_9wc1.jpg" ,F2
+#EXTVLCOPT:http-user-agent=SmartTV
+https://v2.catcast.tv/content/34474/index.m3u8
+
+#EXTINF:-1 group-title="Разное 24/7" tvg-logo="https://static.goodgame.ru/files/avatars/av_1676704_9wc1.jpg" ,F3
+#EXTVLCOPT:http-user-agent=SmartTV
+https://cityeden.catcast.tv/content/45268/index.m3u8
 #EXTINF:-1 group-title="Good Game Not 24/7" tvg-logo="https://static.goodgame.ru/files/avatars/av_1651532_atYl.jpg" ,Kino Jam
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/210182.m3u8
