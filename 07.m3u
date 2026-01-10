@@ -464,8 +464,8 @@ http://2.57.217.85:8000/play/a08f/index.m3u8
 #EXTINF:-1 group-title="Кино",Viasat sport
 http://2.57.217.85:8000/play/a0a0/index.m3u8
 
-
-
+#EXTINF:-1 group-title="Кино", Сапфир
+https://stream18.sputnik24.tv/sapfir/index.m3u8?sig=1767990386_d8252a3ca24750c703962f415e76b074
 
 
 
