@@ -463,12 +463,222 @@ http://2.57.217.85:8000/play/a08g/index.m3u8
 http://2.57.217.85:8000/play/a08f/index.m3u8
 #EXTINF:-1 group-title="Кино",Viasat sport
 http://2.57.217.85:8000/play/a0a0/index.m3u8
-
 #EXTINF:-1 group-title="Кино", Сапфир
-https://stream18.sputnik24.tv/sapfir/index.m3u8?sig=1767990386_d8252a3ca24750c703962f415e76b074
+http://cdn-bal.srv4you.net/0486/mpegts
+#EXTINF:-1 group-title="Кино и Программы",История
+http://hls127.freeott.top:8080/Istoriya/mono.m3u8
+#EXTINF:-1 group-title="Кино и Программы",Дикий
+http://hls127.freeott.top:8080/Dikiy/mono.m3u8
+#EXTINF:-1 group-title="Кино и Программы",Наука 2.0
+http://hls127.freeott.top:8080/NAUKA/mono.m3u8
+#EXTINF:-1 group-title="Кино и Программы",RTG TV
+http://hls127.freeott.top:8080/RTG_TV/mono.m3u8
+#EXTINF:-1 group-title="Кино и Программы",Amedia 1
+http://hls127.freeott.top:8080/Amedia_1/mono.m3u8
+#EXTINF:-1 group-title="Кино и Программы",BCU Kinorating HD
+http://hls127.freeott.top:8080/BCUKinoratingHD/mono.m3u8
+#EXTINF:-1 group-title="Кино и Программы",BCU Stars HD
+http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
+#EXTINF:-1 group-title="Кино и Программы",Clarity4K Ужасы
+http://hls127.freeott.top:8080/Clarity4K_Uzhasi/mono.m3u8
+#EXTINF:-1 group-title="Кино и Программы",Clarity4K Anime
+http://hls127.freeott.top:8080/Clarity4K_Anime/mono.m3u8
+#EXTINF:-1 group-title="Кино и Программы",Clarity4K Asia
+http://hls127.freeott.top:8080/Clarity4K_Asia/mono.m3u8
+#EXTINF:-1 group-title="Кино и Программы",Clarity4k Концерт
+http://hls127.freeott.top:8080/Clarity4K_Concert/mono.m3u8
+#EXTINF:-1 group-title="Кино и Программы",Clarity4k Единоборства
+http://hls127.freeott.top:8080/Clarity4K_Edinoborstva/mono.m3u8
+#EXTINF:-1 group-title="Кино и Программы",Clarity4K Фантастика
+http://hls127.freeott.top:8080/Clarity4K_Fantastic/mono.m3u8
+#EXTINF:-1 group-title="Кино и Программы",Clarity4K Gamefilm
+http://hls127.freeott.top:8080/Clarity4K_Gamefilm/mono.m3u8
+#EXTINF:-1 group-title="Кино и Программы",Clarity4K Космомир
+http://hls127.freeott.top:8080/Clarity4K_Kosmomir/mono.m3u8
+#EXTINF:-1 group-title="Кино и Программы",Clarity4K Netflix
+http://hls127.freeott.top:8080/Clarity4K_Netflix/mono.m3u8
+#EXTINF:-1 group-title="Кино и Программы",Gags Network
+http://hls127.freeott.top:8080/Gagsnetwork/mono.m3u8
+#EXTINF:-1 group-title="Кино и Программы",НСТ
+http://hls127.freeott.top:8080/HCTV/mono.m3u8
+#EXTINF:-1 group-title="Кино и Программы",Кинопоказ HD
+http://hls127.freeott.top:8080/Kinopokaz_HD/mono.m3u8
+#EXTINF:-1 group-title="Кино и Программы",Ключ
+http://hls127.freeott.top:8080/Kluch/mono.m3u8
+#EXTINF:-1 group-title="Кино и Программы",Кухня ТВ
+http://hls127.freeott.top:8080/Kuhnya_TV/mono.m3u8
+#EXTINF:-1 group-title="Кино и Программы",Maydan
+http://hls127.freeott.top:8080/Maydan/mono.m3u8
+#EXTINF:-1 group-title="Кино и Программы",Мосфильм. Золотая коллекция
+http://hls127.freeott.top:8080/Mosfilm/mono.m3u8
+#EXTINF:-1 group-title="Кино и Программы",MyTV
+http://hls127.freeott.top:8080/MyTV/mono.m3u8
+#EXTINF:-1 group-title="Кино и Программы",Наше HD
+http://hls127.freeott.top:8080/Nashe_HD/mono.m3u8
+#EXTINF:-1 group-title="Кино и Программы",Ностальгия
+http://hls127.freeott.top:8080/Nostalgiya/mono.m3u8
+#EXTINF:-1 group-title="Кино и Программы",Про любовь
+http://hls127.freeott.top:8080/ProLubovHD/mono.m3u8
+#EXTINF:-1 group-title="Кино и Программы",РБК
+http://hls127.freeott.top:8080/RBK/mono.m3u8
+#EXTINF:-1 group-title="Кино и Программы",Союз
+http://hls127.freeott.top:8080/Souz/mono.m3u8
+#EXTINF:-1 group-title="Кино и Программы",Совершенно секретно
+http://hls127.freeott.top:8080/Sovershenno_Sekretno/mono.m3u8
+#EXTINF:-1 group-title="Кино и Программы",Спас
+http://hls127.freeott.top:8080/Spas/mono.m3u8
+#EXTINF:-1 group-title="Кино и Программы",Театр
+http://hls127.freeott.top:8080/Teatr/mono.m3u8
+#EXTINF:-1 group-title="Кино и Программы",СТС Kids
+http://hls127.freeott.top:8080/STS_Kids/mono.m3u8
+#EXTINF:-1 group-title="Кино и Программы", Da Vinci
+http://hls127.freeott.top:8080/Da_Vinci_Learning/mono.m3u8
+#EXTINF:-1 group-title="Кино и Программы",Бобёр
+http://hls127.freeott.top:8080/Bober/mono.m3u8
+#EXTINF:-1 group-title="Кино и Программы",Bolt
+http://hls127.freeott.top:8080/Bolt/mono.m3u8
+#EXTINF:-1 group-title="Кино и Программы",BRIDGE TV
+http://hls127.freeott.top:8080/BRIDGE_TV/mono.m3u8
+#EXTINF:-1 group-title="Кино и Программы",Футбол
+http://hls127.freeott.top:8080/Football/mono.m3u8
+#EXTINF:-1 group-title="Кино и Программы",Матч ТВ
+http://hls127.freeott.top:8080/MATCH_TV/mono.m3u8
 
-
-
+#EXTINF:-1 group-title="Кино и Программы 1",Первый HD
+http://cdn-bal.srv4you.net/0128/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Первый канал
+http://cdn-bal.srv4you.net/0110/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Россия 1 HD
+http://cdn-bal.srv4you.net/0129/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",ТВЦ
+http://cdn-bal.srv4you.net/0334/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Матч! ТВ HD
+http://cdn-bal.srv4you.net/0255/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Россия К
+http://cdn-bal.srv4you.net/0433/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Россия-24
+http://cdn-bal.srv4you.net/0302/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",НТВ HD
+http://cdn-bal.srv4you.net/0253/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",НТВ
+http://cdn-bal.srv4you.net/0449/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",НТВ-Мир
+http://cdn-bal.srv4you.net/0438/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",НТВ Сериал
+http://cdn-bal.srv4you.net/0347/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",НТВ Право
+http://cdn-bal.srv4you.net/0348/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",НТВ Стиль
+http://cdn-bal.srv4you.net/0349/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",НТВ ХИТ
+http://cdn-bal.srv4you.net/0328/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",РЕН ТВ
+http://cdn-bal.srv4you.net/0200/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",ТВ 3
+http://cdn-bal.srv4you.net/0336/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",ТНТ HD
+http://cdn-bal.srv4you.net/0301/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",ТНТ4
+http://cdn-bal.srv4you.net/0323/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Terra
+http://cdn-bal.srv4you.net/0329/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",365 дней ТВ
+http://cdn-bal.srv4you.net/0278/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Animal Planet HD
+http://cdn-bal.srv4you.net/0219/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Дикий
+http://cdn-bal.srv4you.net/0397/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Дикая рыбалка HD
+http://cdn-bal.srv4you.net/0326/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Дикая Охота HD
+http://cdn-bal.srv4you.net/0327/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Discovery HD
+http://cdn-bal.srv4you.net/0267/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",DocuBox HD
+http://cdn-bal.srv4you.net/0332/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Fashion TV HD
+http://cdn-bal.srv4you.net/0211/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Galaxy-TV
+http://cdn-bal.srv4you.net/0146/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",H2 HD
+http://cdn-bal.srv4you.net/0205/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Точка РФ
+http://cdn-bal.srv4you.net/0202/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",History HD
+http://cdn-bal.srv4you.net/0259/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Investigation Discovery
+http://cdn-bal.srv4you.net/0149/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Nat Geo Wild HD
+http://cdn-bal.srv4you.net/0124/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",National Geographic HD
+http://cdn-bal.srv4you.net/0203/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",RTG HD
+http://cdn-bal.srv4you.net/0125/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",TLC
+http://cdn-bal.srv4you.net/0260/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Travel Channel HD
+http://cdn-bal.srv4you.net/0261/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Travel+Adventure HD
+http://cdn-bal.srv4you.net/0208/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Viju+ Planet
+http://cdn-bal.srv4you.net/0263/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",VIASAT Explore
+http://cdn-bal.srv4you.net/0321/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Viasat History
+http://cdn-bal.srv4you.net/0242/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Viasat Nature
+http://cdn-bal.srv4you.net/0243/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Авто 24
+http://cdn-bal.srv4you.net/0315/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Авто Плюс
+http://cdn-bal.srv4you.net/0279/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",В мире животных
+http://cdn-bal.srv4you.net/0254/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Глазами туриста HD
+http://cdn-bal.srv4you.net/0252/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Диалоги о рыбалке
+http://cdn-bal.srv4you.net/0244/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Доктор
+http://cdn-bal.srv4you.net/0311/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Драйв
+http://cdn-bal.srv4you.net/0421/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Food Time HD
+http://cdn-bal.srv4you.net/0137/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Живая природа HD
+http://cdn-bal.srv4you.net/0217/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Живая планета
+http://cdn-bal.srv4you.net/0341/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Загородная жизнь
+http://cdn-bal.srv4you.net/0345/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Здоровое ТВ
+http://cdn-bal.srv4you.net/0422/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Мир Вокруг HD
+http://cdn-bal.srv4you.net/0482/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Моя планета HD
+http://cdn-bal.srv4you.net/0168/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Мужской
+http://cdn-bal.srv4you.net/0344/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",НАНО ТВ
+http://cdn-bal.srv4you.net/0481/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Наука 2.0
+http://cdn-bal.srv4you.net/0308/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Оружие
+http://cdn-bal.srv4you.net/0238/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Охотник и Рыболов HD
+http://cdn-bal.srv4you.net/0144/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Первый космический HD
+http://cdn-bal.srv4you.net/0145/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Поехали!
+http://cdn-bal.srv4you.net/0246/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Приключения HD
+http://cdn-bal.srv4you.net/0136/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Моя стихия HD
+http://cdn-bal.srv4you.net/0201/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Совершенно Секретно
+http://cdn-bal.srv4you.net/0296/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Телеканал Е HD
+http://cdn-bal.srv4you.net/0247/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Усадьба
 
 
 
@@ -908,14 +1118,12 @@ http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
 http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
 
 
+#EXTINF:-1 group-title="Разные каналы" ,LST
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/219245.m3u8
 #EXTINF:-1 group-title="Разные каналы" tvg-logo="https://static.goodgame.ru/files/avatars/av_avatar_sint.png" ,Rus Brony TV
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/156945.m3u8
-#EXTINF:-1 group-title="Разные каналы",Cinema
-http://87.76.32.36:8001/sinema
-#EXTINF:-1 group-title="Разные каналы" Кино 24
-http://62.89.220.15/streams/media/kino-24_720x576/index.m3u8
-
 #EXTINF:-1 group-title="Разные каналы" , Kinoteka
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/146065.m3u8
@@ -976,7 +1184,9 @@ http://195.9.195.3:8080/hls/201891.m3u8
 #EXTINF:-1 group-title="Разные каналы" tvg-logo="https://static.goodgame.ru/files/avatars/av_1348257_U3En.jpg",Видеокасета VHS
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/176975.m3u8
-
+#EXTINF:-1 group-title="Разные каналы",Кошмар HD
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/204709.m3u8
 #EXTINF:-1 group-title="Разные каналы",Akudji
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/5346.m3u8
@@ -998,6 +1208,9 @@ http://195.9.195.3:8080/hls/163253.m3u8
 #EXTINF:-1 group-title="Разные каналы",Selecao TV2
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/manifest/157269_master.m3u8
+#EXTINF:-1 group-title="Разные каналы",Звуки дождя 24/7
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/198378.m3u8
 #EXTINF:-1 group-title="Разные каналы" tvg-logo="https://goodgame.ru/files/avatars/av_avatar_toss.png",Futurama
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/199417.m3u8
@@ -1016,6 +1229,63 @@ http://195.9.195.3:8080/manifest/202997_master.m3u8
 #EXTINF:-1 group-title="Разные каналы",Первый автомобильный
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/206355.m3u8
+#EXTINF:-1 group-title="Разные каналы" tvg-logo="https://img.catcast.tv/uploads/16052025/banners/33418-682782266b049.png", Phoenix TV
+https://karapuztv.catcast.tv/content/33418/index.m3u8
+#EXTINF:-1 group-title="Разные каналы" tvg-logo="https://img.catcast.tv/uploads/17102025/banners/49702-68f21e2ea83d1.png", TvBoom-ViP
+https://kb.catcast.tv/content/49702/index.m3u8
+#EXTINF:-1 group-title="Разные каналы" tvg-logo="https://i.ibb.co/N6RVvPc/image-1.png",Сити Эдем - КиноДрама
+https://v2.catcast.tv/content/45269/index.m3u8
+#EXTINF:-1 group-title="Разные каналы" tvg-logo="https://i.ibb.co/qyZkQb0/image-1.png",Сити Эдем - КиноКлассика
+https://v2.catcast.tv/content/34185/index.m3u8
+#EXTINF:-1 group-title="Разные каналы" tvg-logo="https://i.ibb.co/Qdr5Cfq/image-4.png",Сити Эдем - КиноЭкшен
+https://v2.catcast.tv/content/41333/index.m3u8
+#EXTINF:-1 group-title="Разные каналы" tvg-logo="https://i.ibb.co/1rbsJZb/image-8.png",Сити Эдем - КиноМистика
+https://v2.catcast.tv/content/40783/index.m3u8
+#EXTINF:-1 group-title="Разные каналы" tvg-logo="https://i.ibb.co/Nx2CKmL/image-11.png",Сити Эдем - КиноКомедия
+https://v2.catcast.tv/content/41331/index.m3u8
+#EXTINF:-1 group-title="Разные каналы" tvg-logo="https://i.ibb.co/0cQfRRk/image-13.png",Сити Эдем - КиноДетектив
+https://v2.catcast.tv/content/41327/index.m3u8
+#EXTINF:-1 group-title="Разные каналы",Сити Эдем - КиноНовелла
+https://autopilot.catcast.tv/content/46209/index.m3u8
+#EXTINF:-1 group-title="Разные каналы" tvg-logo="https://img.catcast.tv/uploads/12052025/logos/9620-68224b947ce86.png",Malder Мегахит
+https://autopilot.catcast.tv/content/47689/index.m3u8?password=vReMA2025.2
+#EXTINF:-1 group-title="Разные каналы" tvg-logo="https://img.catcast.tv/uploads/20092024/logos/9620-66edaa66c14bf.png",Malder Ужас
+https://autopilot.catcast.tv/content/49099/index.m3u8
+#EXTINF:-1 group-title="Разные каналы" tvg-logo="https://i.ibb.co/xCBBbkm/SGN-05-14-2022-1652513200593.png",Armenius TV
+https://autopilot.catcast.tv/content/40504/index.m3u8
+#EXTINF:-1 group-title="Разные каналы" tvg-logo="https://a21network.ru/wp-content/uploads/2022/02/a21_live.jpg",A21 Network
+https://autopilot.catcast.tv/content/37909/index.m3u8
+#EXTINF:-1 group-title="Разные каналы" tvg-logo="https://img.catcast.tv/uploads/09072020/logos/38720-5f06c9ff9fbbd.png",Детское кино International
+https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 group-title="Разные каналы" tvg-logo="https://i.postimg.cc/CKWWVX9S/IMG-20240720-071620-847.jpg",Видеокасета VHS
+https://v2.catcast.tv/content/37925/index.m3u8
+#EXTINF:-1 group-title="Разные каналы" tvg-logo="https://img.catcast.tv/uploads/25062020/logos/38617-5ef3d12196e3e.png",Кино 1 International
+https://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 group-title="Разные каналы" tvg-logo="https://img.catcast.tv/uploads/25062020/logos/37745-5ef3d10ff0621.png",Музыка 1 International
+https://kino-1.catcast.tv/content/37745/index.m3u8
+#EXTINF:-1 group-title="Разные каналы" tvg-logo="https://img.catcast.tv/uploads/25062020/logos/37742-5ef3cf8ca433c.png",Музыка 2 International
+https://kino-1.catcast.tv/content/37742/index.m3u8
+#EXTINF:-1 group-title="Разные каналы" tvg-logo="https://img.catcast.tv/uploads/23012020/37739-5e2a007a3928b.png",Музыка Кино International
+https://kino-1.catcast.tv/content/37739/index.m3u8
+#EXTINF:-1 group-title="Разные каналы",RETRO 80 HD
+https://autopilot.catcast.tv/content/38204/index.m3u8
+#EXTINF:-1 group-title="Разные каналы",VIVA Russia
+http://autopilot.catcast.tv/content/39575/index.m3u8
+#EXTINF:-1 group-title="Разные каналы" tvg-logo="https://img.catcast.tv/uploads/01102023/logos/43959-65198b3e02358.jpg",musicarmsupertv
+https://v2.catcast.tv/content/43959/index.m3u8
+#EXTINF:-1 group-title="Разные каналы" tvg-logo="https://img.catcast.tv/logos/3a88436baae7495719cbc69c6f020f52.png",HGTN
+https://v2.catcast.tv/content/34251/index.m3u8
+#EXTINF:-1 group-title="Разные каналы" tvg-logo="https://catcast.tv/assets/no-logo.svg",Телеканал Андийцы
+https://v2.catcast.tv/content/34114/index.m3u8
+#EXTINF:-1 group-title="Разные каналы" tvg-logo="https://img.catcast.tv/uploads/10082022/logos/40650-62f2d2890f632.jpg",NM Television
+https://tv.a21network.ru/content/40650/index.m3u8
+#EXTINF:-1 group-title="Разные каналы" tvg-logo="https://img.catcast.tv/uploads/01092023/logos/39971-64f21c5118456.jpg",ТНОМЕР
+https://v2.catcast.tv/content/39971/index.m3u8
+#EXTINF:-1 group-title="Разные каналы" tvg-logo="https://img.catcast.tv/uploads/01102022/logos/42311-6338476f58942.png",6 канал
+https://v2.catcast.tv/content/42311/index.m3u8
+#EXTINF:-1 group-title="Разные каналы",ԼԱՅՄ GOLD TV
+https://v2.catcast.tv/content/40546/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" group-title="Кинозалы",Alpha Cinema
