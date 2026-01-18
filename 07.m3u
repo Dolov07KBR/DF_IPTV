@@ -679,7 +679,271 @@ http://cdn-bal.srv4you.net/0296/mpegts
 #EXTINF:-1 group-title="Кино и Программы 1",Телеканал Е HD
 http://cdn-bal.srv4you.net/0247/mpegts
 #EXTINF:-1 group-title="Кино и Программы 1",Усадьба
-
+#EXTINF:-1 group-title="Кино и Программы 1",Еврокино
+http://cdn-bal.srv4you.net/0275/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Дом кино
+http://cdn-bal.srv4you.net/0333/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",ТВ XXI
+http://cdn-bal.srv4you.net/0310/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",ИНДИЙСКОЕ КИНО
+http://cdn-bal.srv4you.net/0331/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Hollywood HD
+http://cdn-bal.srv4you.net/0127/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Bollywood HD
+http://cdn-bal.srv4you.net/0251/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Amedia premium HD
+http://cdn-bal.srv4you.net/0258/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Amedia Hit
+http://cdn-bal.srv4you.net/0270/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Amedia 1
+http://cdn-bal.srv4you.net/0268/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Amedia 2
+http://cdn-bal.srv4you.net/0269/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",FOX HD
+http://cdn-bal.srv4you.net/0101/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Fox Life HD
+http://cdn-bal.srv4you.net/0207/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Paramount Comedy Россия
+http://cdn-bal.srv4you.net/0220/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",.red
+http://cdn-bal.srv4you.net/0140/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",.sci-fi
+http://cdn-bal.srv4you.net/0228/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",.black
+http://cdn-bal.srv4you.net/0227/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Cinema (Космос ТВ)
+http://cdn-bal.srv4you.net/0114/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",START Air HD
+http://cdn-bal.srv4you.net/0262/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",START World HD
+http://cdn-bal.srv4you.net/0455/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Киноджем 1 HD
+http://cdn-bal.srv4you.net/0467/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Киноджем 2 HD
+http://cdn-bal.srv4you.net/0468/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",DetectiveJam
+http://cdn-bal.srv4you.net/0493/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",FamilyJam
+http://cdn-bal.srv4you.net/0494/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",КиноСат
+http://cdn-bal.srv4you.net/0425/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Киноужас
+http://cdn-bal.srv4you.net/0239/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Мосфильм. Золотая коллекция
+http://cdn-bal.srv4you.net/0429/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",НСТ
+http://cdn-bal.srv4you.net/0312/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",О!Кино
+http://cdn-bal.srv4you.net/0394/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Хит HD
+http://cdn-bal.srv4you.net/0373/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Кинеко HD
+http://cdn-bal.srv4you.net/0497/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Дорама
+http://cdn-bal.srv4you.net/0112/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Suspense HD
+http://cdn-bal.srv4you.net/rj14/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Сапфир
+http://cdn-bal.srv4you.net/0486/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Индия TV HD
+http://cdn-bal.srv4you.net/rj18/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Romance HD
+http://cdn-bal.srv4you.net/rj13/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Лавстори HD
+http://cdn-bal.srv4you.net/rj16/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",FlixSnip HD
+http://cdn-bal.srv4you.net/05E1FD/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Kinoliving HD
+http://cdn-bal.srv4you.net/EF68DC/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Scream HD
+http://cdn-bal.srv4you.net/56181A/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",SHOT TV HD
+http://cdn-bal.srv4you.net/3542AD/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Trash HD
+http://cdn-bal.srv4you.net/2C1A1B/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",VHSka HD
+http://cdn-bal.srv4you.net/A25F42/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",BCU Action HD
+http://cdn-bal.srv4you.net/0399/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",BCU Catastrophe HD
+http://cdn-bal.srv4you.net/0400/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",BCU Cinema HD
+http://cdn-bal.srv4you.net/0401/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",BCU Cinema+ HD
+http://cdn-bal.srv4you.net/0428/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",BCU Comedy HD
+http://cdn-bal.srv4you.net/0402/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",BCU Cosmo HD
+http://cdn-bal.srv4you.net/0498/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",BCU Criminal HD
+http://cdn-bal.srv4you.net/0476/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",BCU Fantastic HD
+http://cdn-bal.srv4you.net/0404/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",BCU Filmystic HD
+http://cdn-bal.srv4you.net/0432/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",BCU History HD
+http://cdn-bal.srv4you.net/0403/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",BCU Kinorating HD
+http://cdn-bal.srv4you.net/0405/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",BCU Kinozakaz HD
+http://cdn-bal.srv4you.net/0473/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",BCU Marvel HD
+http://cdn-bal.srv4you.net/0406/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",BCU Premiere HD
+http://cdn-bal.srv4you.net/0407/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",BCU Reality HD
+http://cdn-bal.srv4you.net/0472/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",BCU Ruserial HD
+http://cdn-bal.srv4you.net/0462/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",BCU Russian HD
+http://cdn-bal.srv4you.net/0409/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",BCU Stars HD
+http://cdn-bal.srv4you.net/0431/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",BCU Survival HD
+http://cdn-bal.srv4you.net/0471/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",BCU TruMotion HD
+http://cdn-bal.srv4you.net/0499/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",BCU Ultra 4K
+http://cdn-bal.srv4you.net/0446/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",BCU VHS HD
+http://cdn-bal.srv4you.net/0410/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",BCU Кинозал Premiere 1 HD
+http://cdn-bal.srv4you.net/0411/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",BCU Кинозал Premiere 2 HD
+http://cdn-bal.srv4you.net/0412/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",BCU Кинозал Premiere 3 HD
+http://cdn-bal.srv4you.net/0413/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",BCU Сваты HD
+http://cdn-bal.srv4you.net/0417/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",BCU Романтика HD
+http://cdn-bal.srv4you.net/0408/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",BCU Кинозал СССР HD
+http://cdn-bal.srv4you.net/0418/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",CineMan
+http://cdn-bal.srv4you.net/ru04/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",MM 007 HD
+http://cdn-bal.srv4you.net/ru05/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",MM Love HD
+http://cdn-bal.srv4you.net/ru06/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",MM UFO HD
+http://cdn-bal.srv4you.net/ru07/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",MM USSR 1941-1945 HD
+http://cdn-bal.srv4you.net/ru08/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",MM USSR Детектив HD
+http://cdn-bal.srv4you.net/ru09/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",MM USSR Комедия HD
+http://cdn-bal.srv4you.net/ru10/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",MM USSR Фантастика HD
+http://cdn-bal.srv4you.net/ru11/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",MM Агата Кристи HD
+http://cdn-bal.srv4you.net/ru12/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",MM Грайндхаус HD
+http://cdn-bal.srv4you.net/ru13/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",MM Боевик Classic HD
+http://cdn-bal.srv4you.net/ru14/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",MM Боевик HD
+http://cdn-bal.srv4you.net/ru15/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",MM Вестерн HD
+http://cdn-bal.srv4you.net/ru16/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",MM Воронины HD
+http://cdn-bal.srv4you.net/ru17/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",MM Затмение HD
+http://cdn-bal.srv4you.net/ru18/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",MM История HD
+http://cdn-bal.srv4you.net/ru19/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",MM Катастрофа HD
+http://cdn-bal.srv4you.net/ru20/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",MM Киберпанк HD
+http://cdn-bal.srv4you.net/ru21/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",MM Комедия Classic HD
+http://cdn-bal.srv4you.net/ru22/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",MM Комедия HD
+http://cdn-bal.srv4you.net/ru23/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",MM Криминал HD
+http://cdn-bal.srv4you.net/ru24/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",MM Крутые 90-е HD
+http://cdn-bal.srv4you.net/ru25/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",MM Кунг-Фу HD
+http://cdn-bal.srv4you.net/ru26/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",MM Мифология HD
+http://cdn-bal.srv4you.net/ru27/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",MM Нуар HD
+http://cdn-bal.srv4you.net/ru28/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",MM Ситком 2.0 HD
+http://cdn-bal.srv4you.net/ru29/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",MM Погружение HD
+http://cdn-bal.srv4you.net/ru30/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",MM Полицейский с Рублёвки HD
+http://cdn-bal.srv4you.net/ru31/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",MM Приключения HD
+http://cdn-bal.srv4you.net/ru32/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",MM Роскино HD
+http://cdn-bal.srv4you.net/ru33/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",MM Семейный 1 HD
+http://cdn-bal.srv4you.net/ru34/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",MM Семейный 2 HD
+http://cdn-bal.srv4you.net/ru35/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",MM Ситком HD
+http://cdn-bal.srv4you.net/ru36/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",MM Скорость HD
+http://cdn-bal.srv4you.net/ru37/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",MM Спорт HD
+http://cdn-bal.srv4you.net/ru38/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",MM Стивен Кинг HD
+http://cdn-bal.srv4you.net/ru39/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",MM Супергерои HD
+http://cdn-bal.srv4you.net/ru40/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",MM Триллер HD
+http://cdn-bal.srv4you.net/ru41/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",MM Ужастик HD
+http://cdn-bal.srv4you.net/ru42/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",MM Ужасы HD
+http://cdn-bal.srv4you.net/ru43/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",MM Синематограф HD
+http://cdn-bal.srv4you.net/ru44/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",MM Фантастика HD
+http://cdn-bal.srv4you.net/ru45/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",MM Фобия HD
+http://cdn-bal.srv4you.net/ru46/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",MM Classic HD
+http://cdn-bal.srv4you.net/ru47/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",MM Драма HD
+http://cdn-bal.srv4you.net/ru48/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",MM Translation HD
+http://cdn-bal.srv4you.net/ru49/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",MM Ужасы Classic HD
+http://cdn-bal.srv4you.net/ru50/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",MM Celebrity HD
+http://cdn-bal.srv4you.net/ru51/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",MM USSR Приключения HD
+http://cdn-bal.srv4you.net/ru52/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Enter-фільм
+http://cdn-bal.srv4you.net/0167/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Cine+ HD
+http://cdn-bal.srv4you.net/ua20/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Cine+ Hit HD
+http://cdn-bal.srv4you.net/ua21/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Cine+ Legend
+http://cdn-bal.srv4you.net/ua23/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",FilmBox ArtHouse HD
+http://cdn-bal.srv4you.net/0181/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Star Cinema
+http://cdn-bal.srv4you.net/ua04/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Star Family HD
+http://cdn-bal.srv4you.net/ua05/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",FilmUA Drama
+http://cdn-bal.srv4you.net/ua29/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",4Ever Drama
+http://cdn-bal.srv4you.net/ua36/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",4Ever Theater
+http://cdn-bal.srv4you.net/ua37/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",4Ever Cinema
+http://cdn-bal.srv4you.net/ua38/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",ProKino
+http://cdn-bal.srv4you.net/ua43/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Болт HD
+http://cdn-bal.srv4you.net/0195/mpegts
+#EXTINF:-1 group-title="Кино и Программы 1",Da Vinci
 
 
 
