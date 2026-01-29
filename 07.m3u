@@ -403,2147 +403,2156 @@ http://178.217.72.66:8080/TiJi/index.m3u8
 
 
 
-
-
-
-
-
-
 #EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9123/index.m3u8
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9123/index.m3u8
 #EXTINF:0 tvg-rec="0",VF Вестерн
 #EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31553/index.m3u8
-#EXTINF:0 tvg-rec="0",Viasat Kino World orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31447/index.m3u8
-#EXTINF:0 tvg-rec="0",Viasat Kino World HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31448/index.m3u8
-#EXTINF:0 tvg-rec="0",Viasat Kino World HD orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31449/index.m3u8
-#EXTINF:0 tvg-rec="0",BOX СССР 4K
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31625/index.m3u8
-#EXTINF:0 tvg-rec="0",BCU Kinozakaz Premiere 4K
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31547/index.m3u8
-#EXTINF:0 tvg-rec="0",BOX Premiere+ 4K HDR
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31549/index.m3u8
-#EXTINF:0 tvg-rec="0",Любимое Кино HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/20014/index.m3u8
-#EXTINF:0 tvg-rec="0",FX HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19216/index.m3u8
-#EXTINF:0 tvg-rec="0",Триколор Боевики HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/20172/index.m3u8
-#EXTINF:0 tvg-rec="0",Триколор Ужасы HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/20178/index.m3u8
-#EXTINF:0 tvg-rec="0",Romance HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2037/index.m3u8
-#EXTINF:0 tvg-rec="0",Suspense HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2049/index.m3u8
-#EXTINF:0 tvg-rec="0",Sumiko HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2163/index.m3u8
-#EXTINF:0 tvg-rec="0",KinoLiving
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/16018/index.m3u8
-#EXTINF:0 tvg-rec="7",Лавстори HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2034/index.m3u8
-#EXTINF:0 tvg-rec="3",Советская киноклассика HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2146/index.m3u8
-#EXTINF:0 tvg-rec="7",Viju TV1000 Новелла HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2002/index.m3u8
-#EXTINF:0 tvg-rec="0",Феникс плюс Кино HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/16154/index.m3u8
-#EXTINF:0 tvg-rec="3",VHS-ка HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/5006/index.m3u8
-#EXTINF:0 tvg-rec="0",Viasat Kino Megahit HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/14141/index.m3u8
-#EXTINF:0 tvg-rec="0",Viasat Serial HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/17056/index.m3u8
-#EXTINF:0 tvg-rec="0",.black HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/20019/index.m3u8
-#EXTINF:0 tvg-rec="0",.sci-fi HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/20020/index.m3u8
-#EXTINF:0 tvg-rec="0",Scream HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/20021/index.m3u8
-#EXTINF:0 tvg-rec="0",Shot TV HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/20022/index.m3u8
-#EXTINF:0 tvg-rec="0",О!Кино
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/20023/index.m3u8
-#EXTINF:0 tvg-rec="0",4ever Drama HD UA
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/17051/index.m3u8
-#EXTINF:0 tvg-rec="0",NOW Series HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/15102/index.m3u8
-#EXTINF:0 tvg-rec="0",FilmZone Plus HD EE
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/20025/index.m3u8
-#EXTINF:0 tvg-rec="0",Shot TV orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9347/index.m3u8
-#EXTINF:0 tvg-rec="3",VF Счастливы Вместе
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9242/index.m3u8
-#EXTINF:0 tvg-rec="7",VF Бесстыжие
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/10075/index.m3u8
-#EXTINF:0 tvg-rec="7",VF Владимир Высоцкий 
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/10066/index.m3u8
-#EXTINF:0 tvg-rec="7",VF Два с половиной человека
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/10062/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Новогодний
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/17035/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Ёлки
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/14222/index.m3u8
-#EXTINF:0 tvg-rec="0",VF New Year
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/15522/index.m3u8
-#EXTINF:0 tvg-rec="0",VF С новым годом!
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/15524/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Гарри Поттер
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/14230/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Секс в большом городе
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/14224/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Карточный домик
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/14221/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Disney Movie
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/15010/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Теория большого взрыва
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/15009/index.m3u8
-#EXTINF:0 tvg-rec="0",Timeless Dizi Channel
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/14006/index.m3u8
-#EXTINF:0 tvg-rec="0",TVRUS
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/14022/index.m3u8
-#EXTINF:0 tvg-rec="3",CineMan Premium
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/20112/index.m3u8
-#EXTINF:0 tvg-rec="3",FX Life
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9232/index.m3u8
-#EXTINF:0 tvg-rec="0",FX Life HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/14003/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Family Guy HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19414/index.m3u8
-#EXTINF:0 tvg-rec="0",MM OldSchool HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19413/index.m3u8
-#EXTINF:0 tvg-rec="0",FAN HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/16021/index.m3u8
-#EXTINF:0 tvg-rec="3",Amedia Hit HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/6010/index.m3u8
-#EXTINF:0 tvg-rec="3",Ultra HD Cinema 4K
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/4000/index.m3u8
-#EXTINF:0 tvg-rec="3",Кино UHD 4K
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/5004/index.m3u8
-#EXTINF:0 tvg-rec="7",Остросюжетное HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/904/index.m3u8
-#EXTINF:0 tvg-rec="3",Премиальное FHD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2410/index.m3u8
-#EXTINF:0 tvg-rec="7",Дом Кино Премиум HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/911/index.m3u8
-#EXTINF:0 tvg-rec="3",Дом Кино Премиум HD orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/5082/index.m3u8
-#EXTINF:0 tvg-rec="3",Про Любовь HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2430/index.m3u8
-#EXTINF:0 tvg-rec="3",Наш Кинопоказ HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2434/index.m3u8
-#EXTINF:0 tvg-rec="3",Блокбастер HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2436/index.m3u8
-#EXTINF:0 tvg-rec="3",Хит HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2438/index.m3u8
-#EXTINF:0 tvg-rec="3",Кинопоказ HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2439/index.m3u8
-#EXTINF:0 tvg-rec="3",Наше Мужское HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2440/index.m3u8
-#EXTINF:0 tvg-rec="3",Камеди HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2441/index.m3u8
-#EXTINF:0 tvg-rec="3",Viju+ Serial HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2443/index.m3u8
-#EXTINF:0 tvg-rec="3",Романтичное HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/5053/index.m3u8
-#EXTINF:0 tvg-rec="7",Комедийное HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/912/index.m3u8
-#EXTINF:0 tvg-rec="7",Душевное HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/914/index.m3u8
-#EXTINF:0 tvg-rec="7",Наше HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/915/index.m3u8
-#EXTINF:0 tvg-rec="3",Любимое HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2106/index.m3u8
-#EXTINF:0 tvg-rec="7",Кинопремьера HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/224/index.m3u8
-#EXTINF:0 tvg-rec="3",Киноужас HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2056/index.m3u8
-#EXTINF:0 tvg-rec="3",Русский роман HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2076/index.m3u8
-#EXTINF:0 tvg-rec="3",Русский иллюзион HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2114/index.m3u8
-#EXTINF:0 tvg-rec="3",Дорама HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2131/index.m3u8
-#EXTINF:0 tvg-rec="3",Кино ТВ HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2097/index.m3u8
-#EXTINF:0 tvg-rec="7",Amedia Premium HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/229/index.m3u8
-#EXTINF:0 tvg-rec="7",Hollywood HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/209/index.m3u8
-#EXTINF:0 tvg-rec="3",Bollywood HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/239/index.m3u8
-#EXTINF:0 tvg-rec="7",Viju+ Premiere HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/202/index.m3u8
-#EXTINF:0 tvg-rec="3",Viju+ Premiere HD orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/5079/index.m3u8
-#EXTINF:0 tvg-rec="7",Viju+ Comedy HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/200/index.m3u8
-#EXTINF:0 tvg-rec="3",Viju+ Comedy HD orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/5080/index.m3u8
-#EXTINF:0 tvg-rec="7",Viju+ Megahit HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/201/index.m3u8
-#EXTINF:0 tvg-rec="3",Viju+ Megahit HD orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/5081/index.m3u8
-#EXTINF:0 tvg-rec="3",Epic Drama
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/1048/index.m3u8
-#EXTINF:0 tvg-rec="3",День Победы HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/5054/index.m3u8
-#EXTINF:0 tvg-rec="3",Победа HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/5052/index.m3u8
-#EXTINF:0 tvg-rec="7",Победа
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2003/index.m3u8
-#EXTINF:0 tvg-rec="7",Amedia 2 HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2046/index.m3u8
-#EXTINF:0 tvg-rec="7",Viju TV1000 Русское
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/101/index.m3u8
-#EXTINF:0 tvg-rec="7",.sci-fi
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/110/index.m3u8
-#EXTINF:0 tvg-rec="7",Киномикс
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/509/index.m3u8
-#EXTINF:0 tvg-rec="7",Киносемья
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/125/index.m3u8
-#EXTINF:0 tvg-rec="7",Родное Кино
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/126/index.m3u8
-#EXTINF:0 tvg-rec="7",Viju TV1000 Action
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/131/index.m3u8
-#EXTINF:0 tvg-rec="7",Кинохит
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/516/index.m3u8
-#EXTINF:0 tvg-rec="7",Amedia 2
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/510/index.m3u8
-#EXTINF:0 tvg-rec="7",Наше Новое Кино
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/517/index.m3u8
-#EXTINF:0 tvg-rec="7",ТВ 21
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/525/index.m3u8
-#EXTINF:0 tvg-rec="7",Кинокомедия
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/145/index.m3u8
-#EXTINF:0 tvg-rec="7",Индийское Кино
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/146/index.m3u8
-#EXTINF:0 tvg-rec="7",Киносерия
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/148/index.m3u8
-#EXTINF:0 tvg-rec="7",Русский иллюзион
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/547/index.m3u8
-#EXTINF:0 tvg-rec="7",Еврокино
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/549/index.m3u8
-#EXTINF:0 tvg-rec="7",Кинеко
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/550/index.m3u8
-#EXTINF:0 tvg-rec="7",Сапфир
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/553/index.m3u8
-#EXTINF:0 tvg-rec="7",Дом Кино
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/154/index.m3u8
-#EXTINF:0 tvg-rec="7",Amedia 1
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/554/index.m3u8
-#EXTINF:0 tvg-rec="7",Amedia Premium
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/555/index.m3u8
-#EXTINF:0 tvg-rec="7",Amedia Hit
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/556/index.m3u8
-#EXTINF:0 tvg-rec="7",Viju TV1000
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/132/index.m3u8
-#EXTINF:0 tvg-rec="7",Мужское Кино
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/164/index.m3u8
-#EXTINF:0 tvg-rec="7",Hollywood
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/557/index.m3u8
-#EXTINF:0 tvg-rec="7",.red
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/559/index.m3u8
-#EXTINF:0 tvg-rec="7",2x2
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/702/index.m3u8
-#EXTINF:0 tvg-rec="7",.black
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/708/index.m3u8
-#EXTINF:0 tvg-rec="7",Русский бестселлер
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/905/index.m3u8
-#EXTINF:0 tvg-rec="7",Русский роман
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/906/index.m3u8
-#EXTINF:0 tvg-rec="7",Русский детектив
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/907/index.m3u8
-#EXTINF:0 tvg-rec="7",Любимое Кино
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/722/index.m3u8
-#EXTINF:0 tvg-rec="7",Киносвидание
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/728/index.m3u8
-#EXTINF:0 tvg-rec="7",Кино ТВ
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/732/index.m3u8
-#EXTINF:0 tvg-rec="7",Комедия
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/733/index.m3u8
-#EXTINF:0 tvg-rec="7",FAN
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/734/index.m3u8
-#EXTINF:0 tvg-rec="7",НТВ Хит
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/741/index.m3u8
-#EXTINF:0 tvg-rec="7",НТВ Сериал
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/744/index.m3u8
-#EXTINF:0 tvg-rec="7",НСТ
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/726/index.m3u8
-#EXTINF:0 tvg-rec="3",Индия
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/1001/index.m3u8
-#EXTINF:0 tvg-rec="3",FilmBox
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/1071/index.m3u8
-#EXTINF:0 tvg-rec="3",Дорама
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/1066/index.m3u8
-#EXTINF:0 tvg-rec="7",Мир Сериала
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/856/index.m3u8
-#EXTINF:0 tvg-rec="7",Ретро
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2018/index.m3u8
-#EXTINF:0 tvg-rec="7",Иллюзион+
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2038/index.m3u8
-#EXTINF:0 tvg-rec="7",Феникс плюс Кино
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2039/index.m3u8
-#EXTINF:0 tvg-rec="3",.red HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2062/index.m3u8
-#EXTINF:0 tvg-rec="3",Киноман
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2121/index.m3u8
-#EXTINF:0 tvg-rec="3",Cinema
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/5051/index.m3u8
-#EXTINF:0 tvg-rec="7",Comedy Central
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/157/index.m3u8
-#EXTINF:0 tvg-rec="3",Зал 1
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2568/index.m3u8
-#EXTINF:0 tvg-rec="3",Зал 2
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2569/index.m3u8
-#EXTINF:0 tvg-rec="3",Зал 3
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2570/index.m3u8
-#EXTINF:0 tvg-rec="3",Зал 4
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2571/index.m3u8
-#EXTINF:0 tvg-rec="3",Зал 5
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2572/index.m3u8
-#EXTINF:0 tvg-rec="3",Зал 6
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2573/index.m3u8
-#EXTINF:0 tvg-rec="3",Зал 7
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2574/index.m3u8
-#EXTINF:0 tvg-rec="3",Зал 8
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2575/index.m3u8
-#EXTINF:0 tvg-rec="3",Зал 9
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2576/index.m3u8
-#EXTINF:0 tvg-rec="3",Зал 10
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2577/index.m3u8
-#EXTINF:0 tvg-rec="3",Зал 11
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2578/index.m3u8
-#EXTINF:0 tvg-rec="3",Зал 12
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/2579/index.m3u8
-#EXTINF:0 tvg-rec="3",Шокирующее HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/6299/index.m3u8
-#EXTINF:0 tvg-rec="3",Viju TV1000 Action HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/6386/index.m3u8
-#EXTINF:0 tvg-rec="3",Viju TV1000 HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/6387/index.m3u8
-#EXTINF:0 tvg-rec="0",Viju TV1000 Русское HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/6388/index.m3u8
-#EXTINF:0 tvg-rec="3",Сапфир HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/6389/index.m3u8
-#EXTINF:0 tvg-rec="3",Мосфильм. Золотая коллекция
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/6392/index.m3u8
-#EXTINF:0 tvg-rec="3",Trash HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/6396/index.m3u8
-#EXTINF:0 tvg-rec="3",Шокирующее HD orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9004/index.m3u8
-#EXTINF:0 tvg-rec="3",Комедийное HD orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9005/index.m3u8
-#EXTINF:0 tvg-rec="3",Hollywood HD orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9017/index.m3u8
-#EXTINF:0 tvg-rec="3",FX HD orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9018/index.m3u8
-#EXTINF:0 tvg-rec="3",Кинопремьера HD orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9020/index.m3u8
-#EXTINF:0 tvg-rec="3",Amedia Premium HD orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9022/index.m3u8
-#EXTINF:0 tvg-rec="3",Киноужас HD orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9033/index.m3u8
-#EXTINF:0 tvg-rec="3",.red HD orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9035/index.m3u8
-#EXTINF:0 tvg-rec="3",Русский роман HD orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9041/index.m3u8
-#EXTINF:0 tvg-rec="3",Остросюжетное HD orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9044/index.m3u8
-#EXTINF:0 tvg-rec="3",Наше HD orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9046/index.m3u8
-#EXTINF:0 tvg-rec="3",Кино ТВ HD orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9051/index.m3u8
-#EXTINF:0 tvg-rec="3",Viju TV1000 Action HD orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9057/index.m3u8
-#EXTINF:0 tvg-rec="3",Viju TV1000 HD orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9058/index.m3u8
-#EXTINF:0 tvg-rec="0",Viju TV1000 Русское HD orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9059/index.m3u8
-#EXTINF:0 tvg-rec="3",Amedia 1 HD orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9069/index.m3u8
-#EXTINF:0 tvg-rec="3",Amedia Hit HD orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9070/index.m3u8
-#EXTINF:0 tvg-rec="3",Еврокино HD orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9078/index.m3u8
-#EXTINF:0 tvg-rec="3",Иллюзион+ HD orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9079/index.m3u8
-#EXTINF:0 tvg-rec="3",Русский иллюзион HD orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9080/index.m3u8
-#EXTINF:0 tvg-rec="3",Наш Кинопоказ HD orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9086/index.m3u8
-#EXTINF:0 tvg-rec="3",Блокбастер HD orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9087/index.m3u8
-#EXTINF:0 tvg-rec="3",Наше Мужское HD orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9088/index.m3u8
-#EXTINF:0 tvg-rec="3",Про Любовь HD orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9089/index.m3u8
-#EXTINF:0 tvg-rec="3",Хит HD orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9090/index.m3u8
-#EXTINF:0 tvg-rec="3",Камеди HD orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9091/index.m3u8
-#EXTINF:0 tvg-rec="3",Кинопоказ HD orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9092/index.m3u8
-#EXTINF:0 tvg-rec="3",.sci-fi orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9125/index.m3u8
-#EXTINF:0 tvg-rec="3",Киномикс orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9126/index.m3u8
-#EXTINF:0 tvg-rec="3",Родное Кино orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9127/index.m3u8
-#EXTINF:0 tvg-rec="3",Кинохит orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9128/index.m3u8
-#EXTINF:0 tvg-rec="0",Amedia 2 orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9129/index.m3u8
-#EXTINF:0 tvg-rec="3",ТВ 21 orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9130/index.m3u8
-#EXTINF:0 tvg-rec="3",Индийское Кино orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9131/index.m3u8
-#EXTINF:0 tvg-rec="3",Киносерия orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9132/index.m3u8
-#EXTINF:0 tvg-rec="3",Русский иллюзион orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9133/index.m3u8
-#EXTINF:0 tvg-rec="3",Еврокино orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9134/index.m3u8
-#EXTINF:0 tvg-rec="3",Кинеко HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9135/index.m3u8
-#EXTINF:0 tvg-rec="3",Дом Кино orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9136/index.m3u8
-#EXTINF:0 tvg-rec="3",Amedia 1 orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9137/index.m3u8
-#EXTINF:0 tvg-rec="3",Мужское Кино HD orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9138/index.m3u8
-#EXTINF:0 tvg-rec="3",2x2 orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9139/index.m3u8
-#EXTINF:0 tvg-rec="3",.black orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9140/index.m3u8
-#EXTINF:0 tvg-rec="3",Русский бестселлер orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9141/index.m3u8
-#EXTINF:0 tvg-rec="3",Русский детектив orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9142/index.m3u8
-#EXTINF:0 tvg-rec="3",Любимое Кино orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9143/index.m3u8
-#EXTINF:0 tvg-rec="3",Комедия orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9144/index.m3u8
-#EXTINF:0 tvg-rec="3",FAN orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9145/index.m3u8
-#EXTINF:0 tvg-rec="3",НТВ Хит orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9146/index.m3u8
-#EXTINF:0 tvg-rec="3",НТВ Сериал orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9147/index.m3u8
-#EXTINF:0 tvg-rec="3",НСТ orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9148/index.m3u8
-#EXTINF:0 tvg-rec="3",Индия orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9149/index.m3u8
-#EXTINF:0 tvg-rec="3",FilmBox ArtHouse orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9150/index.m3u8
-#EXTINF:0 tvg-rec="3",Мир Сериала orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9151/index.m3u8
-#EXTINF:0 tvg-rec="3",Ретро orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9152/index.m3u8
-#EXTINF:0 tvg-rec="3",Феникс плюс Кино orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9153/index.m3u8
-#EXTINF:0 tvg-rec="3",Киноман orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9154/index.m3u8
-#EXTINF:0 tvg-rec="3",Мосфильм. Золотая коллекция orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9156/index.m3u8
-#EXTINF:0 tvg-rec="3",Дорама HD orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9224/index.m3u8
-#EXTINF:0 tvg-rec="3",Bollywood HD orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9225/index.m3u8
-#EXTINF:0 tvg-rec="3",Победа orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9226/index.m3u8
-#EXTINF:0 tvg-rec="0",Viju TV1000 Русское orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9227/index.m3u8
-#EXTINF:0 tvg-rec="3",Киносемья HD orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9228/index.m3u8
-#EXTINF:0 tvg-rec="3",Viju TV1000 Action orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9229/index.m3u8
-#EXTINF:0 tvg-rec="3",Наше Новое Кино orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9230/index.m3u8
-#EXTINF:0 tvg-rec="3",Кинокомедия orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9231/index.m3u8
-#EXTINF:0 tvg-rec="3",Amedia Premium FHD orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9233/index.m3u8
-#EXTINF:0 tvg-rec="3",Amedia Hit orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9234/index.m3u8
-#EXTINF:0 tvg-rec="3",Viju TV1000 orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9235/index.m3u8
-#EXTINF:0 tvg-rec="3",Hollywood orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9236/index.m3u8
-#EXTINF:0 tvg-rec="3",.red orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9237/index.m3u8
-#EXTINF:0 tvg-rec="3",Киносвидание orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9238/index.m3u8
-#EXTINF:0 tvg-rec="3",Дорама orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9239/index.m3u8
-#EXTINF:0 tvg-rec="3",Русский роман orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9240/index.m3u8
-#EXTINF:0 tvg-rec="3",Иллюзион+ orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9241/index.m3u8
-#EXTINF:0 tvg-rec="3",Кино ТВ orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9244/index.m3u8
-#EXTINF:0 tvg-rec="3",Viju+ Serial HD orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/9245/index.m3u8
-#EXTINF:0 tvg-rec="0",Премиальное HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/7222/index.m3u8
-#EXTINF:0 tvg-rec="0",Киносемья HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/7244/index.m3u8
-#EXTINF:0 tvg-rec="0",Киносвидание HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/7245/index.m3u8
-#EXTINF:0 tvg-rec="0",Страшное HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/7247/index.m3u8
-#EXTINF:0 tvg-rec="0",Кинокомедия HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/7248/index.m3u8
-#EXTINF:0 tvg-rec="0",Киномикс HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/7249/index.m3u8
-#EXTINF:0 tvg-rec="0",Кинохит HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/7250/index.m3u8
-#EXTINF:0 tvg-rec="0",KinoJam 1 HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/7260/index.m3u8
-#EXTINF:0 tvg-rec="0",KinoJam 2 HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/7261/index.m3u8
-#EXTINF:0 tvg-rec="0",Мосфильм. Золотая коллекция HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/7347/index.m3u8
-#EXTINF:0 tvg-rec="7",VF Adventure
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/10000/index.m3u8
-#EXTINF:0 tvg-rec="7",VF Anime
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/10001/index.m3u8
-#EXTINF:0 tvg-rec="7",VF Cartoon
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/10002/index.m3u8
-#EXTINF:0 tvg-rec="7",VF Comedy
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/10003/index.m3u8
-#EXTINF:0 tvg-rec="7",VF Family
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/10004/index.m3u8
-#EXTINF:0 tvg-rec="7",VF Fantasy
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/10005/index.m3u8
-#EXTINF:0 tvg-rec="7",VF Melodrama
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/10006/index.m3u8
-#EXTINF:0 tvg-rec="7",VF Mystic
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/10007/index.m3u8
-#EXTINF:0 tvg-rec="7",VF Ужасы
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/10008/index.m3u8
-#EXTINF:0 tvg-rec="7",VF VHS MIX
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/10009/index.m3u8
-#EXTINF:0 tvg-rec="7",VF Ужасы VHS
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/10010/index.m3u8
-#EXTINF:0 tvg-rec="7",VF Премьера
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/10051/index.m3u8
-#EXTINF:0 tvg-rec="7",VF Premiere
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/10052/index.m3u8
-#EXTINF:0 tvg-rec="7",VF Классика
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/10053/index.m3u8
-#EXTINF:0 tvg-rec="7",VF Classic
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/10054/index.m3u8
-#EXTINF:0 tvg-rec="7",VF Комедия
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/10055/index.m3u8
-#EXTINF:0 tvg-rec="7",VF Катастрофы
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/10080/index.m3u8
-#EXTINF:0 tvg-rec="7",VF Marvel
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/10081/index.m3u8
-#EXTINF:0 tvg-rec="7",VF Военные
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/10082/index.m3u8
-#EXTINF:0 tvg-rec="7",VF Наша победа
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/10083/index.m3u8
-#EXTINF:0 tvg-rec="7",VF Мосфильм
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/10084/index.m3u8
-#EXTINF:0 tvg-rec="7",VF Фильмы СССР
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/10085/index.m3u8
-#EXTINF:0 tvg-rec="7",VF Мультфильмы СССР
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/10086/index.m3u8
-#EXTINF:0 tvg-rec="7",VF Боевик
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/10087/index.m3u8
-#EXTINF:0 tvg-rec="0",Премиальное HD 50
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/10017/index.m3u8
-#EXTINF:0 tvg-rec="0",Душевное HD orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/10042/index.m3u8
-#EXTINF:0 tvg-rec="0",Премиальное HD orig
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/10044/index.m3u8
-#EXTINF:0 tvg-rec="0",Мужское Кино HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/10045/index.m3u8
-#EXTINF:0 tvg-rec="3",Shot TV
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/526/index.m3u8
-#EXTINF:0 tvg-rec="7",CineMan
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11004/index.m3u8
-#EXTINF:0 tvg-rec="7",CineMan Top
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11005/index.m3u8
-#EXTINF:0 tvg-rec="7",CineMan Action
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11006/index.m3u8
-#EXTINF:0 tvg-rec="7",CineMan Thriller
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11007/index.m3u8
-#EXTINF:0 tvg-rec="7",CineMan Мелодрама
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11008/index.m3u8
-#EXTINF:0 tvg-rec="7",CineMan Marvel
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11009/index.m3u8
-#EXTINF:0 tvg-rec="7",CineMan Ужасы
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11010/index.m3u8
-#EXTINF:0 tvg-rec="7",CineMan Комедия
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11011/index.m3u8
-#EXTINF:0 tvg-rec="7",CineMan VHS
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11012/index.m3u8
-#EXTINF:0 tvg-rec="7",CineMan РуКино
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11013/index.m3u8
-#EXTINF:0 tvg-rec="7",CineMan Сваты
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11014/index.m3u8
-#EXTINF:0 tvg-rec="0",CineMan Катастрофы
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/15106/index.m3u8
-#EXTINF:0 tvg-rec="0",CineMan Ментовские войны
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/16063/index.m3u8
-#EXTINF:0 tvg-rec="0",CineMan ПёС + Лихач
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/16064/index.m3u8
-#EXTINF:0 tvg-rec="0",CineMan Лесник
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/16065/index.m3u8
-#EXTINF:0 tvg-rec="0",CineMan MiniSeries
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19437/index.m3u8
-#EXTINF:0 tvg-rec="7",BCU Premiere 1 HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11015/index.m3u8
-#EXTINF:0 tvg-rec="7",BCU Premiere 2 HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11016/index.m3u8
-#EXTINF:0 tvg-rec="7",BCU Premiere 3 HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11017/index.m3u8
-#EXTINF:0 tvg-rec="7",BCU СССР HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11026/index.m3u8
-#EXTINF:0 tvg-rec="7",BCU Action HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11027/index.m3u8
-#EXTINF:0 tvg-rec="7",BCU Catastrophe HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11028/index.m3u8
-#EXTINF:0 tvg-rec="7",BCU Cinema HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11029/index.m3u8
-#EXTINF:0 tvg-rec="7",BCU Cinema+ HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11030/index.m3u8
-#EXTINF:0 tvg-rec="7",BCU Comedy HDR
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11031/index.m3u8
-#EXTINF:0 tvg-rec="7",BCU Fantastic HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11032/index.m3u8
-#EXTINF:0 tvg-rec="7",BCU FilMystic HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11033/index.m3u8
-#EXTINF:0 tvg-rec="7",BCU History HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11034/index.m3u8
-#EXTINF:0 tvg-rec="7",BCU Kinorating HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11037/index.m3u8
-#EXTINF:0 tvg-rec="7",BCU Marvel HDR
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11038/index.m3u8
-#EXTINF:0 tvg-rec="7",BCU Premiere HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11039/index.m3u8
-#EXTINF:0 tvg-rec="7",BCU Romantic HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11040/index.m3u8
-#EXTINF:0 tvg-rec="7",BCU Russian HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11041/index.m3u8
-#EXTINF:0 tvg-rec="7",BCU VHS HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11042/index.m3u8
-#EXTINF:0 tvg-rec="7",BCU Media HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11043/index.m3u8
-#EXTINF:0 tvg-rec="7",BCU Stars HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11044/index.m3u8
-#EXTINF:0 tvg-rec="7",BCU Ultra 4K
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11045/index.m3u8
-#EXTINF:0 tvg-rec="7",BCU RuSerial HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11046/index.m3u8
-#EXTINF:0 tvg-rec="7",BCU Сваты HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11047/index.m3u8
-#EXTINF:0 tvg-rec="7",BCU Criminal HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11048/index.m3u8
-#EXTINF:0 tvg-rec="0",BCU Premiere Ultra 4K
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/15023/index.m3u8
-#EXTINF:0 tvg-rec="0",BCU Media HD OLD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/15024/index.m3u8
-#EXTINF:0 tvg-rec="0",BCU Marvel HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/15025/index.m3u8
-#EXTINF:0 tvg-rec="0",BCU Comedy HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/15026/index.m3u8
-#EXTINF:0 tvg-rec="0",BCU Reality HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/16082/index.m3u8
-#EXTINF:0 tvg-rec="0",BCU Reality OLD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/16083/index.m3u8
-#EXTINF:0 tvg-rec="0",BCU Survival HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/17019/index.m3u8
-#EXTINF:0 tvg-rec="0",BCU Survival OLD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/17020/index.m3u8
-#EXTINF:0 tvg-rec="0",BCU Cosmo HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/17021/index.m3u8
-#EXTINF:0 tvg-rec="0",BCU TruMotion HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/17054/index.m3u8
-#EXTINF:0 tvg-rec="0",BCU Romantic OLD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18052/index.m3u8
-#EXTINF:0 tvg-rec="7",StrahTV Alladin
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11054/index.m3u8
-#EXTINF:0 tvg-rec="7",StrahTV The X-Files
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11055/index.m3u8
-#EXTINF:0 tvg-rec="7",StrahTV VHS HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11059/index.m3u8
-#EXTINF:0 tvg-rec="7",StrahTV Интерны ТВ
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11060/index.m3u8
-#EXTINF:0 tvg-rec="7",StrahTV СССР
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11061/index.m3u8
-#EXTINF:0 tvg-rec="7",StrahTV Сваты
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11062/index.m3u8
-#EXTINF:0 tvg-rec="7",StrahTV Универ ТВ
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11063/index.m3u8
-#EXTINF:0 tvg-rec="7",StrahTV Хит HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11064/index.m3u8
-#EXTINF:0 tvg-rec="7",StrahTV Космо HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11065/index.m3u8
-#EXTINF:0 tvg-rec="7",StrahTV Страх HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11069/index.m3u8
-#EXTINF:0 tvg-rec="7",StrahTV Фантастика HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11070/index.m3u8
-#EXTINF:0 tvg-rec="7",StrahTV Юнит HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11071/index.m3u8
-#EXTINF:0 tvg-rec="7",PG Premiere HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11094/index.m3u8
-#EXTINF:0 tvg-rec="7",PG Premium HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11095/index.m3u8
-#EXTINF:0 tvg-rec="7",PG РуКино HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11096/index.m3u8
-#EXTINF:0 tvg-rec="7",PG Victory HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11097/index.m3u8
-#EXTINF:0 tvg-rec="7",PG Paradox HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11098/index.m3u8
-#EXTINF:0 tvg-rec="7",PG Thriller HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11099/index.m3u8
-#EXTINF:0 tvg-rec="7",PG Paradise HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11100/index.m3u8
-#EXTINF:0 tvg-rec="7",PG Serial HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11101/index.m3u8
-#EXTINF:0 tvg-rec="7",PG USSR HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11102/index.m3u8
-#EXTINF:0 tvg-rec="0",PG VHS HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/15000/index.m3u8
-#EXTINF:0 tvg-rec="0",VB VHS Classic
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19429/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Кино 4K
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11114/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Сериал 4K
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11115/index.m3u8
-#EXTINF:0 tvg-rec="0",VF TOP Series
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11116/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Art house
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11119/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Detective
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11120/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Fantastic
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11121/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Оскар
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/11122/index.m3u8
-#EXTINF:0 tvg-rec="0",TOP Великолепный Век HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13001/index.m3u8
-#EXTINF:0 tvg-rec="0",TOP 80 S HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13002/index.m3u8
-#EXTINF:0 tvg-rec="0",TOP BUDO HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13003/index.m3u8
-#EXTINF:0 tvg-rec="0",TOP Cinema HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13004/index.m3u8
-#EXTINF:0 tvg-rec="0",TOP USSR HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13005/index.m3u8
-#EXTINF:0 tvg-rec="0",TOP MIX HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13006/index.m3u8
-#EXTINF:0 tvg-rec="0",MM 007 HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13009/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Love HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13010/index.m3u8
-#EXTINF:0 tvg-rec="0",MM NewFilm 1 HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13011/index.m3u8
-#EXTINF:0 tvg-rec="0",MM NewFilm 2 HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13012/index.m3u8
-#EXTINF:0 tvg-rec="0",MM NewFilm 3 HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13013/index.m3u8
-#EXTINF:0 tvg-rec="0",MM NewFilm RU HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13014/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Rock HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13015/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Tom and Jerry HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13016/index.m3u8
-#EXTINF:0 tvg-rec="0",MM UFO HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13017/index.m3u8
-#EXTINF:0 tvg-rec="0",MM USSR 1941-1945 HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13018/index.m3u8
-#EXTINF:0 tvg-rec="0",MM USSR Комедия HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13019/index.m3u8
-#EXTINF:0 tvg-rec="0",MM USSR Мультфильм HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13020/index.m3u8
-#EXTINF:0 tvg-rec="0",MM USSR Сказки HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13021/index.m3u8
-#EXTINF:0 tvg-rec="0",MM USSR Драма HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13022/index.m3u8
-#EXTINF:0 tvg-rec="0",MM World Hits HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13023/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Агата Кристи HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13024/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Грайндхаус HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13025/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Honey HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13026/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Боевик Classic HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13027/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Боевик HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13028/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Вестерн HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13029/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Воронины HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13031/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Затмение HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13032/index.m3u8
-#EXTINF:0 tvg-rec="0",MM История HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13033/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Катастрофа HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13034/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Квартирник HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13035/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Киберпанк HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13036/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Комедия Classic HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13037/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Комедия HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13038/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Криминал HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13039/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Крутые 90-е HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13040/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Кунг-Фу HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13041/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Lesson HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13042/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Smile HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13043/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Мифология HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13044/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Нуар HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13045/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Ситком 2.0 HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13046/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Погружение HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13047/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Приключения HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13048/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Полицейский с Рублёвки HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13049/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Роскино HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13050/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Сваты HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13051/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Ситком HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13052/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Скорость HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13053/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Спорт HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13054/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Стивен Кинг HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13055/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Супергерои HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13056/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Flip UHD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13057/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Триллер HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13058/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Ужастик HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13059/index.m3u8
-#EXTINF:0 tvg-rec="0",MM USSR Приключения HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13060/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Синематограф HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13061/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Фантастика HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13062/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Фобия HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13063/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Walt Disney HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13064/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Live Planet HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13095/index.m3u8
-#EXTINF:0 tvg-rec="0",MM USSR Детектив HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13096/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Семейный 1 HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13097/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Семейный 2 HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13098/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Ужасы HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13099/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Ужасы Classic HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/14128/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Celebrity HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/16084/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Classic HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/16085/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Драма HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/16086/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Сваты
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13080/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Солдаты
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13081/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Тайны следствия
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13082/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Воронины
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13083/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Универ
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13084/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Series
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13085/index.m3u8
-#EXTINF:0 tvg-rec="0",VF След
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13086/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Сериал
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13087/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Мыльные оперы
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13088/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Thriller
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13089/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Индия
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13090/index.m3u8
-#EXTINF:0 tvg-rec="0",VF История
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13091/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Comics
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13092/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Криминал
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13093/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Клиника
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/13094/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Луи де Фюнес
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/17000/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Чернобыль
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/17001/index.m3u8
-#EXTINF:0 tvg-rec="0",VF The X-Files
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/17002/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Сверхъестественное
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/17003/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Леонид Гайдай
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/17004/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Американская история ужасов
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/17005/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Друзья
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/17006/index.m3u8
-#EXTINF:0 tvg-rec="0",VF СашаТаня
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/17008/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Джеки Чан
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/17009/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Наша Раша
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/17010/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Привет из 90х
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/17011/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Эльдар Рязанов
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/17012/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Универ новая общага
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/17013/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Ходячие мертвецы
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/17014/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Реальные пацаны
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/17015/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Доктор Хаус
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/17016/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Без цензуры
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/17017/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Городок
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18097/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Comedy Woman
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18101/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Игра престолов
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18119/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Одесская киностудия
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18120/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Ленфильм
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18121/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Киностудия им. Горького
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18122/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Рижская киностудия
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18123/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Свердловская киностудия
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18124/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Беларусьфильм
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18125/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Netflix
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19427/index.m3u8
-#EXTINF:0 tvg-rec="0",VF HBO
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19428/index.m3u8
-#EXTINF:0 tvg-rec="0",Z!Channel HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/14134/index.m3u8
-#EXTINF:0 tvg-rec="0",Z!Comedy HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/14135/index.m3u8
-#EXTINF:0 tvg-rec="0",Z!Crime HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/14136/index.m3u8
-#EXTINF:0 tvg-rec="0",Z!Horror HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/14137/index.m3u8
-#EXTINF:0 tvg-rec="0",Z!Serial HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/15140/index.m3u8
-#EXTINF:0 tvg-rec="0",Z!Sitcom HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/15141/index.m3u8
-#EXTINF:0 tvg-rec="0",Z!Smile HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/15142/index.m3u8
-#EXTINF:0 tvg-rec="0",Yosso TV Grand
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/14171/index.m3u8
-#EXTINF:0 tvg-rec="0",Yosso TV VHS
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/14172/index.m3u8
-#EXTINF:0 tvg-rec="0",Yosso TV Русские Фильмы
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/14174/index.m3u8
-#EXTINF:0 tvg-rec="0",Yosso TV Советские Фильмы
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/14175/index.m3u8
-#EXTINF:0 tvg-rec="0",Yosso TV New Кино
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/14177/index.m3u8
-#EXTINF:0 tvg-rec="0",Yosso TV Трагичное
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/14219/index.m3u8
-#EXTINF:0 tvg-rec="0",Yosso TV Забавное
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/14234/index.m3u8
-#EXTINF:0 tvg-rec="0",Yosso TV Ковбойское
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/14235/index.m3u8
-#EXTINF:0 tvg-rec="0",Yosso TV Best
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/14236/index.m3u8
-#EXTINF:0 tvg-rec="0",Yosso TV Adrenaline
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/15105/index.m3u8
-#EXTINF:0 tvg-rec="0",Yosso TV Thriller
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/15168/index.m3u8
-#EXTINF:0 tvg-rec="0",Yosso TV Oblivion
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/15509/index.m3u8
-#EXTINF:0 tvg-rec="0",Yosso TV Adventure
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/15510/index.m3u8
-#EXTINF:0 tvg-rec="0",Yosso TV 4K
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/16153/index.m3u8
-#EXTINF:0 tvg-rec="0",Yosso TV Мелодрама
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19434/index.m3u8
-#EXTINF:0 tvg-rec="0",Yosso TV Советские Фильмы 4K
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19435/index.m3u8
-#EXTINF:0 tvg-rec="0",Yosso TV Netflix
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/20163/index.m3u8
-#EXTINF:0 tvg-rec="0",Yosso TV Disney
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/20164/index.m3u8
-#EXTINF:0 tvg-rec="0",Yosso TV Best 60fps
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/20165/index.m3u8
-#EXTINF:0 tvg-rec="0",Citrus Comedy
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/16151/index.m3u8
-#EXTINF:0 tvg-rec="0",Citrus Inquest
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/16152/index.m3u8
-#EXTINF:0 tvg-rec="0",Citrus History
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18139/index.m3u8
-#EXTINF:0 tvg-rec="0",Dosug TV Comedy HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/14209/index.m3u8
-#EXTINF:0 tvg-rec="0",Dosug TV Fantastic HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/14210/index.m3u8
-#EXTINF:0 tvg-rec="0",Dosug TV History HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/14211/index.m3u8
-#EXTINF:0 tvg-rec="0",Dosug TV Hit HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/14212/index.m3u8
-#EXTINF:0 tvg-rec="0",Dosug TV Horror HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/14213/index.m3u8
-#EXTINF:0 tvg-rec="0",Dosug TV Kids HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/14214/index.m3u8
-#EXTINF:0 tvg-rec="0",Dosug TV Marvel HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/14215/index.m3u8
-#EXTINF:0 tvg-rec="0",Dosug TV New HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/14216/index.m3u8
-#EXTINF:0 tvg-rec="0",Dosug TV Russian HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/14217/index.m3u8
-#EXTINF:0 tvg-rec="0",Dosug TV СССР HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/14218/index.m3u8
-#EXTINF:0 tvg-rec="0",Dosug TV VHS
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/14225/index.m3u8
-#EXTINF:0 tvg-rec="0",Dosug TV Detective HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/14226/index.m3u8
-#EXTINF:0 tvg-rec="0",Dosug TV Сваты
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/14228/index.m3u8
-#EXTINF:0 tvg-rec="0",Твое ТВ HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/14229/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty DC FHD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/15087/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Ужасы 4K
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/15088/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Триллеры 4K
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/15089/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Марвел FHD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/15090/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Короткометражки FHD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/15091/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Мелодрамы FHD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/15095/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Боевики FHD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/15096/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Кино Микс 4K
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/15110/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Симпсоны FHD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/15111/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Сваты FHD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/15164/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Южный Парк FHD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/16053/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Комедии FHD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/16054/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Сериалы FHD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/16055/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Аниме FHD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/17029/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Кино ENG 4K
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/17060/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Мульт ENG 4K
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/17061/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Кино UKR 4K
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18045/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty РусФильм 4K
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18046/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Индия 4K
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18160/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Куб 4K
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18161/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Семейный 4K
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18178/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Турк Фильм 4K
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19303/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Сказки FHD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19304/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty МиМ FHD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19306/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Союз 4K
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19307/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Легенда 4K
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19308/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Нетфликс 4K
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19402/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Фантастика FHD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19403/index.m3u8
-#EXTINF:0 tvg-rec="0",CineMan Скорая Помощь
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/15100/index.m3u8
-#EXTINF:0 tvg-rec="0",CineMan Симпсоны
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/15101/index.m3u8
-#EXTINF:0 tvg-rec="0",MS Prisons HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/15137/index.m3u8
-#EXTINF:0 tvg-rec="0",MS Toons HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/15138/index.m3u8
-#EXTINF:0 tvg-rec="0",MS Magic 4K
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/16143/index.m3u8
-#EXTINF:0 tvg-rec="0",MS Young Blood HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/16147/index.m3u8
-#EXTINF:0 tvg-rec="0",MS Animated HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/17024/index.m3u8
-#EXTINF:0 tvg-rec="0",Citrus Cartoon
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/16050/index.m3u8
-#EXTINF:0 tvg-rec="0",Citrus Marvel
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/16051/index.m3u8
-#EXTINF:0 tvg-rec="0",Fresh Cinema
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19287/index.m3u8
-#EXTINF:0 tvg-rec="0",Fresh Kids
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19288/index.m3u8
-#EXTINF:0 tvg-rec="0",Fresh Comedy
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19289/index.m3u8
-#EXTINF:0 tvg-rec="0",Fresh Premiere
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19290/index.m3u8
-#EXTINF:0 tvg-rec="0",Fresh Family
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19291/index.m3u8
-#EXTINF:0 tvg-rec="0",Fresh Rating
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19292/index.m3u8
-#EXTINF:0 tvg-rec="0",Fresh VHS
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19293/index.m3u8
-#EXTINF:0 tvg-rec="0",Fresh Fantastic
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19294/index.m3u8
-#EXTINF:0 tvg-rec="0",Fresh Series
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19295/index.m3u8
-#EXTINF:0 tvg-rec="0",Fresh Horror
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19296/index.m3u8
-#EXTINF:0 tvg-rec="0",Fresh Adventure
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19297/index.m3u8
-#EXTINF:0 tvg-rec="0",Fresh Romantic
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19298/index.m3u8
-#EXTINF:0 tvg-rec="0",Fresh Russian
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19299/index.m3u8
-#EXTINF:0 tvg-rec="0",Fresh Thriller
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19300/index.m3u8
-#EXTINF:0 tvg-rec="0",Fresh Soviet
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19301/index.m3u8
-#EXTINF:0 tvg-rec="0",KLI Comedy HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/16080/index.m3u8
-#EXTINF:0 tvg-rec="0",KLI History HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18047/index.m3u8
-#EXTINF:0 tvg-rec="0",KLI Russian HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18049/index.m3u8
-#EXTINF:0 tvg-rec="0",KLI Fantastic HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18050/index.m3u8
-#EXTINF:0 tvg-rec="0",KLI VHS HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18173/index.m3u8
-#EXTINF:0 tvg-rec="0",KLI Thriller HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18174/index.m3u8
-#EXTINF:0 tvg-rec="0",KLI СССР HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18175/index.m3u8
-#EXTINF:0 tvg-rec="0",KLI Family HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18176/index.m3u8
-#EXTINF:0 tvg-rec="0",KLI Retro HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18177/index.m3u8
-#EXTINF:0 tvg-rec="0",KLI Киносерия HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19400/index.m3u8
-#EXTINF:0 tvg-rec="0",KLI Horror HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/20050/index.m3u8
-#EXTINF:0 tvg-rec="0",KLI Action HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/20051/index.m3u8
-#EXTINF:0 tvg-rec="0",KLI Drama HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/20053/index.m3u8
-#EXTINF:0 tvg-rec="0",KLI Fantasy HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/20054/index.m3u8
-#EXTINF:0 tvg-rec="0",Eye Media HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/17064/index.m3u8
-#EXTINF:0 tvg-rec="0",Eye Oscar HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/17065/index.m3u8
-#EXTINF:0 tvg-rec="0",Eye Frozen HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/17066/index.m3u8
-#EXTINF:0 tvg-rec="0",Eye Criminal HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/17067/index.m3u8
-#EXTINF:0 tvg-rec="0",Eye Modern HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/17068/index.m3u8
-#EXTINF:0 tvg-rec="0",START Air HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18036/index.m3u8
-#EXTINF:0 tvg-rec="0",VB Российские Сериалы
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18043/index.m3u8
-#EXTINF:0 tvg-rec="0",Kinoshka Thriller HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18055/index.m3u8
-#EXTINF:0 tvg-rec="0",Kinoshka Comedy HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18057/index.m3u8
-#EXTINF:0 tvg-rec="0",Kinoshka Russian HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18058/index.m3u8
-#EXTINF:0 tvg-rec="0",Kinoshka Mystic HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18059/index.m3u8
-#EXTINF:0 tvg-rec="0",Kinoshka Premiere HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18117/index.m3u8
-#EXTINF:0 tvg-rec="0",Kinoshka Action HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18118/index.m3u8
-#EXTINF:0 tvg-rec="0",Kinoshka Drama HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18150/index.m3u8
-#EXTINF:0 tvg-rec="0",Magic Karate HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18061/index.m3u8
-#EXTINF:0 tvg-rec="0",Magic VHS HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18062/index.m3u8
-#EXTINF:0 tvg-rec="0",Magic Comedy HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18063/index.m3u8
-#EXTINF:0 tvg-rec="0",Magic Thriller HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18065/index.m3u8
-#EXTINF:0 tvg-rec="0",Magic Action HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18066/index.m3u8
-#EXTINF:0 tvg-rec="0",Magic Galaxy HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18067/index.m3u8
-#EXTINF:0 tvg-rec="0",Magic Horror HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18068/index.m3u8
-#EXTINF:0 tvg-rec="0",Magic Family HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18170/index.m3u8
-#EXTINF:0 tvg-rec="0",Magic Love HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18171/index.m3u8
-#EXTINF:0 tvg-rec="0",Tviksel Кино 1 HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18069/index.m3u8
-#EXTINF:0 tvg-rec="0",Tviksel Кино 2 HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18070/index.m3u8
-#EXTINF:0 tvg-rec="0",Tviksel Кино 1 International
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18071/index.m3u8
-#EXTINF:0 tvg-rec="0",Tviksel Военное кино HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18072/index.m3u8
-#EXTINF:0 tvg-rec="0",Tviksel Детское кино HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18073/index.m3u8
-#EXTINF:0 tvg-rec="0",Tviksel Детское кино International
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18074/index.m3u8
-#EXTINF:0 tvg-rec="0",Триколор Взвешенные люди HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18126/index.m3u8
-#EXTINF:0 tvg-rec="0",Триколор След
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18127/index.m3u8
-#EXTINF:0 tvg-rec="0",Триколор Ментовские войны
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18128/index.m3u8
-#EXTINF:0 tvg-rec="0",Триколор Мелодрамы
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18129/index.m3u8
-#EXTINF:0 tvg-rec="0",Триколор Солдаты
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18130/index.m3u8
-#EXTINF:0 tvg-rec="0",Триколор Таксистка
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18131/index.m3u8
-#EXTINF:0 tvg-rec="0",Триколор Три кота
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18132/index.m3u8
-#EXTINF:0 tvg-rec="0",Триколор Вне закона
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18133/index.m3u8
-#EXTINF:0 tvg-rec="0",Триколор Анна
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18134/index.m3u8
-#EXTINF:0 tvg-rec="0",Триколор Советские мультфильмы
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18135/index.m3u8
-#EXTINF:0 tvg-rec="0",Триколор Смешарики
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18136/index.m3u8
-#EXTINF:0 tvg-rec="0",Триколор Комедии
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/18137/index.m3u8
-#EXTINF:0 tvg-rec="0",Киносерия HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19229/index.m3u8
-#EXTINF:0 tvg-rec="0",Наше Новое Кино HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19231/index.m3u8
-#EXTINF:0 tvg-rec="0",Cinema HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19233/index.m3u8
-#EXTINF:0 tvg-rec="0",BOX Franchise HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19274/index.m3u8
-#EXTINF:0 tvg-rec="0",BOX Hybrid HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19275/index.m3u8
-#EXTINF:0 tvg-rec="0",BOX Anime HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19276/index.m3u8
-#EXTINF:0 tvg-rec="0",BOX Gangster HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19277/index.m3u8
-#EXTINF:0 tvg-rec="0",BOX Oscar HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19278/index.m3u8
-#EXTINF:0 tvg-rec="0",BOX Memory HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19279/index.m3u8
-#EXTINF:0 tvg-rec="0",BOX M.Serial HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19280/index.m3u8
-#EXTINF:0 tvg-rec="0",BOX Serial HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19281/index.m3u8
-#EXTINF:0 tvg-rec="0",BOX Game HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19284/index.m3u8
-#EXTINF:0 tvg-rec="0",BOX Spy HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19285/index.m3u8
-#EXTINF:0 tvg-rec="0",BOX Travel HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19418/index.m3u8
-#EXTINF:0 tvg-rec="0",BOX Western HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19419/index.m3u8
-#EXTINF:0 tvg-rec="0",BOX Zombie HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19420/index.m3u8
-#EXTINF:0 tvg-rec="0",BOX Cyber HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19421/index.m3u8
-#EXTINF:0 tvg-rec="0",PG Insomnia HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19398/index.m3u8
-#EXTINF:0 tvg-rec="0",MYTV
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19407/index.m3u8
-#EXTINF:0 tvg-rec="0",MYTV 2
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19408/index.m3u8
-#EXTINF:0 tvg-rec="0",MYTV 3
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19411/index.m3u8
-#EXTINF:0 tvg-rec="0",MYTV HIT
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19410/index.m3u8
-#EXTINF:0 tvg-rec="0",Citrus Live HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/19436/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Планктон FHD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/20140/index.m3u8
-#EXTINF:0 tvg-rec="0",Magic Adventure HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/20141/index.m3u8
-#EXTINF:0 tvg-rec="0",BOX Ghost HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/20154/index.m3u8
-#EXTINF:0 tvg-rec="0",BOX Stories HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/20155/index.m3u8
-#EXTINF:0 tvg-rec="0",BOX Fantasy HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/20156/index.m3u8
-#EXTINF:0 tvg-rec="0",BOX Premiere 4K
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/20157/index.m3u8
-#EXTINF:0 tvg-rec="0",BOX Remast 4K
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/20158/index.m3u8
-#EXTINF:0 tvg-rec="0",BOX Mayday HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/20159/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty XX Век 4K
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/20173/index.m3u8
-#EXTINF:0 tvg-rec="0",VB Назад в СССР HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/20175/index.m3u8
-#EXTINF:0 tvg-rec="0",VB Спецназ-Диверсант HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/20176/index.m3u8
-#EXTINF:0 tvg-rec="0",KLI Netflix HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/20177/index.m3u8
-#EXTINF:0 tvg-rec="0",DetectiveJam HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/20209/index.m3u8
-#EXTINF:0 tvg-rec="0",FamilyJam HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/20210/index.m3u8
-#EXTINF:0 tvg-rec="0",KION Хит HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/20211/index.m3u8
-#EXTINF:0 tvg-rec="0",Eye Family HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/20216/index.m3u8
-#EXTINF:0 tvg-rec="0",Eye History HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/20217/index.m3u8
-#EXTINF:0 tvg-rec="0",Eye Western HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/20218/index.m3u8
-#EXTINF:0 tvg-rec="0",Eye Drive HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/20219/index.m3u8
-#EXTINF:0 tvg-rec="0",Eye Cyber HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/20220/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Кинофестиваль HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31621/index.m3u8
-#EXTINF:0 tvg-rec="0",VB Сваты HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31624/index.m3u8
-#EXTINF:0 tvg-rec="0",CineMan Криминальные Сериалы
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31626/index.m3u8
-#EXTINF:0 tvg-rec="0",CineMan Комедийные Сериалы
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31628/index.m3u8
-#EXTINF:0 tvg-rec="0",CineMan Фитнес
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31629/index.m3u8
-#EXTINF:0 tvg-rec="0",Magic Russian HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31630/index.m3u8
-#EXTINF:0 tvg-rec="0",KLI Millennium HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31631/index.m3u8
-#EXTINF:0 tvg-rec="0",KLI Marvel HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31632/index.m3u8
-#EXTINF:0 tvg-rec="0",KLI Franchise HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31634/index.m3u8
-#EXTINF:0 tvg-rec="0",KLI Relax HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31636/index.m3u8
-#EXTINF:0 tvg-rec="0",VeleS 60fps
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31637/index.m3u8
-#EXTINF:0 tvg-rec="0",VeleS Киноплёнка
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31638/index.m3u8
-#EXTINF:0 tvg-rec="0",VeleS Киносерия
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31640/index.m3u8
-#EXTINF:0 tvg-rec="0",VeleS Premiere
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31641/index.m3u8
-#EXTINF:0 tvg-rec="0",VeleS Страшное
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31642/index.m3u8
-#EXTINF:0 tvg-rec="0",VeleS СССР
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31643/index.m3u8
-#EXTINF:0 tvg-rec="0",VeleS Movie Hits
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31644/index.m3u8
-#EXTINF:0 tvg-rec="0",Kinoshka Ukraine HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31647/index.m3u8
-#EXTINF:0 tvg-rec="0",BOX Apocalypse HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31655/index.m3u8
-#EXTINF:0 tvg-rec="0",BOX Remast+ 4K
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31656/index.m3u8
-#EXTINF:0 tvg-rec="0",BOX Serial 4K
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31657/index.m3u8
-#EXTINF:0 tvg-rec="0",BCU Russia 90s HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31658/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Мульт UKR FHD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31659/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Кино UKR FHD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31660/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Дрим Воркс 4K
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31661/index.m3u8
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31553/index.m3u8
 #EXTINF:0 tvg-rec="0",Liberty Криминал 4K
 #EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31663/index.m3u8
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31663/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV 4K HDR
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31620/index.m3u8
+#EXTINF:0 tvg-rec="0",Magic Russian HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31630/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Кинофестиваль HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31621/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI Millennium HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31631/index.m3u8
+#EXTINF:0 tvg-rec="0",VB Сваты HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31624/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX СССР 4K
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31625/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Кино UKR FHD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31660/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan Комедийные Сериалы
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31628/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan Криминальные Сериалы
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31626/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI Marvel HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31632/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Дрим Воркс 4K
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31661/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Apocalypse HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31655/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Remast+ 4K
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31656/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI Franchise HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31634/index.m3u8
+#EXTINF:0 tvg-rec="0",VeleS Магнитофон
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31645/index.m3u8
+#EXTINF:0 tvg-rec="0",VeleS 60fps
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31637/index.m3u8
+#EXTINF:0 tvg-rec="0",VeleS Premiere
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31641/index.m3u8
+#EXTINF:0 tvg-rec="0",VeleS Киноплёнка
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31638/index.m3u8
+#EXTINF:0 tvg-rec="0",VeleS Страшное
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31642/index.m3u8
+#EXTINF:0 tvg-rec="0",VeleS СССР
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31643/index.m3u8
+#EXTINF:0 tvg-rec="0",VeleS Киносерия
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31640/index.m3u8
+#EXTINF:0 tvg-rec="0",VeleS Movie Hits
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31644/index.m3u8
+#EXTINF:0 tvg-rec="0",Kinoshka Ukraine HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31647/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Serial 4K
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31657/index.m3u8
 #EXTINF:0 tvg-rec="0",Liberty Аванпост 4K
 #EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31664/index.m3u8
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31664/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Мюзикл 4K
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31662/index.m3u8
 #EXTINF:0 tvg-rec="0",Liberty Сериалы 4K
 #EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31665/index.m3u8
-#EXTINF:0 tvg-rec="0",Z!Thriller HD
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31665/index.m3u8
+#EXTINF:0 tvg-rec="0",Viasat Kino World orig
 #EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31693/index.m3u8
-#EXTINF:0 tvg-rec="0",Z!Action HD
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31447/index.m3u8
+#EXTINF:0 tvg-rec="0",Viasat Kino World HD
 #EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31694/index.m3u8
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31448/index.m3u8
+#EXTINF:0 tvg-rec="0",Viasat Kino World HD orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31449/index.m3u8
+#EXTINF:0 tvg-rec="0",Суспільне Культура HD UA
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31747/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Kinozakaz Premiere 4K
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31547/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Premiere+ 4K HDR
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31549/index.m3u8
+#EXTINF:0 tvg-rec="0",Любимое Кино HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/20014/index.m3u8
+#EXTINF:0 tvg-rec="0",FX HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19216/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Боевики HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/20172/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Ужасы HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/20178/index.m3u8
+#EXTINF:0 tvg-rec="0",Romance HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/2037/index.m3u8
+#EXTINF:0 tvg-rec="0",Suspense HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/2049/index.m3u8
+#EXTINF:0 tvg-rec="0",Sumiko HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/2163/index.m3u8
+#EXTINF:0 tvg-rec="0",KinoLiving
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/16018/index.m3u8
+#EXTINF:0 tvg-rec="7",Лавстори HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/2034/index.m3u8
+#EXTINF:0 tvg-rec="3",Советская киноклассика HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/2146/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju TV1000 Новелла HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/2002/index.m3u8
+#EXTINF:0 tvg-rec="0",Феникс плюс Кино HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/16154/index.m3u8
+#EXTINF:0 tvg-rec="3",VHS-ка HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/5006/index.m3u8
+#EXTINF:0 tvg-rec="0",Viasat Kino Megahit HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/14141/index.m3u8
+#EXTINF:0 tvg-rec="0",Viasat Serial HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/17056/index.m3u8
+#EXTINF:0 tvg-rec="0",.black HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/20019/index.m3u8
+#EXTINF:0 tvg-rec="0",.sci-fi HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/20020/index.m3u8
+#EXTINF:0 tvg-rec="0",Scream HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/20021/index.m3u8
+#EXTINF:0 tvg-rec="0",Shot TV HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/20022/index.m3u8
+#EXTINF:0 tvg-rec="0",О!Кино
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/20023/index.m3u8
+#EXTINF:0 tvg-rec="0",4ever Drama HD UA
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/17051/index.m3u8
+#EXTINF:0 tvg-rec="0",NOW Series HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/15102/index.m3u8
+#EXTINF:0 tvg-rec="0",FilmZone Plus HD EE
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/20025/index.m3u8
+#EXTINF:0 tvg-rec="0",Shot TV orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9347/index.m3u8
+#EXTINF:0 tvg-rec="3",VF Счастливы Вместе
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9242/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Бесстыжие
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/10075/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Владимир Высоцкий 
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/10066/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Два с половиной человека
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/10062/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Новогодний
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/17035/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Ёлки
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/14222/index.m3u8
+#EXTINF:0 tvg-rec="0",VF New Year
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/15522/index.m3u8
+#EXTINF:0 tvg-rec="0",VF С новым годом!
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/15524/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Гарри Поттер
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/14230/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Секс в большом городе
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/14224/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Карточный домик
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/14221/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Disney Movie
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/15010/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Теория большого взрыва
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/15009/index.m3u8
+#EXTINF:0 tvg-rec="0",Timeless Dizi Channel
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/14006/index.m3u8
+#EXTINF:0 tvg-rec="0",TVRUS
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/14022/index.m3u8
+#EXTINF:0 tvg-rec="3",FX Life
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9232/index.m3u8
+#EXTINF:0 tvg-rec="0",FX Life HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/14003/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Family Guy HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19414/index.m3u8
+#EXTINF:0 tvg-rec="0",MM OldSchool HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19413/index.m3u8
+#EXTINF:0 tvg-rec="0",FAN HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/16021/index.m3u8
+#EXTINF:0 tvg-rec="3",Amedia Hit HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/6010/index.m3u8
+#EXTINF:0 tvg-rec="3",Ultra HD Cinema 4K
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/4000/index.m3u8
+#EXTINF:0 tvg-rec="3",Кино UHD 4K
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/5004/index.m3u8
+#EXTINF:0 tvg-rec="7",Остросюжетное HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/904/index.m3u8
+#EXTINF:0 tvg-rec="3",Премиальное FHD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/2410/index.m3u8
+#EXTINF:0 tvg-rec="7",Дом Кино Премиум HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/911/index.m3u8
+#EXTINF:0 tvg-rec="3",Дом Кино Премиум HD orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/5082/index.m3u8
+#EXTINF:0 tvg-rec="3",Про Любовь HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/2430/index.m3u8
+#EXTINF:0 tvg-rec="3",Наш Кинопоказ HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/2434/index.m3u8
+#EXTINF:0 tvg-rec="3",Блокбастер HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/2436/index.m3u8
+#EXTINF:0 tvg-rec="3",Хит HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/2438/index.m3u8
+#EXTINF:0 tvg-rec="3",Кинопоказ HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/2439/index.m3u8
+#EXTINF:0 tvg-rec="3",Наше Мужское HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/2440/index.m3u8
+#EXTINF:0 tvg-rec="3",Камеди HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/2441/index.m3u8
+#EXTINF:0 tvg-rec="3",Viju+ Serial HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/2443/index.m3u8
+#EXTINF:0 tvg-rec="3",Романтичное HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/5053/index.m3u8
+#EXTINF:0 tvg-rec="7",Комедийное HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/912/index.m3u8
+#EXTINF:0 tvg-rec="7",Душевное HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/914/index.m3u8
+#EXTINF:0 tvg-rec="7",Наше HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/915/index.m3u8
+#EXTINF:0 tvg-rec="3",Любимое HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/2106/index.m3u8
+#EXTINF:0 tvg-rec="7",Кинопремьера HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/224/index.m3u8
+#EXTINF:0 tvg-rec="3",Киноужас HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/2056/index.m3u8
+#EXTINF:0 tvg-rec="3",Русский роман HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/2076/index.m3u8
+#EXTINF:0 tvg-rec="3",Русский иллюзион HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/2114/index.m3u8
+#EXTINF:0 tvg-rec="3",Дорама HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/2131/index.m3u8
+#EXTINF:0 tvg-rec="3",Кино ТВ HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/2097/index.m3u8
+#EXTINF:0 tvg-rec="7",Amedia Premium HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/229/index.m3u8
+#EXTINF:0 tvg-rec="7",Hollywood HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/209/index.m3u8
+#EXTINF:0 tvg-rec="3",Bollywood HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/239/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju+ Premiere HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/202/index.m3u8
+#EXTINF:0 tvg-rec="3",Viju+ Premiere HD orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/5079/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju+ Comedy HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/200/index.m3u8
+#EXTINF:0 tvg-rec="3",Viju+ Comedy HD orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/5080/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju+ Megahit HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/201/index.m3u8
+#EXTINF:0 tvg-rec="3",Viju+ Megahit HD orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/5081/index.m3u8
+#EXTINF:0 tvg-rec="3",Epic Drama
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/1048/index.m3u8
+#EXTINF:0 tvg-rec="3",День Победы HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/5054/index.m3u8
+#EXTINF:0 tvg-rec="3",Победа HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/5052/index.m3u8
+#EXTINF:0 tvg-rec="7",Победа
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/2003/index.m3u8
+#EXTINF:0 tvg-rec="7",Amedia 2 HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/2046/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju TV1000 Русское
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/101/index.m3u8
+#EXTINF:0 tvg-rec="7",.sci-fi
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/110/index.m3u8
+#EXTINF:0 tvg-rec="7",Киномикс
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/509/index.m3u8
+#EXTINF:0 tvg-rec="7",Киносемья
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/125/index.m3u8
+#EXTINF:0 tvg-rec="7",Родное Кино
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/126/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju TV1000 Action
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/131/index.m3u8
+#EXTINF:0 tvg-rec="7",Кинохит
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/516/index.m3u8
+#EXTINF:0 tvg-rec="7",Amedia 2
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/510/index.m3u8
+#EXTINF:0 tvg-rec="7",Наше Новое Кино
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/517/index.m3u8
+#EXTINF:0 tvg-rec="7",ТВ 21
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/525/index.m3u8
+#EXTINF:0 tvg-rec="7",Кинокомедия
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/145/index.m3u8
+#EXTINF:0 tvg-rec="7",Индийское Кино
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/146/index.m3u8
+#EXTINF:0 tvg-rec="7",Киносерия
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/148/index.m3u8
+#EXTINF:0 tvg-rec="7",Русский иллюзион
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/547/index.m3u8
+#EXTINF:0 tvg-rec="7",Еврокино
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/549/index.m3u8
+#EXTINF:0 tvg-rec="7",Кинеко
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/550/index.m3u8
+#EXTINF:0 tvg-rec="7",Сапфир
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/553/index.m3u8
+#EXTINF:0 tvg-rec="7",Дом Кино
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/154/index.m3u8
+#EXTINF:0 tvg-rec="7",Amedia 1
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/554/index.m3u8
+#EXTINF:0 tvg-rec="7",Amedia Premium
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/555/index.m3u8
+#EXTINF:0 tvg-rec="7",Amedia Hit
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/556/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju TV1000
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/132/index.m3u8
+#EXTINF:0 tvg-rec="7",Мужское Кино
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/164/index.m3u8
+#EXTINF:0 tvg-rec="7",Hollywood
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/557/index.m3u8
+#EXTINF:0 tvg-rec="7",.red
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/559/index.m3u8
+#EXTINF:0 tvg-rec="7",2x2
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/702/index.m3u8
+#EXTINF:0 tvg-rec="7",.black
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/708/index.m3u8
+#EXTINF:0 tvg-rec="7",Русский бестселлер
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/905/index.m3u8
+#EXTINF:0 tvg-rec="7",Русский роман
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/906/index.m3u8
+#EXTINF:0 tvg-rec="7",Русский детектив
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/907/index.m3u8
+#EXTINF:0 tvg-rec="7",Любимое Кино
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/722/index.m3u8
+#EXTINF:0 tvg-rec="7",Киносвидание
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/728/index.m3u8
+#EXTINF:0 tvg-rec="7",Кино ТВ
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/732/index.m3u8
+#EXTINF:0 tvg-rec="7",Комедия
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/733/index.m3u8
+#EXTINF:0 tvg-rec="7",FAN
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/734/index.m3u8
+#EXTINF:0 tvg-rec="7",НТВ Хит
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/741/index.m3u8
+#EXTINF:0 tvg-rec="7",НТВ Сериал
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/744/index.m3u8
+#EXTINF:0 tvg-rec="7",НСТ
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/726/index.m3u8
+#EXTINF:0 tvg-rec="3",Индия
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/1001/index.m3u8
+#EXTINF:0 tvg-rec="3",FilmBox
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/1071/index.m3u8
+#EXTINF:0 tvg-rec="3",Дорама
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/1066/index.m3u8
+#EXTINF:0 tvg-rec="7",Мир Сериала
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/856/index.m3u8
+#EXTINF:0 tvg-rec="7",Ретро
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/2018/index.m3u8
+#EXTINF:0 tvg-rec="7",Иллюзион+
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/2038/index.m3u8
+#EXTINF:0 tvg-rec="7",Феникс плюс Кино
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/2039/index.m3u8
+#EXTINF:0 tvg-rec="3",.red HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/2062/index.m3u8
+#EXTINF:0 tvg-rec="3",Киноман
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/2121/index.m3u8
+#EXTINF:0 tvg-rec="3",Cinema
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/5051/index.m3u8
+#EXTINF:0 tvg-rec="7",Comedy Central
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/157/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 1
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/2568/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 2
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/2569/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 3
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/2570/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 4
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/2571/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 5
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/2572/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 6
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/2573/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 7
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/2574/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 8
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/2575/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 9
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/2576/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 10
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/2577/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 11
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/2578/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 12
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/2579/index.m3u8
+#EXTINF:0 tvg-rec="3",Шокирующее HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/6299/index.m3u8
+#EXTINF:0 tvg-rec="3",Viju TV1000 Action HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/6386/index.m3u8
+#EXTINF:0 tvg-rec="3",Viju TV1000 HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/6387/index.m3u8
+#EXTINF:0 tvg-rec="0",Viju TV1000 Русское HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/6388/index.m3u8
+#EXTINF:0 tvg-rec="3",Сапфир HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/6389/index.m3u8
+#EXTINF:0 tvg-rec="3",Мосфильм. Золотая коллекция
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/6392/index.m3u8
+#EXTINF:0 tvg-rec="3",Trash HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/6396/index.m3u8
+#EXTINF:0 tvg-rec="3",Шокирующее HD orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9004/index.m3u8
+#EXTINF:0 tvg-rec="3",Комедийное HD orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9005/index.m3u8
+#EXTINF:0 tvg-rec="3",Hollywood HD orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9017/index.m3u8
+#EXTINF:0 tvg-rec="3",FX HD orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9018/index.m3u8
+#EXTINF:0 tvg-rec="3",Кинопремьера HD orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9020/index.m3u8
+#EXTINF:0 tvg-rec="3",Amedia Premium HD orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9022/index.m3u8
+#EXTINF:0 tvg-rec="3",Киноужас HD orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9033/index.m3u8
+#EXTINF:0 tvg-rec="3",.red HD orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9035/index.m3u8
+#EXTINF:0 tvg-rec="3",Русский роман HD orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9041/index.m3u8
+#EXTINF:0 tvg-rec="3",Остросюжетное HD orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9044/index.m3u8
+#EXTINF:0 tvg-rec="3",Наше HD orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9046/index.m3u8
+#EXTINF:0 tvg-rec="3",Кино ТВ HD orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9051/index.m3u8
+#EXTINF:0 tvg-rec="3",Viju TV1000 Action HD orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9057/index.m3u8
+#EXTINF:0 tvg-rec="3",Viju TV1000 HD orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9058/index.m3u8
+#EXTINF:0 tvg-rec="0",Viju TV1000 Русское HD orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9059/index.m3u8
+#EXTINF:0 tvg-rec="3",Amedia 1 HD orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9069/index.m3u8
+#EXTINF:0 tvg-rec="3",Amedia Hit HD orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9070/index.m3u8
+#EXTINF:0 tvg-rec="3",Еврокино HD orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9078/index.m3u8
+#EXTINF:0 tvg-rec="3",Иллюзион+ HD orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9079/index.m3u8
+#EXTINF:0 tvg-rec="3",Русский иллюзион HD orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9080/index.m3u8
+#EXTINF:0 tvg-rec="3",Наш Кинопоказ HD orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9086/index.m3u8
+#EXTINF:0 tvg-rec="3",Блокбастер HD orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9087/index.m3u8
+#EXTINF:0 tvg-rec="3",Наше Мужское HD orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9088/index.m3u8
+#EXTINF:0 tvg-rec="3",Про Любовь HD orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9089/index.m3u8
+#EXTINF:0 tvg-rec="3",Хит HD orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9090/index.m3u8
+#EXTINF:0 tvg-rec="3",Камеди HD orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9091/index.m3u8
+#EXTINF:0 tvg-rec="3",Кинопоказ HD orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9092/index.m3u8
+#EXTINF:0 tvg-rec="3",.sci-fi orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9125/index.m3u8
+#EXTINF:0 tvg-rec="3",Киномикс orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9126/index.m3u8
+#EXTINF:0 tvg-rec="3",Родное Кино orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9127/index.m3u8
+#EXTINF:0 tvg-rec="3",Кинохит orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9128/index.m3u8
+#EXTINF:0 tvg-rec="0",Amedia 2 orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9129/index.m3u8
+#EXTINF:0 tvg-rec="3",ТВ 21 orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9130/index.m3u8
+#EXTINF:0 tvg-rec="3",Индийское Кино orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9131/index.m3u8
+#EXTINF:0 tvg-rec="3",Киносерия orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9132/index.m3u8
+#EXTINF:0 tvg-rec="3",Русский иллюзион orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9133/index.m3u8
+#EXTINF:0 tvg-rec="3",Еврокино orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9134/index.m3u8
+#EXTINF:0 tvg-rec="3",Кинеко HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9135/index.m3u8
+#EXTINF:0 tvg-rec="3",Дом Кино orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9136/index.m3u8
+#EXTINF:0 tvg-rec="3",Amedia 1 orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9137/index.m3u8
+#EXTINF:0 tvg-rec="3",Мужское Кино HD orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9138/index.m3u8
+#EXTINF:0 tvg-rec="3",2x2 orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9139/index.m3u8
+#EXTINF:0 tvg-rec="3",.black orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9140/index.m3u8
+#EXTINF:0 tvg-rec="3",Русский бестселлер orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9141/index.m3u8
+#EXTINF:0 tvg-rec="3",Русский детектив orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9142/index.m3u8
+#EXTINF:0 tvg-rec="3",Любимое Кино orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9143/index.m3u8
+#EXTINF:0 tvg-rec="3",Комедия orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9144/index.m3u8
+#EXTINF:0 tvg-rec="3",FAN orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9145/index.m3u8
+#EXTINF:0 tvg-rec="3",НТВ Хит orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9146/index.m3u8
+#EXTINF:0 tvg-rec="3",НТВ Сериал orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9147/index.m3u8
+#EXTINF:0 tvg-rec="3",НСТ orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9148/index.m3u8
+#EXTINF:0 tvg-rec="3",Индия orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9149/index.m3u8
+#EXTINF:0 tvg-rec="3",FilmBox ArtHouse orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9150/index.m3u8
+#EXTINF:0 tvg-rec="3",Мир Сериала orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9151/index.m3u8
+#EXTINF:0 tvg-rec="3",Ретро orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9152/index.m3u8
+#EXTINF:0 tvg-rec="3",Феникс плюс Кино orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9153/index.m3u8
+#EXTINF:0 tvg-rec="3",Киноман orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9154/index.m3u8
+#EXTINF:0 tvg-rec="3",Мосфильм. Золотая коллекция orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9156/index.m3u8
+#EXTINF:0 tvg-rec="3",Дорама HD orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9224/index.m3u8
+#EXTINF:0 tvg-rec="3",Bollywood HD orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9225/index.m3u8
+#EXTINF:0 tvg-rec="3",Победа orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9226/index.m3u8
+#EXTINF:0 tvg-rec="0",Viju TV1000 Русское orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9227/index.m3u8
+#EXTINF:0 tvg-rec="3",Киносемья HD orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9228/index.m3u8
+#EXTINF:0 tvg-rec="3",Viju TV1000 Action orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9229/index.m3u8
+#EXTINF:0 tvg-rec="3",Наше Новое Кино orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9230/index.m3u8
+#EXTINF:0 tvg-rec="3",Кинокомедия orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9231/index.m3u8
+#EXTINF:0 tvg-rec="3",Amedia Premium FHD orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9233/index.m3u8
+#EXTINF:0 tvg-rec="3",Amedia Hit orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9234/index.m3u8
+#EXTINF:0 tvg-rec="3",Viju TV1000 orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9235/index.m3u8
+#EXTINF:0 tvg-rec="3",Hollywood orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9236/index.m3u8
+#EXTINF:0 tvg-rec="3",.red orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9237/index.m3u8
+#EXTINF:0 tvg-rec="3",Киносвидание orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9238/index.m3u8
+#EXTINF:0 tvg-rec="3",Дорама orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9239/index.m3u8
+#EXTINF:0 tvg-rec="3",Русский роман orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9240/index.m3u8
+#EXTINF:0 tvg-rec="3",Иллюзион+ orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9241/index.m3u8
+#EXTINF:0 tvg-rec="3",Кино ТВ orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9244/index.m3u8
+#EXTINF:0 tvg-rec="3",Viju+ Serial HD orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/9245/index.m3u8
+#EXTINF:0 tvg-rec="0",Премиальное HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/7222/index.m3u8
+#EXTINF:0 tvg-rec="0",Киносемья HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/7244/index.m3u8
+#EXTINF:0 tvg-rec="0",Киносвидание HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/7245/index.m3u8
+#EXTINF:0 tvg-rec="0",Страшное HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/7247/index.m3u8
+#EXTINF:0 tvg-rec="0",Кинокомедия HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/7248/index.m3u8
+#EXTINF:0 tvg-rec="0",Киномикс HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/7249/index.m3u8
+#EXTINF:0 tvg-rec="0",Кинохит HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/7250/index.m3u8
+#EXTINF:0 tvg-rec="0",KinoJam 1 HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/7260/index.m3u8
+#EXTINF:0 tvg-rec="0",KinoJam 2 HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/7261/index.m3u8
+#EXTINF:0 tvg-rec="0",Мосфильм. Золотая коллекция HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/7347/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Adventure
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/10000/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Anime
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/10001/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Cartoon
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/10002/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Comedy
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/10003/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Family
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/10004/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Fantasy
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/10005/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Melodrama
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/10006/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Mystic
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/10007/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Ужасы
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/10008/index.m3u8
+#EXTINF:0 tvg-rec="7",VF VHS MIX
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/10009/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Ужасы VHS
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/10010/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Премьера
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/10051/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Premiere
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/10052/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Классика
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/10053/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Classic
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/10054/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Комедия
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/10055/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Катастрофы
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/10080/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Marvel
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/10081/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Военные
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/10082/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Наша победа
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/10083/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Мосфильм
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/10084/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Фильмы СССР
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/10085/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Мультфильмы СССР
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/10086/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Боевик
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/10087/index.m3u8
+#EXTINF:0 tvg-rec="0",Премиальное HD 50
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/10017/index.m3u8
+#EXTINF:0 tvg-rec="0",Душевное HD orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/10042/index.m3u8
+#EXTINF:0 tvg-rec="0",Премиальное HD orig
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/10044/index.m3u8
+#EXTINF:0 tvg-rec="0",Мужское Кино HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/10045/index.m3u8
+#EXTINF:0 tvg-rec="3",Shot TV
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/526/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11004/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Top
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11005/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Action
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11006/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Thriller
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11007/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Мелодрама
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11008/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Marvel
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11009/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Ужасы
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11010/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Комедия
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11011/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan VHS
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11012/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan РуКино
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11013/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Сваты
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11014/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan Катастрофы
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/15106/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan Ментовские войны
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/16063/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan ПёС + Лихач
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/16064/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan Лесник
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/16065/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan MiniSeries
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19437/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Premiere 1 HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11015/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Premiere 2 HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11016/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Premiere 3 HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11017/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU СССР HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11026/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Action HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11027/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Catastrophe HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11028/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Cinema HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11029/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Cinema+ HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11030/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Comedy HDR
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11031/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Fantastic HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11032/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU FilMystic HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11033/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU History HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11034/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Kinorating HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11037/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Marvel HDR
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11038/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Premiere HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11039/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Romantic HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11040/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Russian HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11041/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU VHS HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11042/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Media HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11043/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Stars HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11044/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Ultra 4K
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11045/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU RuSerial HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11046/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Сваты HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11047/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Criminal HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11048/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Premiere Ultra 4K
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/15023/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Media HD OLD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/15024/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Marvel HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/15025/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Comedy HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/15026/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Reality HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/16082/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Reality OLD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/16083/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Survival HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/17019/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Survival OLD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/17020/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Cosmo HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/17021/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU TruMotion HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/17054/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Romantic OLD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18052/index.m3u8
+#EXTINF:0 tvg-rec="7",StrahTV Alladin
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11054/index.m3u8
+#EXTINF:0 tvg-rec="7",StrahTV The X-Files
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11055/index.m3u8
+#EXTINF:0 tvg-rec="7",StrahTV VHS HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11059/index.m3u8
+#EXTINF:0 tvg-rec="7",StrahTV Интерны ТВ
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11060/index.m3u8
+#EXTINF:0 tvg-rec="7",StrahTV СССР
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11061/index.m3u8
+#EXTINF:0 tvg-rec="7",StrahTV Сваты
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11062/index.m3u8
+#EXTINF:0 tvg-rec="7",StrahTV Универ ТВ
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11063/index.m3u8
+#EXTINF:0 tvg-rec="7",StrahTV Хит HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11064/index.m3u8
+#EXTINF:0 tvg-rec="7",StrahTV Космо HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11065/index.m3u8
+#EXTINF:0 tvg-rec="7",StrahTV Страх HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11069/index.m3u8
+#EXTINF:0 tvg-rec="7",StrahTV Фантастика HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11070/index.m3u8
+#EXTINF:0 tvg-rec="7",StrahTV Юнит HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11071/index.m3u8
+#EXTINF:0 tvg-rec="7",PG Premiere HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11094/index.m3u8
+#EXTINF:0 tvg-rec="7",PG Premium HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11095/index.m3u8
+#EXTINF:0 tvg-rec="7",PG РуКино HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11096/index.m3u8
+#EXTINF:0 tvg-rec="7",PG Victory HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11097/index.m3u8
+#EXTINF:0 tvg-rec="7",PG Paradox HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11098/index.m3u8
+#EXTINF:0 tvg-rec="7",PG Thriller HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11099/index.m3u8
+#EXTINF:0 tvg-rec="7",PG Paradise HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11100/index.m3u8
+#EXTINF:0 tvg-rec="7",PG Serial HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11101/index.m3u8
+#EXTINF:0 tvg-rec="7",PG USSR HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11102/index.m3u8
+#EXTINF:0 tvg-rec="0",PG VHS HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/15000/index.m3u8
+#EXTINF:0 tvg-rec="0",VB VHS Classic
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19429/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Кино 4K
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11114/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Сериал 4K
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11115/index.m3u8
+#EXTINF:0 tvg-rec="0",VF TOP Series
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11116/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Art house
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11119/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Detective
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11120/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Fantastic
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11121/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Оскар
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/11122/index.m3u8
+#EXTINF:0 tvg-rec="0",TOP Великолепный Век HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13001/index.m3u8
+#EXTINF:0 tvg-rec="0",TOP 80 S HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13002/index.m3u8
+#EXTINF:0 tvg-rec="0",TOP BUDO HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13003/index.m3u8
+#EXTINF:0 tvg-rec="0",TOP Cinema HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13004/index.m3u8
+#EXTINF:0 tvg-rec="0",TOP USSR HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13005/index.m3u8
+#EXTINF:0 tvg-rec="0",TOP MIX HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13006/index.m3u8
+#EXTINF:0 tvg-rec="0",MM 007 HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13009/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Love HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13010/index.m3u8
+#EXTINF:0 tvg-rec="0",MM NewFilm 1 HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13011/index.m3u8
+#EXTINF:0 tvg-rec="0",MM NewFilm 2 HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13012/index.m3u8
+#EXTINF:0 tvg-rec="0",MM NewFilm 3 HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13013/index.m3u8
+#EXTINF:0 tvg-rec="0",MM NewFilm RU HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13014/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Rock HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13015/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Tom and Jerry HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13016/index.m3u8
+#EXTINF:0 tvg-rec="0",MM UFO HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13017/index.m3u8
+#EXTINF:0 tvg-rec="0",MM USSR 1941-1945 HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13018/index.m3u8
+#EXTINF:0 tvg-rec="0",MM USSR Комедия HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13019/index.m3u8
+#EXTINF:0 tvg-rec="0",MM USSR Мультфильм HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13020/index.m3u8
+#EXTINF:0 tvg-rec="0",MM USSR Сказки HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13021/index.m3u8
+#EXTINF:0 tvg-rec="0",MM USSR Драма HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13022/index.m3u8
+#EXTINF:0 tvg-rec="0",MM World Hits HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13023/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Агата Кристи HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13024/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Грайндхаус HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13025/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Honey HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13026/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Боевик Classic HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13027/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Боевик HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13028/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Вестерн HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13029/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Воронины HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13031/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Затмение HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13032/index.m3u8
+#EXTINF:0 tvg-rec="0",MM История HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13033/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Катастрофа HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13034/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Квартирник HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13035/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Киберпанк HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13036/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Комедия Classic HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13037/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Комедия HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13038/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Криминал HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13039/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Крутые 90-е HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13040/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Кунг-Фу HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13041/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Lesson HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13042/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Smile HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13043/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Мифология HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13044/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Нуар HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13045/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Ситком 2.0 HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13046/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Погружение HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13047/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Приключения HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13048/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Полицейский с Рублёвки HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13049/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Роскино HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13050/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Сваты HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13051/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Ситком HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13052/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Скорость HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13053/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Спорт HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13054/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Стивен Кинг HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13055/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Супергерои HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13056/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Flip UHD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13057/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Триллер HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13058/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Ужастик HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13059/index.m3u8
+#EXTINF:0 tvg-rec="0",MM USSR Приключения HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13060/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Синематограф HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13061/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Фантастика HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13062/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Фобия HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13063/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Walt Disney HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13064/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Live Planet HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13095/index.m3u8
+#EXTINF:0 tvg-rec="0",MM USSR Детектив HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13096/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Семейный 1 HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13097/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Семейный 2 HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13098/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Ужасы HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13099/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Ужасы Classic HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/14128/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Celebrity HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/16084/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Classic HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/16085/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Драма HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/16086/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Сваты
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13080/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Солдаты
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13081/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Тайны следствия
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13082/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Воронины
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13083/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Универ
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13084/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Series
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13085/index.m3u8
+#EXTINF:0 tvg-rec="0",VF След
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13086/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Сериал
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13087/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Мыльные оперы
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13088/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Thriller
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13089/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Индия
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13090/index.m3u8
+#EXTINF:0 tvg-rec="0",VF История
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13091/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Comics
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13092/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Криминал
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13093/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Клиника
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/13094/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Луи де Фюнес
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/17000/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Чернобыль
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/17001/index.m3u8
+#EXTINF:0 tvg-rec="0",VF The X-Files
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/17002/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Сверхъестественное
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/17003/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Леонид Гайдай
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/17004/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Американская история ужасов
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/17005/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Друзья
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/17006/index.m3u8
+#EXTINF:0 tvg-rec="0",VF СашаТаня
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/17008/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Джеки Чан
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/17009/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Наша Раша
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/17010/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Привет из 90х
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/17011/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Эльдар Рязанов
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/17012/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Универ новая общага
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/17013/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Ходячие мертвецы
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/17014/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Реальные пацаны
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/17015/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Доктор Хаус
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/17016/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Без цензуры
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/17017/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Городок
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18097/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Comedy Woman
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18101/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Игра престолов
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18119/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Одесская киностудия
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18120/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Ленфильм
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18121/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Киностудия им. Горького
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18122/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Рижская киностудия
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18123/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Свердловская киностудия
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18124/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Беларусьфильм
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18125/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Netflix
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19427/index.m3u8
+#EXTINF:0 tvg-rec="0",VF HBO
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19428/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Channel HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/14134/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Comedy HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/14135/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Crime HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/14136/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Horror HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/14137/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Serial HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/15140/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Sitcom HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/15141/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Smile HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/15142/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Grand
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/14171/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV VHS
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/14172/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Русские Фильмы
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/14174/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Советские Фильмы
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/14175/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV New Кино
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/14177/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Трагичное
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/14219/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Забавное
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/14234/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Ковбойское
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/14235/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Best
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/14236/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Adrenaline
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/15105/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Thriller
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/15168/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Oblivion
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/15509/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Adventure
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/15510/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV 4K
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/16153/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Мелодрама
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19434/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Советские Фильмы 4K
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19435/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Netflix
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/20163/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Disney
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/20164/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Best 60fps
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/20165/index.m3u8
+#EXTINF:0 tvg-rec="0",Citrus Comedy
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/16151/index.m3u8
+#EXTINF:0 tvg-rec="0",Citrus Inquest
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/16152/index.m3u8
+#EXTINF:0 tvg-rec="0",Citrus History
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18139/index.m3u8
+#EXTINF:0 tvg-rec="0",Dosug TV Comedy HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/14209/index.m3u8
+#EXTINF:0 tvg-rec="0",Dosug TV Fantastic HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/14210/index.m3u8
+#EXTINF:0 tvg-rec="0",Dosug TV History HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/14211/index.m3u8
+#EXTINF:0 tvg-rec="0",Dosug TV Hit HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/14212/index.m3u8
+#EXTINF:0 tvg-rec="0",Dosug TV Horror HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/14213/index.m3u8
+#EXTINF:0 tvg-rec="0",Dosug TV Kids HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/14214/index.m3u8
+#EXTINF:0 tvg-rec="0",Dosug TV Marvel HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/14215/index.m3u8
+#EXTINF:0 tvg-rec="0",Dosug TV New HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/14216/index.m3u8
+#EXTINF:0 tvg-rec="0",Dosug TV Russian HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/14217/index.m3u8
+#EXTINF:0 tvg-rec="0",Dosug TV СССР HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/14218/index.m3u8
+#EXTINF:0 tvg-rec="0",Dosug TV VHS
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/14225/index.m3u8
+#EXTINF:0 tvg-rec="0",Dosug TV Detective HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/14226/index.m3u8
+#EXTINF:0 tvg-rec="0",Dosug TV Сваты
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/14228/index.m3u8
+#EXTINF:0 tvg-rec="0",Твое ТВ HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/14229/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty DC FHD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/15087/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Ужасы 4K
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/15088/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Триллеры 4K
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/15089/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Марвел FHD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/15090/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Короткометражки FHD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/15091/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Мелодрамы FHD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/15095/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Боевики FHD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/15096/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Кино Микс 4K
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/15110/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Симпсоны FHD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/15111/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Сваты FHD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/15164/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Южный Парк FHD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/16053/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Комедии FHD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/16054/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Сериалы FHD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/16055/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Аниме FHD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/17029/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Кино ENG 4K
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/17060/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Мульт ENG 4K
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/17061/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Кино UKR 4K
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18045/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty РусФильм 4K
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18046/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Индия 4K
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18160/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Куб 4K
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18161/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Семейный 4K
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18178/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Турк Фильм 4K
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19303/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Сказки FHD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19304/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty МиМ FHD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19306/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Союз 4K
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19307/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Легенда 4K
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19308/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Нетфликс 4K
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19402/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Фантастика FHD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19403/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan Скорая Помощь
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/15100/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan Симпсоны
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/15101/index.m3u8
+#EXTINF:0 tvg-rec="0",MS Prisons HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/15137/index.m3u8
+#EXTINF:0 tvg-rec="0",MS Toons HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/15138/index.m3u8
+#EXTINF:0 tvg-rec="0",MS Magic 4K
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/16143/index.m3u8
+#EXTINF:0 tvg-rec="0",MS Young Blood HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/16147/index.m3u8
+#EXTINF:0 tvg-rec="0",MS Animated HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/17024/index.m3u8
+#EXTINF:0 tvg-rec="0",Citrus Cartoon
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/16050/index.m3u8
+#EXTINF:0 tvg-rec="0",Citrus Marvel
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/16051/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Cinema
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19287/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Kids
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19288/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Comedy
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19289/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Premiere
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19290/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Family
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19291/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Rating
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19292/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh VHS
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19293/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Fantastic
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19294/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Series
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19295/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Horror
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19296/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Adventure
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19297/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Romantic
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19298/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Russian
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19299/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Thriller
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19300/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Soviet
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19301/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI Comedy HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/16080/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI History HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18047/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI Russian HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18049/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI Fantastic HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18050/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI VHS HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18173/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI Thriller HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18174/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI СССР HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18175/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI Family HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18176/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI Retro HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18177/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI Киносерия HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19400/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI Horror HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/20050/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI Action HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/20051/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI Drama HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/20053/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI Fantasy HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/20054/index.m3u8
+#EXTINF:0 tvg-rec="0",Eye Media HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/17064/index.m3u8
+#EXTINF:0 tvg-rec="0",Eye Oscar HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/17065/index.m3u8
+#EXTINF:0 tvg-rec="0",Eye Frozen HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/17066/index.m3u8
+#EXTINF:0 tvg-rec="0",Eye Criminal HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/17067/index.m3u8
+#EXTINF:0 tvg-rec="0",Eye Modern HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/17068/index.m3u8
+#EXTINF:0 tvg-rec="0",START Air HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18036/index.m3u8
+#EXTINF:0 tvg-rec="0",VB Российские Сериалы
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18043/index.m3u8
+#EXTINF:0 tvg-rec="0",Kinoshka Thriller HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18055/index.m3u8
+#EXTINF:0 tvg-rec="0",Kinoshka Comedy HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18057/index.m3u8
+#EXTINF:0 tvg-rec="0",Kinoshka Russian HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18058/index.m3u8
+#EXTINF:0 tvg-rec="0",Kinoshka Mystic HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18059/index.m3u8
+#EXTINF:0 tvg-rec="0",Kinoshka Premiere HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18117/index.m3u8
+#EXTINF:0 tvg-rec="0",Kinoshka Action HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18118/index.m3u8
+#EXTINF:0 tvg-rec="0",Kinoshka Drama HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18150/index.m3u8
+#EXTINF:0 tvg-rec="0",Magic Karate HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18061/index.m3u8
+#EXTINF:0 tvg-rec="0",Magic VHS HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18062/index.m3u8
+#EXTINF:0 tvg-rec="0",Magic Comedy HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18063/index.m3u8
+#EXTINF:0 tvg-rec="0",Magic Thriller HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18065/index.m3u8
+#EXTINF:0 tvg-rec="0",Magic Action HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18066/index.m3u8
+#EXTINF:0 tvg-rec="0",Magic Galaxy HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18067/index.m3u8
+#EXTINF:0 tvg-rec="0",Magic Horror HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18068/index.m3u8
+#EXTINF:0 tvg-rec="0",Magic Family HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18170/index.m3u8
+#EXTINF:0 tvg-rec="0",Magic Love HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18171/index.m3u8
+#EXTINF:0 tvg-rec="0",Tviksel Кино 1 HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18069/index.m3u8
+#EXTINF:0 tvg-rec="0",Tviksel Кино 2 HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18070/index.m3u8
+#EXTINF:0 tvg-rec="0",Tviksel Кино 1 International
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18071/index.m3u8
+#EXTINF:0 tvg-rec="0",Tviksel Военное кино HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18072/index.m3u8
+#EXTINF:0 tvg-rec="0",Tviksel Детское кино HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18073/index.m3u8
+#EXTINF:0 tvg-rec="0",Tviksel Детское кино International
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18074/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Взвешенные люди HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18126/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор След
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18127/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Ментовские войны
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18128/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Мелодрамы
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18129/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Солдаты
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18130/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Таксистка
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18131/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Три кота
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18132/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Вне закона
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18133/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Анна
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18134/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Советские мультфильмы
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18135/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Смешарики
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18136/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Комедии
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/18137/index.m3u8
+#EXTINF:0 tvg-rec="0",Киносерия HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19229/index.m3u8
+#EXTINF:0 tvg-rec="0",Наше Новое Кино HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19231/index.m3u8
+#EXTINF:0 tvg-rec="0",Cinema HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19233/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Franchise HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19274/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Hybrid HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19275/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Anime HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19276/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Gangster HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19277/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Oscar HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19278/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Memory HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19279/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX M.Serial HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19280/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Serial HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19281/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Game HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19284/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Spy HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19285/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Travel HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19418/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Western HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19419/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Zombie HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19420/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Cyber HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19421/index.m3u8
+#EXTINF:0 tvg-rec="0",PG Insomnia HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19398/index.m3u8
+#EXTINF:0 tvg-rec="0",MYTV
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19407/index.m3u8
+#EXTINF:0 tvg-rec="0",MYTV 2
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19408/index.m3u8
+#EXTINF:0 tvg-rec="0",MYTV 3
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19411/index.m3u8
+#EXTINF:0 tvg-rec="0",MYTV HIT
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19410/index.m3u8
+#EXTINF:0 tvg-rec="0",Citrus Live HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/19436/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Планктон FHD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/20140/index.m3u8
+#EXTINF:0 tvg-rec="0",Magic Adventure HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/20141/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Ghost HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/20154/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Stories HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/20155/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Fantasy HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/20156/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Premiere 4K
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/20157/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Remast 4K
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/20158/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Mayday HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/20159/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty XX Век 4K
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/20173/index.m3u8
+#EXTINF:0 tvg-rec="0",VB Назад в СССР HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/20175/index.m3u8
+#EXTINF:0 tvg-rec="0",VB Спецназ-Диверсант HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/20176/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI Netflix HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/20177/index.m3u8
+#EXTINF:0 tvg-rec="0",DetectiveJam HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/20209/index.m3u8
+#EXTINF:0 tvg-rec="0",FamilyJam HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/20210/index.m3u8
+#EXTINF:0 tvg-rec="0",KION Хит HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/20211/index.m3u8
+#EXTINF:0 tvg-rec="0",Eye Family HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/20216/index.m3u8
+#EXTINF:0 tvg-rec="0",Eye History HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/20217/index.m3u8
+#EXTINF:0 tvg-rec="0",Eye Western HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/20218/index.m3u8
+#EXTINF:0 tvg-rec="0",Eye Drive HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/20219/index.m3u8
+#EXTINF:0 tvg-rec="0",Eye Cyber HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/20220/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Military HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31696/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Biography HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31697/index.m3u8
 #EXTINF:0 tvg-rec="0",Z!Adventure HD
 #EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31698/index.m3u8
-#EXTINF:0 tvg-rec="0",Z!Detective HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31699/index.m3u8
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31698/index.m3u8
 #EXTINF:0 tvg-rec="0",Z!Drama HD
 #EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31700/index.m3u8
-#EXTINF:0 tvg-rec="0",Z!Family HD
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31700/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Detective HD
 #EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31701/index.m3u8
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31699/index.m3u8
 #EXTINF:0 tvg-rec="0",Z!Fantastic HD
 #EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31702/index.m3u8
-#EXTINF:0 tvg-rec="0",Z!Fantasy HD
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31702/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Family HD
 #EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31703/index.m3u8
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31701/index.m3u8
 #EXTINF:0 tvg-rec="0",Z!Russian HD
 #EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31704/index.m3u8
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31704/index.m3u8
 #EXTINF:0 tvg-rec="0",Z!Fun HD
 #EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31706/index.m3u8
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31706/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Science HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31705/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Fantasy HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31703/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Thriller HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31693/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!History HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31695/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Action HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31694/index.m3u8
 #EXTINF:0 tvg-rec="0",StrahTV Horror HD
 #EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31708/index.m3u8
-#EXTINF:0 tvg-rec="0",StrahTV Байки из склепа
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31711/index.m3u8
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31708/index.m3u8
 #EXTINF:0 tvg-rec="0",StrahTV Громовы
 #EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31712/index.m3u8
-#EXTINF:0 tvg-rec="0",StrahTV Коломбо
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31713/index.m3u8
-#EXTINF:0 tvg-rec="0",StrahTV Кинодром HD
-#EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31714/index.m3u8
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31712/index.m3u8
 #EXTINF:0 tvg-rec="0",StrahTV Bond 007
 #EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31715/index.m3u8
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31715/index.m3u8
+#EXTINF:0 tvg-rec="0",StrahTV Байки из склепа
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31711/index.m3u8
+#EXTINF:0 tvg-rec="0",StrahTV Кинодром HD
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31714/index.m3u8
 #EXTINF:0 tvg-rec="0",StrahTV Ольга HD
 #EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31718/index.m3u8
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31718/index.m3u8
 #EXTINF:0 tvg-rec="0",StrahTV Репка HD
 #EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31719/index.m3u8
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31719/index.m3u8
 #EXTINF:0 tvg-rec="0",StrahTV Страх 2.0 HD
 #EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31720/index.m3u8
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31720/index.m3u8
 #EXTINF:0 tvg-rec="0",StrahTV Фантастика 2.0 HD
 #EXTGRP:Кино
-http://xemo9nfz.russtv.net/iptv/9EK9F7GBDN5FVNG874277A8L/31722/index.m3u8
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31722/index.m3u8
+#EXTINF:0 tvg-rec="0",StrahTV Коломбо
+#EXTGRP:Кино
+http://858d5f04.edmonst.net/iptv/R7U2VPK5EFZVTP/31713/index.m3u8
+
+
+
+
+
+
 
 
 
