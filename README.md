@@ -1,4 +1,8 @@
-# 📺 DF_IPTV
+<p align="center">
+  <img src="assets/logo.png" alt="DF логотип" width="140">
+</p>
+
+<h1 align="center">📺 DF_IPTV</h1>
 
 Бесплатные IPTV-плейлисты 2025: свежие и рабочие ссылки в формате M3U.
 
@@ -36,3 +40,12 @@
 ## ⚠️ Дисклеймер
 
 Плейлисты собраны из открытых источников и могут периодически переставать работать (источники меняют адреса, каналы блокируются и т.д.). Актуальность не гарантируется.
+
+---
+
+## 👤 Автор
+
+**[@Dolov07KBR](https://github.com/Dolov07KBR)** — автор и сопровождение плейлистов.
+
+- Сайт: [dolov07kbr.github.io](https://dolov07kbr.github.io)
+- Telegram-бот продажи VPN: [DF-VPN-Bot](https://github.com/Dolov07KBR/DF-VPN-Bot)
