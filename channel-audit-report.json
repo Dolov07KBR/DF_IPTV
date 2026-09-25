@@ -1,0 +1,579 @@
+{
+  "generated_at": "2026-09-25T22:33:32Z",
+  "author": "Dolov07KBR",
+  "files": {
+    "07.m3u": {
+      "before": 914,
+      "removed_dead": 59,
+      "deduplicated": 104,
+      "added": 0,
+      "after": 751,
+      "malformed_fixed_or_removed": 3,
+      "removed_examples": [
+        {
+          "name": "#EXTINF:-1 group-title=\"Общественные\" tvg-logo=\"https://iptvx.one/picons/rtvi.png\",RTVi",
+          "url": "http://178.134.1.158:8081/rtvi/index.m3u8",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"Спорткомплекс 🏆\",Sky Sports 1 NZ",
+          "url": "https://7pal.short.gy/skyspt1nz",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"Спорткомплекс 🏆\",Sky Sports 2 NZ",
+          "url": "https://7pal.short.gy/skyspt2nz",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"Спорткомплекс 🏆\",Sky Sports Action / NFL",
+          "url": "https://7pal.short.gy/ssportsat",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"Спорткомплекс 🏆\",Sky Sports F1",
+          "url": "https://7pal.short.gy/ssportsf1",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"Спорткомплекс 🏆\",Sky Sports F1 UHD",
+          "url": "https://7pal.short.gy/SSF1uhd",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"Спорткомплекс 🏆\",Sky Sports Main Event",
+          "url": "https://7pal.short.gy/skspmaine",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"Спорткомплекс 🏆\",Sky Sports News",
+          "url": "https://7pal.short.gy/ssportsnw",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"Спорткомплекс 🏆\",Sky Sports Premier League",
+          "url": "https://7pal.short.gy/ssportspl",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"Кино и сериалы\" tvg-logo=\"https://iptvx.one/picons/vip-comedy.png\",Viju+ comedy HD",
+          "url": "http://89.232.68.194:8080/ComedyHD/tracks-v1a1/index.m3u8",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"Кино и сериалы\" tvg-logo=\"http://epg.one/img2/6005.png\",Видеокассета HD",
+          "url": "https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"Кино и сериалы\" tvg-logo=\"https://iptvx.one/picons/mosfilm.png\",Мосфильм. Золотая коллекция",
+          "url": "http://178.134.1.158:8081/mosfilm/index.m3u8",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"Развлечение\",ТНТ Int.",
+          "url": "http://178.134.1.158:8081/tnt/index.m3u8",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"Разное 24/7\" tvg-logo=\"https://i.postimg.cc/3N8Rc8tq/1.png\",IPTVPLAY ИНТЕРНЫ",
+          "url": "http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"Разное 24/7\" tvg-logo=\"https://i.ibb.co/pbxx3Sd/Fantastika.png\",IPTVPLAY ФАНТАСТИКА",
+          "url": "http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"Разное 24/7\" tvg-logo=\"https://i.ibb.co/7gj4dQM/Pamyat.png\",IPTVPLAY ПАМЯТЬ",
+          "url": "http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"Разное 24/7\" tvg-logo=\"https://i.ibb.co/LZkQq0x/Uzhastik.png\",IPTVPLAY УЖАСТИК",
+          "url": "http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"Кинозалы\",IPTVPLAY ФАНТАСТИКА HD",
+          "url": "http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"Кинозалы\" tvg-logo=\"https://iptv-play.ru/channels/all_icons/6823.png\",IPTVPLAY ИНТЕРНЫ",
+          "url": "http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"Кинозалы\",IPTVPLAY ПАМЯТЬ HD",
+          "url": "http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0",
+          "reason": "404 / 404"
+        }
+      ]
+    },
+    "10.m3u": {
+      "before": 682,
+      "removed_dead": 59,
+      "deduplicated": 4,
+      "added": 0,
+      "after": 619,
+      "malformed_fixed_or_removed": 0,
+      "removed_examples": [
+        {
+          "name": "#EXTINF:-1 group-title=\"Общие\", RTVi",
+          "url": "http://178.134.1.158:8081/rtvi/index.m3u8",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"Кино\", Еврокино HD",
+          "url": "http://89.221.57.5:8000/play/a00o/index.m3u8",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"Кино\", Иллюзион+ HD",
+          "url": "http://89.221.57.5:8000/play/a00p/index.m3u8",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"Кино\", Русский иллюзион HD",
+          "url": "http://89.221.57.5:8000/play/a00t/index.m3u8",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"Кино\", Amedia Premium",
+          "url": "http://195.18.23.20:8000/play/3/index.m3u8",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"Кино\", viju TV1000 HD",
+          "url": "http://95.85.109.219:7000/play/a08v",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"Детям\", Тамыр",
+          "url": "http://195.18.23.20:8000/play/2/index.m3u8",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"Детям\", Уникум HD",
+          "url": "http://89.221.57.5:8000/play/a00w/index.m3u8",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"Детям\", Nickelodeon HD",
+          "url": "http://178.134.1.158:8081/nickelodeon/index.m3u8",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"Развлечение\", СТС",
+          "url": "http://94.230.128.107:8080/CTC/index.m3u8",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"Развлечение\", ТНТ Int.",
+          "url": "http://178.134.1.158:8081/tnt/index.m3u8",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"Знания\", Госфильмофонд. Машина времени HD",
+          "url": "http://89.221.57.5:8000/play/a015/index.m3u8",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"Знания\", Океан",
+          "url": "http://45.11.139.43:8555/ocean/index.m3u8",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"Знания\", Точка отрыва HD",
+          "url": "http://89.221.57.5:8000/play/a00v/index.m3u8",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"Знания\", Silk Way HD",
+          "url": "https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"Знания\", Trace Sport Stars",
+          "url": "http://87.120.142.11:18000/Rossiya1",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"Знания\", TV BRICS HD",
+          "url": "http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"Знания\", Zooпарк HD",
+          "url": "http://89.221.57.5:8000/play/a00l/index.m3u8",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"Новости\", BBC World News",
+          "url": "https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"Хобби\", Авто 24 HD",
+          "url": "http://89.221.57.5:8000/play/a00i/index.m3u8",
+          "reason": "404 / 404"
+        }
+      ]
+    },
+    "11.m3u": {
+      "before": 33,
+      "removed_dead": 0,
+      "deduplicated": 0,
+      "added": 0,
+      "after": 33,
+      "malformed_fixed_or_removed": 0,
+      "removed_examples": []
+    },
+    "12.m3u": {
+      "before": 3888,
+      "removed_dead": 310,
+      "deduplicated": 7,
+      "added": 0,
+      "after": 3571,
+      "malformed_fixed_or_removed": 1,
+      "removed_examples": [
+        {
+          "name": "#EXTINF:-1 group-title=\"TEST ⓵\",Мужское кино",
+          "url": "http://157.90.0.245:8070/muzhskoe_kino/index.m3u8",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"TEST ⓵\", TV1000 HD",
+          "url": "https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=mlm-EOnX8fTU0Rv6AhINsw&e=1761764735&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5",
+          "reason": "410 / 410"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"TEST ⓵\", TV1000 Action",
+          "url": "https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=l9e_aN8EtseFn70Epaunxg&e=1761764827&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5",
+          "reason": "410 / 410"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"TEST ⓵\",viju TV1000 romantica",
+          "url": "https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=yE_DBzOm6sPdQ3U1yYIVaQ&e=1761764800&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5",
+          "reason": "410 / 410"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"TEST ⓵\" tvg-logo=\"https://i.postimg.cc/J4wRwcQn/i-TV-Cinema-Logo.png\",ITV Cinema",
+          "url": "https://iptv.itv.uz/hls/live/t/UAcSEExX5UamlFqFOIaXIA/e/1767191403/4000/index.m3u8",
+          "reason": "410 / 410"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"TEST ⓵\" tvg-logo=\"https://i.postimg.cc/MTbNhVZc/i-TV-Music-Logo.png\",ITV Music",
+          "url": "https://iptv.itv.uz/hls/live/t/IDvfbmZ5Ibmqs0plMhNejg/e/1767191403/4001/index.m3u8",
+          "reason": "410 / 410"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"TEST ⓵\", Первый канал",
+          "url": "https://flussonic.salomtv.uz/perviy_kanal/video.m3u8",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"TEST (VPN)\" tvg-logo=\"http://194.26.229.4/live/pda.png\",OnlineTV",
+          "url": "http://185.221.213.254:8080/Okko/index.m3u8",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"TEST (VPN)\", Матч Премьер",
+          "url": "http://levshanov.tlkf.ru/iptv/nashfootballhd/16/h1080/playlist.m3u8",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"TEST (VPN)\",НСТ",
+          "url": "http://80.77.52.3/streams/media/nstv_720x576/index.m3u8",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"TEST (VPN)\",TV1000 action",
+          "url": "http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"TEST (VPN)\",TV25 GE",
+          "url": "http://80.77.52.3/streams/media/tv-25_720x576/index.m3u8",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"TEST (VPN)\"  tvg-logo=\"https://i.postimg.cc/3N8Rc8tq/1.png\", IPTVPLAY ИНТЕРНЫ",
+          "url": "http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"TEST (VPN)\" tvg-logo=\"https://i.ibb.co/pbxx3Sd/Fantastika.png\", IPTVPLAY ФАНТАСТИКА",
+          "url": "http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"TEST (VPN)\" tvg-logo=\"https://i.ibb.co/7gj4dQM/Pamyat.png\", IPTVPLAY ПАМЯТЬ",
+          "url": "http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"TEST (VPN)\" tvg-logo=\"https://i.ibb.co/LZkQq0x/Uzhastik.png\", IPTVPLAY УЖАСТИК",
+          "url": "http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"TEST (VPN)\", 365 дней",
+          "url": "http://45.11.139.43:8555/365dney/index.m3u8",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"TEST (VPN)\",РБК",
+          "url": "http://45.11.139.43:8555/rbk/index.m3u8",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"TEST (VPN)\",Телекафе",
+          "url": "http://45.11.139.43:8555/telekafe/index.m3u8",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"TEST (VPN)\",Мосфильм. Золотая коллекция",
+          "url": "http://5.8.11.96:8099/mosfilmhd/index.m3u8",
+          "reason": "404 / 404"
+        }
+      ]
+    },
+    "DF_IPTV.m3u": {
+      "before": 3271,
+      "removed_dead": 143,
+      "deduplicated": 8,
+      "added": 215,
+      "after": 3335,
+      "malformed_fixed_or_removed": 0,
+      "removed_examples": [
+        {
+          "name": "#EXTINF:-1 tvg-id=\"tv-brics\" group-title=\"Эфирные\", TV BRICS",
+          "url": "http://rusbrics.mediacdn.ru/cdn/brics/russian/chunklist.m3u8",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 tvg-id=\"zvezda-plus\" group-title=\"Эфирные\",Звезда Плюс HD",
+          "url": "http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8",
+          "reason": "404 / 404"
+        },
+        {
+          "name": " tvg-logo=\"http://i115.fastpic.org/big/2021/0926/4f/f94948f351f26a0a9d78f3337a33be4f.png\" group-title=\"Новости\", Дума ТВ",
+          "url": "https://dumatv.iptv2022.com/tracks-v1a1/mono.m3u8",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 tvg-id=\"dozhd\" group-title=\"Новости\", Дождь HD [СМИ иногент]",
+          "url": "https://m3u8.ott.blue/watch/7319/video.m3u8?geo=auto&token=94450098895765784220366841698509",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 tvg-id=\"al-jazeera-int\" group-title=\"Новости\", Al Jazeera",
+          "url": "http://m3u8.ott.blue/watch/92/video.m3u8?geo=auto&token=94450098895765784220366841698509",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "p/files/logo-large_d7d2e650-ea68-4bff-9905-91a253de0e4e_130x@2x.png?v=1663096800\" group-title=\"Спортивные\",Swerve Sports",
+          "url": "https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 tvg-id=\"eurosport1\" group-title=\"Спортивные\", Eurosport 1 HD",
+          "url": "http://109.248.236.51/eurosport1/tracks-v1a1/mono.m3u8",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1tvg-id=\"match-arena\" group-title=\"Спортивные\", Матч! Арена",
+          "url": "http://87.120.142.11:18000/Match!Arena",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 tvg-id=\"match-igra\" group-title=\"Спортивные\", Матч Игра",
+          "url": "http://87.120.142.11:18000/Match!Igra",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"Спортивные\",Конный мир HD",
+          "url": "http://cdn-01.bonus-tv.ru/kmir/mono.m3u8",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 tvg-id=\"trace-sport-stars\" group-title=\"Спортивные\", Trace Sport Stars",
+          "url": "http://87.120.142.11:18000/Rossiya1",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"Развлекательные\",TVM Channel",
+          "url": "http://stream-msk-11.ott.tricolor.tv/dtv/id655_MSKSG-PVR-1--TVMChannel/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NzYyNDE3NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ3MDE5Mzc1LCJzZXNzaW9uX2lkIjoiZDAzZDliNjI3OGU4YmNkODRjOTdlNTEzY2I3MTc5NWIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ki_d-dFmLBGvucm_EWiceqUzyNbprJE0O8M0_OEcr0g",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"Развлекательные\",E TV",
+          "url": "http://stream-msk-09.ott.tricolor.tv/dtv/id484_MSKSG-PVR-1--Telekanal_E_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NzYyNDE3NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ3MDE5Mzc1LCJzZXNzaW9uX2lkIjoiZDAzZDliNjI3OGU4YmNkODRjOTdlNTEzY2I3MTc5NWIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ki_d-dFmLBGvucm_EWiceqUzyNbprJE0O8M0_OEcr0g",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 tvg-id=\"zhivi\" group-title=\"Развлекательные\", Живи",
+          "url": "http://195.18.23.20:8000/play/10/index.m3u8",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 tvg-id=\"shopping-live\" group-title=\"Развлекательные\",Shopping Live",
+          "url": "http://shoppinglive.mediacdn.ru/cdn/shopping/playlist_sdhigh.m3u8",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 tvg-id=\"galaxy-tv\" group-title=\"Познавательные\", Тайны Галактики",
+          "url": "https://iptv.itv.uz/hls/live/t/sle_5TaspZ4DjDp95U6UwQ/e/1746801841/1472/index.m3u8",
+          "reason": "410 / 410"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"Познавательные\",Открытый мир",
+          "url": "http://stream-msk-07.ott.tricolor.tv/dtv/id680_MSKSG-PVR-1--Otkryti_mir/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NzYyNDE3NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ3MDE5Mzc1LCJzZXNzaW9uX2lkIjoiZDAzZDliNjI3OGU4YmNkODRjOTdlNTEzY2I3MTc5NWIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ki_d-dFmLBGvucm_EWiceqUzyNbprJE0O8M0_OEcr0g",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 group-title=\"Познавательные\",Совершенно секретно",
+          "url": "http://stream-msk-03.ott.tricolor.tv/dtv/id698_MSKSG-PVR-1--Top_secret/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NzYyNDE3NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ3MDE5Mzc1LCJzZXNzaW9uX2lkIjoiZDAzZDliNjI3OGU4YmNkODRjOTdlNTEzY2I3MTc5NWIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ki_d-dFmLBGvucm_EWiceqUzyNbprJE0O8M0_OEcr0g",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "#EXTINF:-1 tvg-id=\"silkway\" group-title=\"Познавательные\", Silk Way",
+          "url": "https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8",
+          "reason": "404 / 404"
+        },
+        {
+          "name": "ogo=\"https://www.rsl.ru/photo/!_ORS/documents/dostoevsky-banner.jpeg\" group-title=\"Познавательные\", лекторий DОСТОЕВСКИЙ",
+          "url": "https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8",
+          "reason": "404 / 404"
+        }
+      ]
+    },
+    "film.m3u": {
+      "before": 9189,
+      "removed_dead": 217,
+      "deduplicated": 11,
+      "added": 0,
+      "after": 8961,
+      "malformed_fixed_or_removed": 1,
+      "removed_examples": [
+        {
+          "name": "g-logo=\"https://pic.rutube.ru/video/2026-01-01/7d/2f/7d2f5e5237a2b47652c1fc38044e5c44.jpg\", Проблемы с шампанским (2025)",
+          "url": "https://river-1.rutube.ru/hls-vod/X-zPZHlQJL33uAFEb_csaw/1768051442/3392/0x5000c500fa77b281/9a532c01a5df40c08561c631eb8a48d0.mp4.m3u8?i=1920x1080_2327",
+          "reason": "410 / 410"
+        },
+        {
+          "name": "но (VPN)\" tvg-logo=\"https://pic.rutube.ru/video/2026-01-01/f0/cc/f0cc15ebd41f1aaf0b73d0c8645b70d1.jpg\", Оскар Шоу (2025)",
+          "url": "https://river-1.rutube.ru/hls-vod/-RV0Fy5iCzrJBx2loKajzQ/1768051444/3268/0x5000c500e4331005/11202ffd58e0479aa6d87f158a9e9ac4.mp4.m3u8?i=1920x800_1543",
+          "reason": "410 / 410"
+        },
+        {
+          "name": "ино (VPN)\" tvg-logo=\"https://pic.rutube.ru/video/2026-01-01/2e/ac/2eacb4a407fa76068618efcb216642d4.jpg\", Нюрнберг (2025)",
+          "url": "https://river-1.rutube.ru/hls-vod/NXRWoH0l0DZpTvwSqSFUqg/1768051446/3392/0x5000c500fa77b281/2ea25ad723f9475a83a8dfee541a132e.mp4.m3u8?i=1920x800_1772",
+          "reason": "410 / 410"
+        },
+        {
+          "name": "PN)\" tvg-logo=\"https://pic.rutube.ru/video/2026-01-02/4e/a9/4ea98456f1261a1e727d25894846f097.jpg\", Злобный кролик (2025)",
+          "url": "https://river-1.rutube.ru/hls-vod/lsqZNoSO0qjmS454wF2FYQ/1768051449/3268/0x5000c500c7ae5677/e5e71a3dfede49f7ad0efe1488ae5c3e.mp4.m3u8?i=1920x1080_3361",
+          "reason": "410 / 410"
+        },
+        {
+          "name": "VPN)\" tvg-logo=\"https://pic.rutube.ru/video/2025-12-30/4a/34/4a34a998bb0fd8ba1edb52ec18cd1912.jpg\", Лиа и кенгуру (2025)",
+          "url": "https://river-1.rutube.ru/hls-vod/v7ENtojWljl2Yb-0sRbTDQ/1768051452/3384/0x5000c500fa774e48/bb0913bd108e4952ac13da60b6843915.mp4.m3u8?i=848x352_685",
+          "reason": "410 / 410"
+        },
+        {
+          "name": ")\" tvg-logo=\"https://pic.rutube.ru/video/2025-12-30/ea/cc/eacc279ce381e0106463fa6516281a57.jpg\", 13 дней 13 ночей (2025)",
+          "url": "https://river-1.rutube.ru/hls-vod/3kqnVNAPuVm41t7Ihhn6dw/1768051455/2600/0x5000039ce86a09a5/a3cd7f15077b4fc19768ce8629f7f665.mp4.m3u8?i=848x352_650",
+          "reason": "410 / 410"
+        },
+        {
+          "name": " (VPN)\" tvg-logo=\"https://pic.rutube.ru/video/2026-01-01/80/38/80389ebc83359e11bbf67b1e941a0556.jpg\", Фэкхем-Холл (2025)",
+          "url": "https://river-1.rutube.ru/hls-vod/Lu2YuHzX4bcFEU71VDkNoQ/1768051457/3264/0x5000c500e9e89cad/ded2f676104d47d4ad979e99b33bab9b.mp4.m3u8?i=1920x800_2074",
+          "reason": "410 / 410"
+        },
+        {
+          "name": "\" tvg-logo=\"https://pic.rutube.ru/video/2025-12-30/91/8f/918fd3a2188db70f56898856239f248c.jpg\", Время для храбрых (2025)",
+          "url": "https://river-1.rutube.ru/hls-vod/tCKmwyDfAvdVsTXpbBDq9A/1768051459/3344/0x5000c500e9cf3111/8840ba30a6574da7a510be663c53a36a.mp4.m3u8?i=848x424_571",
+          "reason": "410 / 410"
+        },
+        {
+          "name": "N)\" tvg-logo=\"https://pic.rutube.ru/video/2025-12-31/6d/9e/6d9e63cc683e156abb850f148256292d.jpg\", Призраки разума (2025)",
+          "url": "https://river-1.rutube.ru/hls-vod/QcIEV_QPRbdUZcN1q20ImA/1768051462/3342/0x5000c500e9cf572d/4b1cc7fe8af34b45ba79a498f962011f.mp4.m3u8?i=848x352_401",
+          "reason": "410 / 410"
+        },
+        {
+          "name": "но (VPN)\" tvg-logo=\"https://pic.rutube.ru/video/2025-12-23/a0/56/a056d6ea1365c60031634b13088560e3.jpg\", Город зла (2025)",
+          "url": "https://river-1.rutube.ru/hls-vod/l3p5IjmdFfWnlSUe-pX8nQ/1768051465/3336/0x5000c500e9ebe92a/84dc0467aff24647abf1c46d743ce697.mp4.m3u8?i=1920x1080_1493",
+          "reason": "410 / 410"
+        },
+        {
+          "name": " (VPN)\" tvg-logo=\"https://pic.rutube.ru/video/2025-12-23/14/b1/14b1f8c78181a9cc69ee18542deb3012.jpg\", Новая волна (2025)",
+          "url": "https://river-1.rutube.ru/hls-vod/iw6-7Ga06mi94BuNomLhDg/1768051468/3382/0x5000c500fa775d03/cc26b55451b3482fb3264238fe9e4f53.mp4.m3u8?i=656x480_696",
+          "reason": "410 / 410"
+        },
+        {
+          "name": " кино (VPN)\" tvg-logo=\"https://pic.rutube.ru/video/2025-12-23/9d/87/9d871a48879fc1bc484cad34f36bc112.jpg\", Сироты (2025)",
+          "url": "https://river-1.rutube.ru/hls-vod/CDX1RGOxoDBxdmtIDvRiMg/1768051470/3320/0x5000c500e9ebc72d/fa7e6dda830249aea98375cbf66203af.mp4.m3u8?i=1920x800_2900",
+          "reason": "410 / 410"
+        },
+        {
+          "name": " (VPN)\" tvg-logo=\"https://pic.rutube.ru/video/2025-12-25/47/35/4735fa0e7b691bca92edf05606512a43.jpg\", Прощай Джун (2025)",
+          "url": "https://river-1.rutube.ru/hls-vod/SdXZVff_EgeZFp85u1vTEg/1768051473/3260/0x5000c500e9ebfc75/74f84bc6770f4219957f512c7c16ba41.mp4.m3u8?i=1920x1080_2203",
+          "reason": "410 / 410"
+        },
+        {
+          "name": "N)\" tvg-logo=\"https://pic.rutube.ru/video/2025-12-25/df/ba/dfbad4fed903856378c315beaa8e9ab0.jpg\", Девочка из леса (2025)",
+          "url": "https://river-1.rutube.ru/hls-vod/J2DwOVEb8JYWfaVdRvIhhg/1768051475/3312/0x5000c500e9ebc8d4/61fb8578e10c4288bfb3f8bdd20f0185.mp4.m3u8?i=848x480_339",
+          "reason": "410 / 410"
+        },
+        {
+          "name": "(VPN)\" tvg-logo=\"https://pic.rutube.ru/video/2025-12-25/55/da/55da5fbd80987cfc05e9b7119087d5e6.jpg\", Каноэ Маниту (2025)",
+          "url": "https://river-1.rutube.ru/hls-vod/flQLB7Js91_d3TPD2C4AJg/1768051483/3384/0x5000c500fa77cee2/7585ce29a4eb4e95b3a8f52f2d6b265f.mp4.m3u8?i=1920x800_2773",
+          "reason": "410 / 410"
+        },
+        {
+          "name": ")\" tvg-logo=\"https://pic.rutube.ru/video/2025-12-25/b4/57/b4577997b03d33d71af16064589a8b21.jpg\", Последний викинг (2025)",
+          "url": "https://river-1.rutube.ru/hls-vod/txVQS6-m_IiwptkdCVMm2w/1768051487/3296/0x5000c500e9ebffeb/fea247d8ae894cffaea2fed22abbe76e.mp4.m3u8?i=1920x1080_2385",
+          "reason": "410 / 410"
+        },
+        {
+          "name": "//pic.rutube.ru/video/2025-12-23/5d/34/5d34067b29f686cbe396b1ad498b8d0b.jpg\", Большое смелое красивое путешествие (2025)",
+          "url": "https://river-1.rutube.ru/hls-vod/1yWKRY-xytDDxfszlgNivw/1768051494/3372/0x5000c500fa77742a/da4ec850876f404d871efb15a1fd5e50.mp4.m3u8?i=1920x960_1982",
+          "reason": "410 / 410"
+        },
+        {
+          "name": "://pic.rutube.ru/video/2025-12-23/b8/f0/b8f0527bc12d362ccdde024ec7be4fc3.jpg\", Бессмертный: Кровавая дорога домой (2025)",
+          "url": "https://river-1.rutube.ru/hls-vod/67uKP-A_NuoDrHPZ8mRHUA/1768051502/3384/0x5000c500fa777dd1/957ba59f665a4d1088fb07989a38cdf0.mp4.m3u8?i=1920x800_2869",
+          "reason": "410 / 410"
+        },
+        {
+          "name": "-logo=\"https://pic.rutube.ru/video/2025-12-23/5a/5a/5a5a2cdede47f100d57ca12247e8c7c5.jpg\", Дети с чёрными глазами (2025)",
+          "url": "https://river-1.rutube.ru/hls-vod/mvPzm4LW_lNXGZJRPA4OmA/1768051510/3348/0x5000c500fa803aeb/92afac4f65034bbc9d1742570dff059a.mp4.m3u8?i=1920x1080_1800",
+          "reason": "410 / 410"
+        },
+        {
+          "name": "g-logo=\"https://pic.rutube.ru/video/2025-12-23/3a/56/3a5660209c565e331517ba0fd9273c2f.jpg\", Да здравствует любовь (2025)",
+          "url": "https://river-1.rutube.ru/hls-vod/493qBOYyZHPpd76vD-JvEQ/1768051519/3372/0x5000c500fa6e367c/3f000a16e51c42c6ac6dd404870697a0.mp4.m3u8?i=1920x1080_4012",
+          "reason": "410 / 410"
+        }
+      ]
+    }
+  },
+  "totals": {
+    "checked_unique_urls": 16021,
+    "removed_dead_entries": 788,
+    "final_entries": 17270,
+    "new_candidates": 416,
+    "new_working_added": 215,
+    "ok_urls": 6642,
+    "uncertain_kept": 8689,
+    "failed_twice": 690
+  },
+  "sources": [
+    "https://iptv-org.github.io/iptv/countries/ru.m3u",
+    "https://iptv-org.github.io/iptv/subdivisions/ru-kb.m3u"
+  ]
+}
