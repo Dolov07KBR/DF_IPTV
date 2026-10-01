@@ -1,110 +1,354 @@
 package com.dolov07kbr.dfiptv07
 
+import android.content.Context
 import android.content.Intent
+import android.content.res.Configuration
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.foundation.background
-import androidx.compose.foundation.clickable
-import androidx.compose.foundation.layout.*
-import androidx.compose.foundation.lazy.LazyColumn
-import androidx.compose.foundation.lazy.items
-import androidx.compose.foundation.shape.RoundedCornerShape
+import androidx.compose.foundation.layout.Box
+import androidx.compose.foundation.layout.BoxWithConstraints
+import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.size
+import androidx.compose.foundation.layout.width
 import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.filled.*
-import androidx.compose.material3.*
-import androidx.compose.runtime.*
+import androidx.compose.material.icons.filled.Home
+import androidx.compose.material.icons.filled.Info
+import androidx.compose.material.icons.filled.LiveTv
+import androidx.compose.material.icons.filled.Lock
+import androidx.compose.material.icons.filled.PlaylistPlay
+import androidx.compose.material.icons.filled.Search
+import androidx.compose.material.icons.filled.Settings
+import androidx.compose.material.icons.filled.Star
+import androidx.compose.material3.Icon
+import androidx.compose.material3.NavigationBar
+import androidx.compose.material3.NavigationBarItem
+import androidx.compose.material3.NavigationBarItemDefaults
+import androidx.compose.material3.NavigationRail
+import androidx.compose.material3.NavigationRailItem
+import androidx.compose.material3.NavigationRailItemDefaults
+import androidx.compose.material3.Text
+import androidx.compose.runtime.Composable
+import androidx.compose.runtime.DisposableEffect
+import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.remember
+import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Brush
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.graphics.vector.ImageVector
+import androidx.compose.ui.platform.LocalContext
+import androidx.compose.ui.platform.LocalLifecycleOwner
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import androidx.lifecycle.Lifecycle
+import androidx.lifecycle.LifecycleEventObserver
+import androidx.lifecycle.compose.collectAsStateWithLifecycle
+import com.dolov07kbr.dfiptv07.data.Channel
+import com.dolov07kbr.dfiptv07.data.Df
+import com.dolov07kbr.dfiptv07.data.EpgRepository
+import com.dolov07kbr.dfiptv07.data.Playlist
+import com.dolov07kbr.dfiptv07.data.PlaylistRepository
+import com.dolov07kbr.dfiptv07.ui.AboutScreen
+import com.dolov07kbr.dfiptv07.ui.BrandLogo
+import com.dolov07kbr.dfiptv07.ui.ChannelsScreen
+import com.dolov07kbr.dfiptv07.ui.DfBrand
+import com.dolov07kbr.dfiptv07.ui.DfTheme
+import com.dolov07kbr.dfiptv07.ui.FavoritesScreen
+import com.dolov07kbr.dfiptv07.ui.GradientText
+import com.dolov07kbr.dfiptv07.ui.HomeScreen
+import com.dolov07kbr.dfiptv07.ui.MutedText
+import com.dolov07kbr.dfiptv07.ui.ParentalScreen
+import com.dolov07kbr.dfiptv07.ui.PinDialog
+import com.dolov07kbr.dfiptv07.ui.PlaylistsScreen
+import com.dolov07kbr.dfiptv07.ui.SearchScreen
+import com.dolov07kbr.dfiptv07.ui.SectionTitle
+import com.dolov07kbr.dfiptv07.ui.SettingsScreen
+
+private enum class Section(val title: String, val icon: ImageVector) {
+    HOME("Главная", Icons.Default.Home),
+    CHANNELS("Каналы", Icons.Default.LiveTv),
+    FAVORITES("Избранное", Icons.Default.Star),
+    PLAYLISTS("Плейлисты", Icons.Default.PlaylistPlay),
+    SEARCH("Поиск", Icons.Default.Search),
+    SETTINGS("Настройки", Icons.Default.Settings),
+    PARENTAL("Родительский контроль", Icons.Default.Lock),
+    ABOUT("О приложении", Icons.Default.Info),
+}
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        val playlists = PlaylistRepository.loadBundled(this)
-        setContent { DfTheme { DfIptvApp(playlists) { play(it) } } }
+        Df.init(this)
+        PlaylistRepository.bind(this)
+        PlaylistRepository.initialLoad(loadCustom = Df.store.autoRefresh)
+        EpgRepository.refreshIfConfigured()
+        setContent { DfTheme { Root() } }
     }
-    private fun play(channel: Channel) = startActivity(Intent(this, PlayerActivity::class.java).apply {
-        putExtra("name", channel.name); putExtra("url", channel.url)
-    })
 }
 
-private enum class Section(val title:String){ HOME("Главная"), CHANNELS("Каналы"), FAVORITES("Избранное"), PLAYLISTS("Плейлисты"), SEARCH("Поиск"), PARENTAL("Родительский контроль"), SETTINGS("Настройки"), ABOUT("О приложении") }
+private fun Context.isTv(): Boolean =
+    resources.configuration.uiMode and Configuration.UI_MODE_TYPE_MASK == Configuration.UI_MODE_TYPE_TELEVISION
 
-@Composable private fun DfTheme(content: @Composable () -> Unit) = MaterialTheme(
-    colorScheme = darkColorScheme(primary=Color(0xFF8B5CF6),secondary=Color(0xFF22D3EE),background=Color(0xFF070D1F),surface=Color(0xFF111A35)),
-    content=content
-)
+private fun startPlayer(context: Context, channel: Channel) {
+    Df.store.addRecent(channel)
+    context.startActivity(
+        Intent(context, PlayerActivity::class.java).putExtra(PlayerActivity.EXTRA_CHANNEL_ID, channel.id),
+    )
+}
 
-@Composable private fun DfIptvApp(playlists: List<Playlist>, onPlay: (Channel)->Unit) {
+@Composable
+private fun Root() {
+    val repo by PlaylistRepository.state.collectAsStateWithLifecycle()
+    val context = LocalContext.current
     var section by remember { mutableStateOf(Section.HOME) }
-    var selected by remember { mutableStateOf(playlists.firstOrNull()) }
-    var query by remember { mutableStateOf("") }
-    var pinOpen by remember { mutableStateOf(false) }
-    val favorites = remember { mutableStateListOf<String>() }
-    val allChannels = playlists.flatMap { it.channels }.distinctBy { it.url }
-    val visible = when(section){
-        Section.FAVORITES -> allChannels.filter { it.url in favorites }
-        Section.SEARCH -> allChannels.filter { it.name.contains(query,true)||it.group.contains(query,true) }
-        else -> selected?.channels.orEmpty()
-    }
-    Box(Modifier.fillMaxSize().background(Brush.radialGradient(listOf(Color(0xFF1A2763),Color(0xFF070D1F))))) {
-        Row(Modifier.fillMaxSize()) {
-            NavigationRail(modifier=Modifier.width(190.dp),containerColor=Color(0xE60A1128),header={
-                Column(Modifier.padding(18.dp),horizontalAlignment=Alignment.CenterHorizontally){Text("DF",fontSize=30.sp,fontWeight=FontWeight.Black,color=Color(0xFF22D3EE));Text("IPTV_07",color=Color.White,fontWeight=FontWeight.Bold)}
-            }) {
-                MenuItem(section,Section.HOME,Icons.Default.Home){section=it}
-                MenuItem(section,Section.CHANNELS,Icons.Default.LiveTv){section=it}
-                MenuItem(section,Section.FAVORITES,Icons.Default.Star){section=it}
-                MenuItem(section,Section.PLAYLISTS,Icons.Default.PlaylistPlay){section=it}
-                MenuItem(section,Section.SEARCH,Icons.Default.Search){section=it}
-                Spacer(Modifier.weight(1f))
-                MenuItem(section,Section.PARENTAL,Icons.Default.Lock){section=it;pinOpen=true}
-                MenuItem(section,Section.SETTINGS,Icons.Default.Settings){section=it}
-                MenuItem(section,Section.ABOUT,Icons.Default.Info){section=it}
+    var selectedPlaylist by remember { mutableStateOf<Playlist?>(null) }
+    var group by remember { mutableStateOf<String?>(null) }
+    var favs by remember { mutableStateOf(Df.store.favorites()) }
+    var recents by remember { mutableStateOf(Df.store.recents()) }
+    var swDecoder by remember { mutableStateOf(Df.store.softwareDecoder) }
+    var autoRefresh by remember { mutableStateOf(Df.store.autoRefresh) }
+    var epgUrl by remember { mutableStateOf(Df.store.epgUrl) }
+    var pinGate by remember { mutableStateOf<Channel?>(null) }
+
+    val lifecycle = LocalLifecycleOwner.current.lifecycle
+    DisposableEffect(lifecycle) {
+        val observer = LifecycleEventObserver { _, event ->
+            if (event == Lifecycle.Event.ON_RESUME) {
+                recents = Df.store.recents()
+                favs = Df.store.favorites()
             }
-            Column(Modifier.weight(1f).padding(24.dp)) {
-                Text(section.title,style=MaterialTheme.typography.headlineMedium,fontWeight=FontWeight.Bold,color=Color.White)
-                Text("DF IPTV_07 • встроенные плейлисты",color=Color(0xFF9AA6CA),modifier=Modifier.padding(bottom=14.dp))
-                when(section){
-                    Section.HOME -> HomeContent(playlists,selected,{selected=it;section=Section.CHANNELS})
-                    Section.PLAYLISTS -> PlaylistContent(playlists,selected){selected=it;section=Section.CHANNELS}
-                    Section.SEARCH -> { OutlinedTextField(query,{query=it},leadingIcon={Icon(Icons.Default.Search,null)},label={Text("Название канала или категория")},modifier=Modifier.fillMaxWidth().padding(bottom=14.dp),singleLine=true); ChannelList(visible,favorites,onPlay) }
-                    Section.SETTINGS -> SettingsContent()
-                    Section.ABOUT -> AboutContent()
-                    Section.PARENTAL -> Text("Контроль выключен. Ничего не блокируется без выбора пользователя.",color=Color.White)
-                    else -> ChannelList(visible,favorites,onPlay)
+        }
+        lifecycle.addObserver(observer)
+        onDispose { lifecycle.removeObserver(observer) }
+    }
+
+    fun toggleFavorite(ch: Channel) {
+        Df.store.toggleFavorite(ch.id)
+        favs = Df.store.favorites()
+    }
+    fun play(ch: Channel) {
+        if (Df.store.isLocked(ch)) pinGate = ch else startPlayer(context, ch)
+    }
+
+    val lockedGroups = remember(favs, repo) { Df.store.lockedGroups() }
+    val railItems = listOf(Section.HOME, Section.CHANNELS, Section.FAVORITES, Section.PLAYLISTS, Section.SEARCH, Section.SETTINGS, Section.PARENTAL, Section.ABOUT)
+    val barItems = listOf(Section.HOME, Section.CHANNELS, Section.FAVORITES, Section.SEARCH, Section.SETTINGS)
+
+    BoxWithConstraints(modifier = Modifier.fillMaxSize().background(DfBrand.Bg)) {
+        val wide = maxWidth >= 840.dp || context.isTv()
+        if (wide) {
+            Row(Modifier.fillMaxSize()) {
+                NavigationRail(
+                    modifier = Modifier.width(200.dp),
+                    containerColor = Color(0xE60E1630),
+                    header = {
+                        Column(
+                            modifier = Modifier.padding(18.dp),
+                            horizontalAlignment = Alignment.CenterHorizontally,
+                        ) {
+                            BrandLogo(modifier = Modifier.size(64.dp))
+                            GradientText("DF IPTV", style = androidx.compose.material3.MaterialTheme.typography.titleMedium)
+                        }
+                    },
+                ) {
+                    railItems.forEach { item ->
+                        NavigationRailItem(
+                            selected = section == item,
+                            onClick = { section = item },
+                            icon = { Icon(item.icon, item.title) },
+                            label = { Text(item.title, fontSize = 13.sp) },
+                            alwaysShowLabel = true,
+                            colors = NavigationRailItemDefaults.colors(
+                                selectedIconColor = DfBrand.Cyan,
+                                selectedTextColor = DfBrand.Text,
+                                indicatorColor = Color(0xFF283477),
+                                unselectedIconColor = DfBrand.Muted,
+                                unselectedTextColor = DfBrand.Muted,
+                            ),
+                        )
+                    }
+                }
+                ScreenContent(
+                    section = section,
+                    onSection = { section = it },
+                    repo = repo,
+                    selectedPlaylist = selectedPlaylist,
+                    onSelectPlaylist = { selectedPlaylist = it; group = null; section = Section.CHANNELS },
+                    group = group,
+                    onGroup = { group = it },
+                    favs = favs,
+                    lockedGroups = lockedGroups,
+                    recents = recents,
+                    onPlay = ::play,
+                    onToggleFavorite = ::toggleFavorite,
+                    swDecoder = swDecoder,
+                    onSoftwareDecoder = { swDecoder = it; Df.store.softwareDecoder = it },
+                    autoRefresh = autoRefresh,
+                    onAutoRefresh = { autoRefresh = it; Df.store.autoRefresh = it },
+                    epgUrl = epgUrl,
+                    onEpgUrl = { epgUrl = it; Df.store.epgUrl = it; EpgRepository.refreshIfConfigured(force = true) },
+                )
+            }
+        } else {
+            Column(Modifier.fillMaxSize()) {
+                ScreenContent(
+                    section = section,
+                    onSection = { section = it },
+                    repo = repo,
+                    selectedPlaylist = selectedPlaylist,
+                    onSelectPlaylist = { selectedPlaylist = it; group = null; section = Section.CHANNELS },
+                    group = group,
+                    onGroup = { group = it },
+                    favs = favs,
+                    lockedGroups = lockedGroups,
+                    recents = recents,
+                    onPlay = ::play,
+                    onToggleFavorite = ::toggleFavorite,
+                    swDecoder = swDecoder,
+                    onSoftwareDecoder = { swDecoder = it; Df.store.softwareDecoder = it },
+                    autoRefresh = autoRefresh,
+                    onAutoRefresh = { autoRefresh = it; Df.store.autoRefresh = it },
+                    epgUrl = epgUrl,
+                    onEpgUrl = { epgUrl = it; Df.store.epgUrl = it; EpgRepository.refreshIfConfigured(force = true) },
+                    modifier = Modifier.weight(1f),
+                )
+                NavigationBar(containerColor = Color(0xE60E1630)) {
+                    barItems.forEach { item ->
+                        NavigationBarItem(
+                            selected = section == item || (item == Section.SETTINGS && section in listOf(Section.PARENTAL, Section.ABOUT)),
+                            onClick = { section = item },
+                            icon = { Icon(item.icon, item.title) },
+                            label = { Text(item.title, fontSize = 11.sp) },
+                            alwaysShowLabel = true,
+                            colors = NavigationBarItemDefaults.colors(
+                                selectedIconColor = DfBrand.Cyan,
+                                selectedTextColor = DfBrand.Text,
+                                indicatorColor = Color(0xFF283477),
+                                unselectedIconColor = DfBrand.Muted,
+                                unselectedTextColor = DfBrand.Muted,
+                            ),
+                        )
+                    }
                 }
             }
         }
     }
-    if(pinOpen) ParentalDialog{pinOpen=false;section=Section.SETTINGS}
+
+    pinGate?.let { ch ->
+        PinDialog(
+            title = "Родительский контроль",
+            subtitle = "Категория «${ch.group}» защищена PIN.",
+            confirmLabel = "Смотреть",
+            onConfirm = { pin ->
+                if (Df.store.checkPin(pin)) {
+                    pinGate = null
+                    startPlayer(context, ch)
+                    true
+                } else false
+            },
+            onDismiss = { pinGate = null },
+        )
+    }
 }
 
-@Composable private fun MenuItem(current:Section,item:Section,icon:androidx.compose.ui.graphics.vector.ImageVector,onSelect:(Section)->Unit){
-    NavigationRailItem(selected=current==item,onClick={onSelect(item)},icon={Icon(icon,item.title)},label={Text(item.title)},alwaysShowLabel=true,colors=NavigationRailItemDefaults.colors(selectedIconColor=Color(0xFF22D3EE),selectedTextColor=Color.White,indicatorColor=Color(0xFF283477)))
+@Composable
+private fun ScreenContent(
+    section: Section,
+    onSection: (Section) -> Unit,
+    repo: PlaylistRepository.RepoState,
+    selectedPlaylist: Playlist?,
+    onSelectPlaylist: (Playlist) -> Unit,
+    group: String?,
+    onGroup: (String?) -> Unit,
+    favs: Set<String>,
+    lockedGroups: Set<String>,
+    recents: List<Channel>,
+    onPlay: (Channel) -> Unit,
+    onToggleFavorite: (Channel) -> Unit,
+    swDecoder: Boolean,
+    onSoftwareDecoder: (Boolean) -> Unit,
+    autoRefresh: Boolean,
+    onAutoRefresh: (Boolean) -> Unit,
+    epgUrl: String,
+    onEpgUrl: (String) -> Unit,
+    modifier: Modifier = Modifier,
+) {
+    Column(modifier.fillMaxSize().padding(20.dp)) {
+        if (section != Section.HOME) {
+            SectionTitle(section.title)
+            MutedText("DF IPTV • фирменный стиль dolov07kbr.github.io", modifier = Modifier.padding(bottom = 12.dp))
+        }
+        repo.error?.let { MutedText(it) }
+        when (section) {
+            Section.HOME -> HomeScreen(
+                playlists = repo.playlists,
+                loading = repo.loading,
+                recents = recents,
+                favoritesCount = favs.size,
+                favs = favs,
+                lockedGroups = lockedGroups,
+                onPlay = onPlay,
+                onToggleFavorite = onToggleFavorite,
+                onOpenPlaylist = onSelectPlaylist,
+            )
+            Section.CHANNELS -> ChannelsScreen(
+                playlists = repo.playlists,
+                selected = selectedPlaylist,
+                onSelectPlaylist = onSelectPlaylist,
+                group = group,
+                onGroup = onGroup,
+                favs = favs,
+                lockedGroups = lockedGroups,
+                onPlay = onPlay,
+                onToggleFavorite = onToggleFavorite,
+            )
+            Section.FAVORITES -> FavoritesScreen(
+                favs = favs,
+                lockedGroups = lockedGroups,
+                onPlay = onPlay,
+                onToggleFavorite = onToggleFavorite,
+            )
+            Section.PLAYLISTS -> PlaylistsScreen(
+                playlists = repo.playlists,
+                loading = repo.loading,
+                onRefresh = { PlaylistRepository.refresh() },
+                onAdd = { title, url ->
+                    Df.store.addCustomSource(title, url)
+                    PlaylistRepository.refresh()
+                },
+                onRemove = { id ->
+                    Df.store.removeCustomSource(id)
+                    PlaylistRepository.refresh()
+                },
+                onOpen = onSelectPlaylist,
+            )
+            Section.SEARCH -> SearchScreen(
+                favs = favs,
+                lockedGroups = lockedGroups,
+                onPlay = onPlay,
+                onToggleFavorite = onToggleFavorite,
+            )
+            Section.SETTINGS -> SettingsScreen(
+                softwareDecoder = swDecoder,
+                onSoftwareDecoder = onSoftwareDecoder,
+                autoRefresh = autoRefresh,
+                onAutoRefresh = onAutoRefresh,
+                epgUrl = epgUrl,
+                onEpgUrl = onEpgUrl,
+                onRefreshPlaylists = { PlaylistRepository.refresh() },
+                onOpenParental = { onSection(Section.PARENTAL) },
+                onOpenAbout = { onSection(Section.ABOUT) },
+            )
+            Section.PARENTAL -> ParentalScreen()
+            Section.ABOUT -> AboutScreen()
+        }
+    }
 }
-
-@Composable private fun HomeContent(playlists:List<Playlist>,selected:Playlist?,open:(Playlist)->Unit){
-    Card(colors=CardDefaults.cardColors(containerColor=Color(0xDD111A35)),shape=RoundedCornerShape(22.dp),modifier=Modifier.fillMaxWidth().padding(bottom=18.dp)){Column(Modifier.padding(22.dp)){Text("Добро пожаловать в DF IPTV_07",fontSize=24.sp,fontWeight=FontWeight.Bold,color=Color.White);Text("Выберите подборку и начните просмотр. Все источники уже внутри приложения.",color=Color(0xFF9AA6CA));Text("${playlists.sumOf{it.channels.size}} каналов • ${playlists.size} плейлистов",color=Color(0xFF22D3EE),modifier=Modifier.padding(top=10.dp))}}
-    PlaylistContent(playlists,selected,open)
-}
-
-@Composable private fun PlaylistContent(playlists:List<Playlist>,selected:Playlist?,open:(Playlist)->Unit){
-    LazyColumn(verticalArrangement=Arrangement.spacedBy(10.dp)){items(playlists){p->Card(Modifier.fillMaxWidth().clickable{open(p)},shape=RoundedCornerShape(16.dp),colors=CardDefaults.cardColors(containerColor=if(selected==p)Color(0xFF283477)else Color(0xDD111A35))){Row(Modifier.padding(18.dp),verticalAlignment=Alignment.CenterVertically){Text(if(p.file.contains("film",true))"🎬" else "📺",fontSize=28.sp);Column(Modifier.weight(1f).padding(horizontal=14.dp)){Text(p.title,color=Color.White,fontSize=18.sp,fontWeight=FontWeight.SemiBold);Text("${p.channels.size} каналов",color=Color(0xFF9AA6CA))};Icon(Icons.Default.ChevronRight,null,tint=Color(0xFF22D3EE))}}}}
-}
-
-@Composable private fun ChannelList(channels:List<Channel>,favorites:MutableList<String>,onPlay:(Channel)->Unit){
-    if(channels.isEmpty()){Text("Здесь пока ничего нет",color=Color(0xFF9AA6CA));return}
-    LazyColumn(verticalArrangement=Arrangement.spacedBy(8.dp)){items(channels,key={it.url+it.name}){c->Card(Modifier.fillMaxWidth().clickable{onPlay(c)},shape=RoundedCornerShape(14.dp),colors=CardDefaults.cardColors(containerColor=Color(0xDD111A35))){Row(Modifier.fillMaxWidth().padding(14.dp),verticalAlignment=Alignment.CenterVertically){Text(if(c.group.contains("дет",true))"🧸" else if(c.group.contains("фильм",true))"🎬" else "📡",fontSize=24.sp);Column(Modifier.weight(1f).padding(horizontal=13.dp)){Text(c.name,color=Color.White,fontSize=17.sp);Text(c.group,color=Color(0xFF9AA6CA))};IconButton({if(c.url in favorites)favorites.remove(c.url)else favorites.add(c.url)}){Icon(if(c.url in favorites)Icons.Default.Star else Icons.Default.StarBorder,"Избранное",tint=Color(0xFFFFD54F))};Icon(Icons.Default.PlayArrow,"Смотреть",tint=Color(0xFF22D3EE))}}}}
-}
-
-@Composable private fun SettingsContent(){Column(verticalArrangement=Arrangement.spacedBy(12.dp)){SettingCard("🎨","Оформление","Фирменная тёмная тема DF");SettingCard("📺","Режим Android TV","Крупный интерфейс и управление пультом");SettingCard("🔄","Обновление плейлистов","Встроенные списки обновляются с новой версией APK")}}
-@Composable private fun SettingCard(icon:String,title:String,text:String){Card(colors=CardDefaults.cardColors(containerColor=Color(0xDD111A35)),modifier=Modifier.fillMaxWidth()){Row(Modifier.padding(18.dp)){Text(icon,fontSize=25.sp);Column(Modifier.padding(start=14.dp)){Text(title,color=Color.White,fontWeight=FontWeight.Bold);Text(text,color=Color(0xFF9AA6CA))}}}}
-@Composable private fun AboutContent(){Column{Text("DF IPTV_07",fontSize=28.sp,fontWeight=FontWeight.Bold,color=Color.White);Text("Оригинальный IPTV-плеер Dolov07KBR",color=Color(0xFF22D3EE));Text("Kotlin • Jetpack Compose • Media3\nЛицензия: GPL-3.0\nПлейлисты: репозиторий DF_IPTV",color=Color(0xFF9AA6CA),modifier=Modifier.padding(top=16.dp))}}
-
-@Composable private fun ParentalDialog(onDismiss:()->Unit){var pin by remember{mutableStateOf("")};AlertDialog(onDismissRequest=onDismiss,title={Text("Родительский контроль")},text={Column{Text("По умолчанию ничего не блокируется. PIN потребуется только для вручную защищённых каналов.");OutlinedTextField(pin,{pin=it.filter(Char::isDigit).take(4)},label={Text("Новый PIN")})}},confirmButton={Button(onClick=onDismiss,enabled=pin.length==4){Text("Сохранить")}},dismissButton={TextButton(onClick=onDismiss){Text("Позже")}})}
