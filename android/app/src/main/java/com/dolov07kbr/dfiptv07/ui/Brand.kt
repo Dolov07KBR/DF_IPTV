@@ -71,9 +71,7 @@ fun GradientText(
     Text(
         text = text,
         modifier = modifier,
-        style = style,
-        fontWeight = FontWeight.ExtraBold,
-        brush = DfBrand.Grad,
+        style = style.copy(fontWeight = FontWeight.ExtraBold, brush = DfBrand.Grad),
     )
 }
 

@@ -1,11 +1,8 @@
 package com.dolov07kbr.dfiptv07.player
 
 import android.content.Context
-import android.os.Handler
 import androidx.media3.exoplayer.DefaultRenderersFactory
 import androidx.media3.exoplayer.mediacodec.MediaCodecSelector
-import androidx.media3.exoplayer.video.MediaCodecVideoRenderer
-import androidx.media3.exoplayer.video.VideoRendererEventListener
 
 /**
  * Фабрика рендереров с переключателем HW/SW:
@@ -20,28 +17,15 @@ class DfRenderersFactory(
         setEnableDecoderFallback(true)
     }
 
-    override fun buildVideoRenderers(
-        context: Context,
-        extensionRendererMode: Int,
-        mediaCodecSelector: MediaCodecSelector,
-        enableDecoderFallback: Boolean,
-        eventHandler: Handler,
-        eventListener: VideoRendererEventListener,
-        allowedVideoJoiningTimeMs: Long,
-    ): Array<MediaCodecVideoRenderer> = super.buildVideoRenderers(
-        context,
-        extensionRendererMode,
-        if (softwareOnly) SOFTWARE_SELECTOR else mediaCodecSelector,
-        enableDecoderFallback,
-        eventHandler,
-        eventListener,
-        allowedVideoJoiningTimeMs,
-    )
+    // PROBE: сигнатура будет уточнена по ошибке компиляции
+    private fun probeSignature() {
+        super.buildVideoRenderers()
+    }
 
     companion object {
-        private val HW_MARKERS = listOf(".hw.", ".qcom.", ".qti.", ".exynos.", ".mtk.", "omx.qcom", "omx.sec", "c2.qti", "c2.qcom", "c2.exynos", "c2.mtk")
+        val HW_MARKERS = listOf(".hw.", ".qcom.", ".qti.", ".exynos.", ".mtk.", "omx.qcom", "omx.sec", "c2.qti", "c2.qcom", "c2.exynos", "c2.mtk")
 
-        private val SOFTWARE_SELECTOR = MediaCodecSelector { mimeType, requiresSecureDecoder, requiresTunnelingDecoder ->
+        val SOFTWARE_SELECTOR = MediaCodecSelector { mimeType, requiresSecureDecoder, requiresTunnelingDecoder ->
             MediaCodecSelector.DEFAULT
                 .getDecoderInfos(mimeType, requiresSecureDecoder, requiresTunnelingDecoder)
                 .filter { info ->
