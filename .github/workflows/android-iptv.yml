@@ -24,7 +24,21 @@ jobs:
         working-directory: android
         run: |
           chmod +x gradlew
-          ./gradlew assembleDebug --stacktrace
+          set -o pipefail
+          ./gradlew assembleDebug --stacktrace --console=plain 2>&1 | tee /tmp/build.log
+      - name: Post build log tail on failure
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          {
+            echo '```'
+            grep -E "e: |error:|FAILURE|Caused by|What went wrong" -A 3 /tmp/build.log | head -120
+            echo '```'
+          } > /tmp/tail.md
+          gh api "repos/${GITHUB_REPOSITORY}/commits/${GITHUB_SHA}/comments" \
+            -f body="❌ Build log tail:
+          $(cat /tmp/tail.md)" || true
       - uses: actions/upload-artifact@v4
         with:
           name: DF-IPTV-07-debug-APK
