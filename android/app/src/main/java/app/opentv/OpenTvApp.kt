@@ -9,6 +9,8 @@ import android.app.Application
 import android.content.Context
 import app.opentv.core.LocaleUtils
 import app.opentv.core.ServiceLocator
+import app.opentv.data.model.Source
+import app.opentv.data.model.SourceKind
 import app.opentv.data.repo.CatalogRepository
 import app.opentv.data.work.SyncWorker
 import coil.ImageLoader
@@ -60,6 +62,32 @@ class OpenTvApp : Application(), ImageLoaderFactory {
         super.onCreate()
         val graph = ServiceLocator.get(this)
         SyncWorker.schedule(this)
+
+        // DF IPTV_07 ships with the public playlists maintained in the DF_IPTV repository.
+        // Add them once on first launch. They stay ordinary editable providers afterwards, so the
+        // user can disable/remove them and add personal M3U, Xtream or Stalker sources.
+        appScope.launch {
+            val prefs = getSharedPreferences("df_iptv_07", MODE_PRIVATE)
+            if (!prefs.getBoolean("bundled_playlists_added_v1", false)) {
+                val base = "https://raw.githubusercontent.com/Dolov07KBR/DF_IPTV/main/"
+                val presets = listOf(
+                    "DF IPTV — Основной" to "DF_IPTV.m3u",
+                    "DF IPTV — Подборка 07" to "07.m3u",
+                    "DF IPTV — Подборка 10" to "10.m3u",
+                    "DF IPTV — Подборка 11" to "11.m3u",
+                    "DF IPTV — Подборка 12" to "12.m3u",
+                    "DF IPTV — Фильмы" to "film.m3u",
+                )
+                presets.forEach { (name, file) ->
+                    runCatching {
+                        val source = Source(name = name, kind = SourceKind.M3U, url = base + file)
+                        val id = graph.sourceRepository.save(source)
+                        graph.catalogRepository.syncLive(source.copy(id = id), System.currentTimeMillis())
+                    }
+                }
+                prefs.edit().putBoolean("bundled_playlists_added_v1", true).apply()
+            }
+        }
 
         // When the normaliser has moved on since the catalogue was last processed, re-clean
         // the stored channels and re-run the guide matcher — locally, no re-download. This
