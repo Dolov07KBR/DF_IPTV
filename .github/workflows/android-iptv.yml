@@ -1,7 +1,9 @@
 name: Build DF IPTV_07 APK
 on:
   push:
-    branches: [main]
+    branches: [main, 'arena/**']
+    paths: ['android/**', '.github/workflows/android-iptv.yml']
+  pull_request:
     paths: ['android/**', '.github/workflows/android-iptv.yml']
   workflow_dispatch:
 permissions:
