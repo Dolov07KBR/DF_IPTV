@@ -279,7 +279,7 @@ private fun Root() {
                             ),
                         )
                     }
-                    // Пункт «Ещё» — Настройки, Родительский контроль, О приложении
+                    // Пункт «Ещё»
                     Box {
                         NavigationBarItem(
                             selected = section in listOf(Section.SETTINGS, Section.PARENTAL, Section.ABOUT),
@@ -295,6 +295,8 @@ private fun Root() {
                                 unselectedTextColor = DfBrand.Muted,
                             ),
                         )
+                        // DropdownMenu якоряется к Box и открывается вверх,
+                        // чтобы не перекрывать панель навигации.
                         DropdownMenu(
                             expanded = moreMenu,
                             onDismissRequest = { moreMenu = false },
