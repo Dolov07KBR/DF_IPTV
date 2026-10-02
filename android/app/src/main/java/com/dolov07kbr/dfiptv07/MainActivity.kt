@@ -4,7 +4,9 @@ import android.content.Context
 import android.content.Intent
 import android.content.res.Configuration
 import android.os.Bundle
+import android.widget.Toast
 import androidx.activity.ComponentActivity
+import androidx.activity.compose.BackHandler
 import androidx.activity.compose.setContent
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Box
@@ -20,10 +22,13 @@ import androidx.compose.material.icons.filled.Home
 import androidx.compose.material.icons.filled.Info
 import androidx.compose.material.icons.filled.LiveTv
 import androidx.compose.material.icons.filled.Lock
+import androidx.compose.material.icons.filled.MoreVert
 import androidx.compose.material.icons.filled.PlaylistPlay
 import androidx.compose.material.icons.filled.Search
 import androidx.compose.material.icons.filled.Settings
 import androidx.compose.material.icons.filled.Star
+import androidx.compose.material3.DropdownMenu
+import androidx.compose.material3.DropdownMenuItem
 import androidx.compose.material3.Icon
 import androidx.compose.material3.NavigationBar
 import androidx.compose.material3.NavigationBarItem
@@ -35,12 +40,12 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.DisposableEffect
 import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableLongStateOf
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.graphics.Brush
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.platform.LocalContext
@@ -66,11 +71,12 @@ import com.dolov07kbr.dfiptv07.ui.GradientText
 import com.dolov07kbr.dfiptv07.ui.HomeScreen
 import com.dolov07kbr.dfiptv07.ui.MutedText
 import com.dolov07kbr.dfiptv07.ui.ParentalScreen
-import com.dolov07kbr.dfiptv07.ui.PinDialog
 import com.dolov07kbr.dfiptv07.ui.PlaylistsScreen
+import com.dolov07kbr.dfiptv07.ui.PinDialog
 import com.dolov07kbr.dfiptv07.ui.SearchScreen
 import com.dolov07kbr.dfiptv07.ui.SectionTitle
 import com.dolov07kbr.dfiptv07.ui.SettingsScreen
+import kotlinx.coroutines.launch
 
 private enum class Section(val title: String, val icon: ImageVector) {
     HOME("Главная", Icons.Default.Home),
@@ -117,6 +123,8 @@ private fun Root() {
     var autoRefresh by remember { mutableStateOf(Df.store.autoRefresh) }
     var epgUrl by remember { mutableStateOf(Df.store.epgUrl) }
     var pinGate by remember { mutableStateOf<Channel?>(null) }
+    var moreMenu by remember { mutableStateOf(false) }
+    var backPressedAt by remember { mutableLongStateOf(0L) }
 
     val lifecycle = LocalLifecycleOwner.current.lifecycle
     DisposableEffect(lifecycle) {
@@ -138,9 +146,43 @@ private fun Root() {
         if (Df.store.isLocked(ch)) pinGate = ch else startPlayer(context, ch)
     }
 
+    // Обработка системной кнопки «Назад»:
+    //  - в под-разделе настроек → вернуться в Настройки;
+    //  - не на Главной → на Главную;
+    //  - на Главной → выйти (двойное нажатие для защиты от случайности).
+    BackHandler {
+        when {
+            section == Section.PARENTAL || section == Section.ABOUT -> section = Section.SETTINGS
+            section != Section.HOME -> {
+                section = Section.HOME
+                selectedPlaylist = null
+                group = null
+            }
+            else -> {
+                val now = System.currentTimeMillis()
+                if (now - backPressedAt < 2000) {
+                    (context as? ComponentActivity)?.finish()
+                } else {
+                    backPressedAt = now
+                    Toast.makeText(context, "Нажмите ещё раз для выхода", Toast.LENGTH_SHORT).show()
+                }
+            }
+        }
+    }
+
     val lockedGroups = remember(favs, repo) { Df.store.lockedGroups() }
-    val railItems = listOf(Section.HOME, Section.CHANNELS, Section.FAVORITES, Section.PLAYLISTS, Section.SEARCH, Section.SETTINGS, Section.PARENTAL, Section.ABOUT)
-    val barItems = listOf(Section.HOME, Section.CHANNELS, Section.FAVORITES, Section.SEARCH, Section.SETTINGS)
+    val railItems = listOf(
+        Section.HOME, Section.CHANNELS, Section.FAVORITES, Section.PLAYLISTS,
+        Section.SEARCH, Section.SETTINGS, Section.PARENTAL, Section.ABOUT,
+    )
+    // На узких экранах 5 основных вкладок + «Ещё» выпадающим меню
+    val barItems = listOf(Section.HOME, Section.CHANNELS, Section.FAVORITES, Section.PLAYLISTS, Section.SEARCH)
+
+    fun goToPlaylist(p: Playlist) {
+        selectedPlaylist = p
+        group = null
+        section = Section.CHANNELS
+    }
 
     BoxWithConstraints(modifier = Modifier.fillMaxSize().background(DfBrand.Bg)) {
         val wide = maxWidth >= 840.dp || context.isTv()
@@ -181,7 +223,7 @@ private fun Root() {
                     onSection = { section = it },
                     repo = repo,
                     selectedPlaylist = selectedPlaylist,
-                    onSelectPlaylist = { selectedPlaylist = it; group = null; section = Section.CHANNELS },
+                    onSelectPlaylist = { goToPlaylist(it) },
                     group = group,
                     onGroup = { group = it },
                     favs = favs,
@@ -204,7 +246,7 @@ private fun Root() {
                     onSection = { section = it },
                     repo = repo,
                     selectedPlaylist = selectedPlaylist,
-                    onSelectPlaylist = { selectedPlaylist = it; group = null; section = Section.CHANNELS },
+                    onSelectPlaylist = { goToPlaylist(it) },
                     group = group,
                     onGroup = { group = it },
                     favs = favs,
@@ -223,7 +265,7 @@ private fun Root() {
                 NavigationBar(containerColor = Color(0xE60E1630)) {
                     barItems.forEach { item ->
                         NavigationBarItem(
-                            selected = section == item || (item == Section.SETTINGS && section in listOf(Section.PARENTAL, Section.ABOUT)),
+                            selected = section == item,
                             onClick = { section = item },
                             icon = { Icon(item.icon, item.title) },
                             label = { Text(item.title, fontSize = 11.sp) },
@@ -236,6 +278,43 @@ private fun Root() {
                                 unselectedTextColor = DfBrand.Muted,
                             ),
                         )
+                    }
+                    // Пункт «Ещё» — Настройки, Родительский контроль, О приложении
+                    Box {
+                        NavigationBarItem(
+                            selected = section in listOf(Section.SETTINGS, Section.PARENTAL, Section.ABOUT),
+                            onClick = { moreMenu = true },
+                            icon = { Icon(Icons.Default.MoreVert, "Ещё") },
+                            label = { Text("Ещё", fontSize = 11.sp) },
+                            alwaysShowLabel = true,
+                            colors = NavigationBarItemDefaults.colors(
+                                selectedIconColor = DfBrand.Cyan,
+                                selectedTextColor = DfBrand.Text,
+                                indicatorColor = Color(0xFF283477),
+                                unselectedIconColor = DfBrand.Muted,
+                                unselectedTextColor = DfBrand.Muted,
+                            ),
+                        )
+                        DropdownMenu(
+                            expanded = moreMenu,
+                            onDismissRequest = { moreMenu = false },
+                        ) {
+                            DropdownMenuItem(
+                                text = { Text("Настройки", color = if (section == Section.SETTINGS) DfBrand.Cyan else DfBrand.Text) },
+                                leadingIcon = { Icon(Icons.Default.Settings, null, tint = if (section == Section.SETTINGS) DfBrand.Cyan else DfBrand.Muted) },
+                                onClick = { section = Section.SETTINGS; moreMenu = false },
+                            )
+                            DropdownMenuItem(
+                                text = { Text("Родительский контроль", color = if (section == Section.PARENTAL) DfBrand.Cyan else DfBrand.Text) },
+                                leadingIcon = { Icon(Icons.Default.Lock, null, tint = if (section == Section.PARENTAL) DfBrand.Cyan else DfBrand.Muted) },
+                                onClick = { section = Section.PARENTAL; moreMenu = false },
+                            )
+                            DropdownMenuItem(
+                                text = { Text("О приложении", color = if (section == Section.ABOUT) DfBrand.Cyan else DfBrand.Text) },
+                                leadingIcon = { Icon(Icons.Default.Info, null, tint = if (section == Section.ABOUT) DfBrand.Cyan else DfBrand.Muted) },
+                                onClick = { section = Section.ABOUT; moreMenu = false },
+                            )
+                        }
                     }
                 }
             }
