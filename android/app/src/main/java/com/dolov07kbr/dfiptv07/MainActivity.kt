@@ -22,13 +22,10 @@ import androidx.compose.material.icons.filled.Home
 import androidx.compose.material.icons.filled.Info
 import androidx.compose.material.icons.filled.LiveTv
 import androidx.compose.material.icons.filled.Lock
-import androidx.compose.material.icons.filled.MoreVert
 import androidx.compose.material.icons.filled.PlaylistPlay
 import androidx.compose.material.icons.filled.Search
 import androidx.compose.material.icons.filled.Settings
 import androidx.compose.material.icons.filled.Star
-import androidx.compose.material3.DropdownMenu
-import androidx.compose.material3.DropdownMenuItem
 import androidx.compose.material3.Icon
 import androidx.compose.material3.NavigationBar
 import androidx.compose.material3.NavigationBarItem
@@ -123,7 +120,6 @@ private fun Root() {
     var autoRefresh by remember { mutableStateOf(Df.store.autoRefresh) }
     var epgUrl by remember { mutableStateOf(Df.store.epgUrl) }
     var pinGate by remember { mutableStateOf<Channel?>(null) }
-    var moreMenu by remember { mutableStateOf(false) }
     var backPressedAt by remember { mutableLongStateOf(0L) }
 
     val lifecycle = LocalLifecycleOwner.current.lifecycle
@@ -263,9 +259,10 @@ private fun Root() {
                     modifier = Modifier.weight(1f),
                 )
                 NavigationBar(containerColor = Color(0xE60E1630)) {
-                    barItems.forEach { item ->
+                    val phoneItems = barItems + Section.SETTINGS
+                    phoneItems.forEach { item ->
                         NavigationBarItem(
-                            selected = section == item,
+                            selected = section == item || (item == Section.SETTINGS && section in listOf(Section.PARENTAL, Section.ABOUT)),
                             onClick = { section = item },
                             icon = { Icon(item.icon, item.title) },
                             label = { Text(item.title, fontSize = 11.sp) },
@@ -278,45 +275,6 @@ private fun Root() {
                                 unselectedTextColor = DfBrand.Muted,
                             ),
                         )
-                    }
-                    // Пункт «Ещё»
-                    Box {
-                        NavigationBarItem(
-                            selected = section in listOf(Section.SETTINGS, Section.PARENTAL, Section.ABOUT),
-                            onClick = { moreMenu = true },
-                            icon = { Icon(Icons.Default.MoreVert, "Ещё") },
-                            label = { Text("Ещё", fontSize = 11.sp) },
-                            alwaysShowLabel = true,
-                            colors = NavigationBarItemDefaults.colors(
-                                selectedIconColor = DfBrand.Cyan,
-                                selectedTextColor = DfBrand.Text,
-                                indicatorColor = Color(0xFF283477),
-                                unselectedIconColor = DfBrand.Muted,
-                                unselectedTextColor = DfBrand.Muted,
-                            ),
-                        )
-                        // DropdownMenu якоряется к Box и открывается вверх,
-                        // чтобы не перекрывать панель навигации.
-                        DropdownMenu(
-                            expanded = moreMenu,
-                            onDismissRequest = { moreMenu = false },
-                        ) {
-                            DropdownMenuItem(
-                                text = { Text("Настройки", color = if (section == Section.SETTINGS) DfBrand.Cyan else DfBrand.Text) },
-                                leadingIcon = { Icon(Icons.Default.Settings, null, tint = if (section == Section.SETTINGS) DfBrand.Cyan else DfBrand.Muted) },
-                                onClick = { section = Section.SETTINGS; moreMenu = false },
-                            )
-                            DropdownMenuItem(
-                                text = { Text("Родительский контроль", color = if (section == Section.PARENTAL) DfBrand.Cyan else DfBrand.Text) },
-                                leadingIcon = { Icon(Icons.Default.Lock, null, tint = if (section == Section.PARENTAL) DfBrand.Cyan else DfBrand.Muted) },
-                                onClick = { section = Section.PARENTAL; moreMenu = false },
-                            )
-                            DropdownMenuItem(
-                                text = { Text("О приложении", color = if (section == Section.ABOUT) DfBrand.Cyan else DfBrand.Text) },
-                                leadingIcon = { Icon(Icons.Default.Info, null, tint = if (section == Section.ABOUT) DfBrand.Cyan else DfBrand.Muted) },
-                                onClick = { section = Section.ABOUT; moreMenu = false },
-                            )
-                        }
                     }
                 }
             }
